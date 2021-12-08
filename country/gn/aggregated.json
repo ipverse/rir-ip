@@ -1,7 +1,7 @@
 {
   "country": "Guinea",
-  "countryCode": "GN",
-  "delegationStatus": [
+  "country-code": "GN",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

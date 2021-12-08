@@ -1,7 +1,7 @@
 {
   "country": "Brunei",
-  "countryCode": "BN",
-  "delegationStatus": [
+  "country-code": "BN",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

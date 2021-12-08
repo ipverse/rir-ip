@@ -1,7 +1,7 @@
 {
   "country": "Grenada",
-  "countryCode": "GD",
-  "delegationStatus": [
+  "country-code": "GD",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

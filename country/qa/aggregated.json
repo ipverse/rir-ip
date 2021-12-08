@@ -1,7 +1,7 @@
 {
   "country": "Qatar",
-  "countryCode": "QA",
-  "delegationStatus": [
+  "country-code": "QA",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

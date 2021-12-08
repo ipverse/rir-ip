@@ -1,7 +1,7 @@
 {
   "country": "Mongolia",
-  "countryCode": "MN",
-  "delegationStatus": [
+  "country-code": "MN",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

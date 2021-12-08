@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "countryCode": "PA",
-  "delegationStatus": [
+  "country-code": "PA",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

@@ -1,7 +1,7 @@
 {
   "country": "Côte d’Ivoire",
-  "countryCode": "CI",
-  "delegationStatus": [
+  "country-code": "CI",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

@@ -1,7 +1,7 @@
 {
   "country": "China",
-  "countryCode": "CN",
-  "delegationStatus": [
+  "country-code": "CN",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

@@ -1,7 +1,7 @@
 {
   "country": "Fiji",
-  "countryCode": "FJ",
-  "delegationStatus": [
+  "country-code": "FJ",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

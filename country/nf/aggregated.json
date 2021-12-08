@@ -1,7 +1,7 @@
 {
   "country": "Norfolk Island",
-  "countryCode": "NF",
-  "delegationStatus": [
+  "country-code": "NF",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

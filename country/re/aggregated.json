@@ -1,7 +1,7 @@
 {
   "country": "Réunion",
-  "countryCode": "RE",
-  "delegationStatus": [
+  "country-code": "RE",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

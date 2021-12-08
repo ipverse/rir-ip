@@ -1,7 +1,7 @@
 {
   "country": "Antigua \u0026 Barbuda",
-  "countryCode": "AG",
-  "delegationStatus": [
+  "country-code": "AG",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

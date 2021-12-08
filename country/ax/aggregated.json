@@ -1,7 +1,7 @@
 {
   "country": "Åland Islands",
-  "countryCode": "AX",
-  "delegationStatus": [
+  "country-code": "AX",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

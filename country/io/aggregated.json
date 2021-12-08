@@ -1,7 +1,7 @@
 {
   "country": "British Indian Ocean Territory",
-  "countryCode": "IO",
-  "delegationStatus": [
+  "country-code": "IO",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

@@ -1,7 +1,7 @@
 {
   "country": "Caribbean Netherlands",
-  "countryCode": "BQ",
-  "delegationStatus": [
+  "country-code": "BQ",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

@@ -1,7 +1,7 @@
 {
   "country": "Germany",
-  "countryCode": "DE",
-  "delegationStatus": [
+  "country-code": "DE",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

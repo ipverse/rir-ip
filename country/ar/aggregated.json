@@ -1,7 +1,7 @@
 {
   "country": "Argentina",
-  "countryCode": "AR",
-  "delegationStatus": [
+  "country-code": "AR",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

@@ -1,7 +1,7 @@
 {
   "country": "Gibraltar",
-  "countryCode": "GI",
-  "delegationStatus": [
+  "country-code": "GI",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

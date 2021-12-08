@@ -1,7 +1,7 @@
 {
   "country": "Ethiopia",
-  "countryCode": "ET",
-  "delegationStatus": [
+  "country-code": "ET",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

@@ -1,7 +1,7 @@
 {
   "country": "Gabon",
-  "countryCode": "GA",
-  "delegationStatus": [
+  "country-code": "GA",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

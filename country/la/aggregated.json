@@ -1,7 +1,7 @@
 {
   "country": "Laos",
-  "countryCode": "LA",
-  "delegationStatus": [
+  "country-code": "LA",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

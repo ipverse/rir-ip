@@ -1,7 +1,7 @@
 {
   "country": "Serbia",
-  "countryCode": "RS",
-  "delegationStatus": [
+  "country-code": "RS",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

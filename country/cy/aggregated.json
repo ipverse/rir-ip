@@ -1,7 +1,7 @@
 {
   "country": "Cyprus",
-  "countryCode": "CY",
-  "delegationStatus": [
+  "country-code": "CY",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

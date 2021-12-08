@@ -1,7 +1,7 @@
 {
   "country": "Northern Mariana Islands",
-  "countryCode": "MP",
-  "delegationStatus": [
+  "country-code": "MP",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

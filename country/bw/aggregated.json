@@ -1,7 +1,7 @@
 {
   "country": "Botswana",
-  "countryCode": "BW",
-  "delegationStatus": [
+  "country-code": "BW",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

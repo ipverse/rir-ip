@@ -1,7 +1,7 @@
 {
   "country": "Estonia",
-  "countryCode": "EE",
-  "delegationStatus": [
+  "country-code": "EE",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

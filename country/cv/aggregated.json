@@ -1,7 +1,7 @@
 {
   "country": "Cape Verde",
-  "countryCode": "CV",
-  "delegationStatus": [
+  "country-code": "CV",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

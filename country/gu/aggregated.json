@@ -1,7 +1,7 @@
 {
   "country": "Guam",
-  "countryCode": "GU",
-  "delegationStatus": [
+  "country-code": "GU",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

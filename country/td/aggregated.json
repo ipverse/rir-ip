@@ -1,7 +1,7 @@
 {
   "country": "Chad",
-  "countryCode": "TD",
-  "delegationStatus": [
+  "country-code": "TD",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

@@ -1,7 +1,7 @@
 {
   "country": "Tunisia",
-  "countryCode": "TN",
-  "delegationStatus": [
+  "country-code": "TN",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

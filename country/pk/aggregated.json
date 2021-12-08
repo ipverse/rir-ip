@@ -1,7 +1,7 @@
 {
   "country": "Pakistan",
-  "countryCode": "PK",
-  "delegationStatus": [
+  "country-code": "PK",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

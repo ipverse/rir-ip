@@ -1,7 +1,7 @@
 {
   "country": "Singapore",
-  "countryCode": "SG",
-  "delegationStatus": [
+  "country-code": "SG",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

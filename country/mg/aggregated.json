@@ -1,7 +1,7 @@
 {
   "country": "Madagascar",
-  "countryCode": "MG",
-  "delegationStatus": [
+  "country-code": "MG",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

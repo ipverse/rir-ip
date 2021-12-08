@@ -1,7 +1,7 @@
 {
   "country": "Benin",
-  "countryCode": "BJ",
-  "delegationStatus": [
+  "country-code": "BJ",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

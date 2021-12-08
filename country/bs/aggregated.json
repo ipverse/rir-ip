@@ -1,7 +1,7 @@
 {
   "country": "Bahamas",
-  "countryCode": "BS",
-  "delegationStatus": [
+  "country-code": "BS",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

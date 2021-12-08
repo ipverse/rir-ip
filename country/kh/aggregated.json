@@ -1,7 +1,7 @@
 {
   "country": "Cambodia",
-  "countryCode": "KH",
-  "delegationStatus": [
+  "country-code": "KH",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

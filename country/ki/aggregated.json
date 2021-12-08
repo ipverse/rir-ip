@@ -1,7 +1,7 @@
 {
   "country": "Kiribati",
-  "countryCode": "KI",
-  "delegationStatus": [
+  "country-code": "KI",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

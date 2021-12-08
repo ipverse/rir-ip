@@ -1,7 +1,7 @@
 {
   "country": "Uganda",
-  "countryCode": "UG",
-  "delegationStatus": [
+  "country-code": "UG",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

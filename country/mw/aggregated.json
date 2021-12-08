@@ -1,7 +1,7 @@
 {
   "country": "Malawi",
-  "countryCode": "MW",
-  "delegationStatus": [
+  "country-code": "MW",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

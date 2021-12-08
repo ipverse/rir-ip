@@ -1,7 +1,7 @@
 {
   "country": "Albania",
-  "countryCode": "AL",
-  "delegationStatus": [
+  "country-code": "AL",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

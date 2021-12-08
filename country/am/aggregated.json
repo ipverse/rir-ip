@@ -1,7 +1,7 @@
 {
   "country": "Armenia",
-  "countryCode": "AM",
-  "delegationStatus": [
+  "country-code": "AM",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

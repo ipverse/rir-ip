@@ -1,7 +1,7 @@
 {
   "country": "Taiwan",
-  "countryCode": "TW",
-  "delegationStatus": [
+  "country-code": "TW",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

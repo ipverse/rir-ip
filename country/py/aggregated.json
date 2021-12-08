@@ -1,7 +1,7 @@
 {
   "country": "Paraguay",
-  "countryCode": "PY",
-  "delegationStatus": [
+  "country-code": "PY",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

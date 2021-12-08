@@ -1,7 +1,7 @@
 {
   "country": "Mali",
-  "countryCode": "ML",
-  "delegationStatus": [
+  "country-code": "ML",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

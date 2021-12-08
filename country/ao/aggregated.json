@@ -1,7 +1,7 @@
 {
   "country": "Angola",
-  "countryCode": "AO",
-  "delegationStatus": [
+  "country-code": "AO",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

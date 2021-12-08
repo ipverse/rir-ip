@@ -1,7 +1,7 @@
 {
   "country": "Luxembourg",
-  "countryCode": "LU",
-  "delegationStatus": [
+  "country-code": "LU",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

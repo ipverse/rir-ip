@@ -1,7 +1,7 @@
 {
   "country": "Jordan",
-  "countryCode": "JO",
-  "delegationStatus": [
+  "country-code": "JO",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

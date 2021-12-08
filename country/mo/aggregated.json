@@ -1,7 +1,7 @@
 {
   "country": "Macao SAR China",
-  "countryCode": "MO",
-  "delegationStatus": [
+  "country-code": "MO",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

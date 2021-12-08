@@ -1,7 +1,7 @@
 {
   "country": "Portugal",
-  "countryCode": "PT",
-  "delegationStatus": [
+  "country-code": "PT",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

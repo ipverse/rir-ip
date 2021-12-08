@@ -1,7 +1,7 @@
 {
   "country": "Venezuela",
-  "countryCode": "VE",
-  "delegationStatus": [
+  "country-code": "VE",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

@@ -1,7 +1,7 @@
 {
   "country": "New Caledonia",
-  "countryCode": "NC",
-  "delegationStatus": [
+  "country-code": "NC",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

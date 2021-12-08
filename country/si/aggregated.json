@@ -1,7 +1,7 @@
 {
   "country": "Slovenia",
-  "countryCode": "SI",
-  "delegationStatus": [
+  "country-code": "SI",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

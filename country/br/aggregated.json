@@ -1,7 +1,7 @@
 {
   "country": "Brazil",
-  "countryCode": "BR",
-  "delegationStatus": [
+  "country-code": "BR",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

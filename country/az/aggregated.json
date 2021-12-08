@@ -1,7 +1,7 @@
 {
   "country": "Azerbaijan",
-  "countryCode": "AZ",
-  "delegationStatus": [
+  "country-code": "AZ",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

@@ -1,7 +1,7 @@
 {
   "country": "Niue",
-  "countryCode": "NU",
-  "delegationStatus": [
+  "country-code": "NU",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

@@ -1,7 +1,7 @@
 {
   "country": "United Kingdom",
-  "countryCode": "GB",
-  "delegationStatus": [
+  "country-code": "GB",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

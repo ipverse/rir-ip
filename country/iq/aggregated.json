@@ -1,7 +1,7 @@
 {
   "country": "Iraq",
-  "countryCode": "IQ",
-  "delegationStatus": [
+  "country-code": "IQ",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

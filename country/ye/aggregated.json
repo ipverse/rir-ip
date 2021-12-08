@@ -1,7 +1,7 @@
 {
   "country": "Yemen",
-  "countryCode": "YE",
-  "delegationStatus": [
+  "country-code": "YE",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

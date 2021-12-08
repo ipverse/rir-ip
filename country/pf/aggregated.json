@@ -1,7 +1,7 @@
 {
   "country": "French Polynesia",
-  "countryCode": "PF",
-  "delegationStatus": [
+  "country-code": "PF",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

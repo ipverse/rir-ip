@@ -1,7 +1,7 @@
 {
   "country": "Mayotte",
-  "countryCode": "YT",
-  "delegationStatus": [
+  "country-code": "YT",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

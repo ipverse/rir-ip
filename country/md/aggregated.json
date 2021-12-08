@@ -1,7 +1,7 @@
 {
   "country": "Moldova",
-  "countryCode": "MD",
-  "delegationStatus": [
+  "country-code": "MD",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

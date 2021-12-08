@@ -1,7 +1,7 @@
 {
   "country": "Belarus",
-  "countryCode": "BY",
-  "delegationStatus": [
+  "country-code": "BY",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

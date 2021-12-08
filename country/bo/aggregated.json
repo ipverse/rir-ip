@@ -1,7 +1,7 @@
 {
   "country": "Bolivia",
-  "countryCode": "BO",
-  "delegationStatus": [
+  "country-code": "BO",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

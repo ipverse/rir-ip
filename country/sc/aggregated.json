@@ -1,7 +1,7 @@
 {
   "country": "Seychelles",
-  "countryCode": "SC",
-  "delegationStatus": [
+  "country-code": "SC",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

@@ -1,7 +1,7 @@
 {
   "country": "Monaco",
-  "countryCode": "MC",
-  "delegationStatus": [
+  "country-code": "MC",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

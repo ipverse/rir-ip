@@ -1,7 +1,7 @@
 {
   "country": "Netherlands",
-  "countryCode": "NL",
-  "delegationStatus": [
+  "country-code": "NL",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

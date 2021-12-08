@@ -1,7 +1,7 @@
 {
   "country": "Mauritius",
-  "countryCode": "MU",
-  "delegationStatus": [
+  "country-code": "MU",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

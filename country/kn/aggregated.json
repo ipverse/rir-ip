@@ -1,7 +1,7 @@
 {
   "country": "St. Kitts \u0026 Nevis",
-  "countryCode": "KN",
-  "delegationStatus": [
+  "country-code": "KN",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

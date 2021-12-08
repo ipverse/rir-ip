@@ -1,7 +1,7 @@
 {
   "country": "Thailand",
-  "countryCode": "TH",
-  "delegationStatus": [
+  "country-code": "TH",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

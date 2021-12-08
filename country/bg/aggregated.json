@@ -1,7 +1,7 @@
 {
   "country": "Bulgaria",
-  "countryCode": "BG",
-  "delegationStatus": [
+  "country-code": "BG",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

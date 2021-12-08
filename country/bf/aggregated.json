@@ -1,7 +1,7 @@
 {
   "country": "Burkina Faso",
-  "countryCode": "BF",
-  "delegationStatus": [
+  "country-code": "BF",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

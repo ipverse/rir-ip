@@ -1,7 +1,7 @@
 {
   "country": "Comoros",
-  "countryCode": "KM",
-  "delegationStatus": [
+  "country-code": "KM",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

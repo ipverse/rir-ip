@@ -1,7 +1,7 @@
 {
   "country": "Israel",
-  "countryCode": "IL",
-  "delegationStatus": [
+  "country-code": "IL",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

@@ -1,7 +1,7 @@
 {
   "country": "Philippines",
-  "countryCode": "PH",
-  "delegationStatus": [
+  "country-code": "PH",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

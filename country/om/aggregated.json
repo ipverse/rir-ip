@@ -1,7 +1,7 @@
 {
   "country": "Oman",
-  "countryCode": "OM",
-  "delegationStatus": [
+  "country-code": "OM",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

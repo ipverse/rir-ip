@@ -1,7 +1,7 @@
 {
   "country": "South Korea",
-  "countryCode": "KR",
-  "delegationStatus": [
+  "country-code": "KR",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

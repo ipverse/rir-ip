@@ -1,7 +1,7 @@
 {
   "country": "Namibia",
-  "countryCode": "NA",
-  "delegationStatus": [
+  "country-code": "NA",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

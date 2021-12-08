@@ -1,7 +1,7 @@
 {
   "country": "Guernsey",
-  "countryCode": "GG",
-  "delegationStatus": [
+  "country-code": "GG",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

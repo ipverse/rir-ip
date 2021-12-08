@@ -1,7 +1,7 @@
 {
   "country": "Andorra",
-  "countryCode": "AD",
-  "delegationStatus": [
+  "country-code": "AD",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

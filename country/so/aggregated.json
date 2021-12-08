@@ -1,7 +1,7 @@
 {
   "country": "Somalia",
-  "countryCode": "SO",
-  "delegationStatus": [
+  "country-code": "SO",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

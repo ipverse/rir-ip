@@ -1,7 +1,7 @@
 {
   "country": "Ukraine",
-  "countryCode": "UA",
-  "delegationStatus": [
+  "country-code": "UA",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

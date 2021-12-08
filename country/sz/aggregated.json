@@ -1,7 +1,7 @@
 {
   "country": "Eswatini",
-  "countryCode": "SZ",
-  "delegationStatus": [
+  "country-code": "SZ",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

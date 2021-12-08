@@ -1,7 +1,7 @@
 {
   "country": "Dominica",
-  "countryCode": "DM",
-  "delegationStatus": [
+  "country-code": "DM",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

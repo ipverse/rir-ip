@@ -1,7 +1,7 @@
 {
   "country": "Myanmar (Burma)",
-  "countryCode": "MM",
-  "delegationStatus": [
+  "country-code": "MM",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

@@ -1,7 +1,7 @@
 {
   "country": "Sierra Leone",
-  "countryCode": "SL",
-  "delegationStatus": [
+  "country-code": "SL",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

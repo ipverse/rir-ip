@@ -1,7 +1,7 @@
 {
   "country": "St. Vincent \u0026 Grenadines",
-  "countryCode": "VC",
-  "delegationStatus": [
+  "country-code": "VC",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

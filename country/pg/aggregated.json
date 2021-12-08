@@ -1,7 +1,7 @@
 {
   "country": "Papua New Guinea",
-  "countryCode": "PG",
-  "delegationStatus": [
+  "country-code": "PG",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

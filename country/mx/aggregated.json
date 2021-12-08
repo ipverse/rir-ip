@@ -1,7 +1,7 @@
 {
   "country": "Mexico",
-  "countryCode": "MX",
-  "delegationStatus": [
+  "country-code": "MX",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

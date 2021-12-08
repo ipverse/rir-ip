@@ -1,7 +1,7 @@
 {
   "country": "Curaçao",
-  "countryCode": "CW",
-  "delegationStatus": [
+  "country-code": "CW",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

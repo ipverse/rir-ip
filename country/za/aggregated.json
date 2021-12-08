@@ -1,7 +1,7 @@
 {
   "country": "South Africa",
-  "countryCode": "ZA",
-  "delegationStatus": [
+  "country-code": "ZA",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

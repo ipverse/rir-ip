@@ -1,7 +1,7 @@
 {
   "country": "Mauritania",
-  "countryCode": "MR",
-  "delegationStatus": [
+  "country-code": "MR",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

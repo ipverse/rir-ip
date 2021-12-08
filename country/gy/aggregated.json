@@ -1,7 +1,7 @@
 {
   "country": "Guyana",
-  "countryCode": "GY",
-  "delegationStatus": [
+  "country-code": "GY",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

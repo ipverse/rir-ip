@@ -1,7 +1,7 @@
 {
   "country": "Nigeria",
-  "countryCode": "NG",
-  "delegationStatus": [
+  "country-code": "NG",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

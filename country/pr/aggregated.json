@@ -1,7 +1,7 @@
 {
   "country": "Puerto Rico",
-  "countryCode": "PR",
-  "delegationStatus": [
+  "country-code": "PR",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

@@ -1,7 +1,7 @@
 {
   "country": "Samoa",
-  "countryCode": "WS",
-  "delegationStatus": [
+  "country-code": "WS",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

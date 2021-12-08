@@ -1,7 +1,7 @@
 {
   "country": "Peru",
-  "countryCode": "PE",
-  "delegationStatus": [
+  "country-code": "PE",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

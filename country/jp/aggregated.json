@@ -1,7 +1,7 @@
 {
   "country": "Japan",
-  "countryCode": "JP",
-  "delegationStatus": [
+  "country-code": "JP",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

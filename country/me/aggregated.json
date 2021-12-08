@@ -1,7 +1,7 @@
 {
   "country": "Montenegro",
-  "countryCode": "ME",
-  "delegationStatus": [
+  "country-code": "ME",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

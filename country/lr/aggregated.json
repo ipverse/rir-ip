@@ -1,7 +1,7 @@
 {
   "country": "Liberia",
-  "countryCode": "LR",
-  "delegationStatus": [
+  "country-code": "LR",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

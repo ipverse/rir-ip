@@ -1,7 +1,7 @@
 {
   "country": "Tajikistan",
-  "countryCode": "TJ",
-  "delegationStatus": [
+  "country-code": "TJ",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

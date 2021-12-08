@@ -1,7 +1,7 @@
 {
   "country": "Lesotho",
-  "countryCode": "LS",
-  "delegationStatus": [
+  "country-code": "LS",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

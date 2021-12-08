@@ -1,7 +1,7 @@
 {
   "country": "Slovakia",
-  "countryCode": "SK",
-  "delegationStatus": [
+  "country-code": "SK",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

@@ -1,7 +1,7 @@
 {
   "country": "Chile",
-  "countryCode": "CL",
-  "delegationStatus": [
+  "country-code": "CL",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

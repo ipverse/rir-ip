@@ -1,7 +1,7 @@
 {
   "country": "British Virgin Islands",
-  "countryCode": "VG",
-  "delegationStatus": [
+  "country-code": "VG",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

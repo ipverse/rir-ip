@@ -1,7 +1,7 @@
 {
   "country": "Czechia",
-  "countryCode": "CZ",
-  "delegationStatus": [
+  "country-code": "CZ",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

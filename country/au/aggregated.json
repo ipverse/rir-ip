@@ -1,7 +1,7 @@
 {
   "country": "Australia",
-  "countryCode": "AU",
-  "delegationStatus": [
+  "country-code": "AU",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

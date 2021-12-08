@@ -1,7 +1,7 @@
 {
   "country": "Sudan",
-  "countryCode": "SD",
-  "delegationStatus": [
+  "country-code": "SD",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

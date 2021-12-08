@@ -1,7 +1,7 @@
 {
   "country": "Sri Lanka",
-  "countryCode": "LK",
-  "delegationStatus": [
+  "country-code": "LK",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

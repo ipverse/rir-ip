@@ -1,7 +1,7 @@
 {
   "country": "Wallis \u0026 Futuna",
-  "countryCode": "WF",
-  "delegationStatus": [
+  "country-code": "WF",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

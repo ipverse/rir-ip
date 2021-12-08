@@ -1,7 +1,7 @@
 {
   "country": "Ireland",
-  "countryCode": "IE",
-  "delegationStatus": [
+  "country-code": "IE",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

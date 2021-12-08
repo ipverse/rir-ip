@@ -1,7 +1,7 @@
 {
   "country": "Afghanistan",
-  "countryCode": "AF",
-  "delegationStatus": [
+  "country-code": "AF",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

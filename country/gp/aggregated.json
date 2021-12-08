@@ -1,7 +1,7 @@
 {
   "country": "Guadeloupe",
-  "countryCode": "GP",
-  "delegationStatus": [
+  "country-code": "GP",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

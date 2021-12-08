@@ -1,7 +1,7 @@
 {
   "country": "Faroe Islands",
-  "countryCode": "FO",
-  "delegationStatus": [
+  "country-code": "FO",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

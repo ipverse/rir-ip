@@ -1,7 +1,7 @@
 {
   "country": "Sint Maarten",
-  "countryCode": "SX",
-  "delegationStatus": [
+  "country-code": "SX",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

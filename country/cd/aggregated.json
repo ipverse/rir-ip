@@ -1,7 +1,7 @@
 {
   "country": "Congo - Kinshasa",
-  "countryCode": "CD",
-  "delegationStatus": [
+  "country-code": "CD",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

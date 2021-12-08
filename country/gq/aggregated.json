@@ -1,7 +1,7 @@
 {
   "country": "Equatorial Guinea",
-  "countryCode": "GQ",
-  "delegationStatus": [
+  "country-code": "GQ",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

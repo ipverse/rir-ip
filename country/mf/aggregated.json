@@ -1,7 +1,7 @@
 {
   "country": "St. Martin",
-  "countryCode": "MF",
-  "delegationStatus": [
+  "country-code": "MF",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

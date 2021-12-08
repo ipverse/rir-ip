@@ -1,7 +1,7 @@
 {
   "country": "Micronesia",
-  "countryCode": "FM",
-  "delegationStatus": [
+  "country-code": "FM",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

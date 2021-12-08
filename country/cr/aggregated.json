@@ -1,7 +1,7 @@
 {
   "country": "Costa Rica",
-  "countryCode": "CR",
-  "delegationStatus": [
+  "country-code": "CR",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

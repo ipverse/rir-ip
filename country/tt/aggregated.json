@@ -1,7 +1,7 @@
 {
   "country": "Trinidad \u0026 Tobago",
-  "countryCode": "TT",
-  "delegationStatus": [
+  "country-code": "TT",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

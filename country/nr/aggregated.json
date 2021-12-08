@@ -1,7 +1,7 @@
 {
   "country": "Nauru",
-  "countryCode": "NR",
-  "delegationStatus": [
+  "country-code": "NR",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

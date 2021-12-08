@@ -1,7 +1,7 @@
 {
   "country": "Nicaragua",
-  "countryCode": "NI",
-  "delegationStatus": [
+  "country-code": "NI",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

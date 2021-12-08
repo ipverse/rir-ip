@@ -1,7 +1,7 @@
 {
   "country": "Tanzania",
-  "countryCode": "TZ",
-  "delegationStatus": [
+  "country-code": "TZ",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

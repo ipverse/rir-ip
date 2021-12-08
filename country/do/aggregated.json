@@ -1,7 +1,7 @@
 {
   "country": "Dominican Republic",
-  "countryCode": "DO",
-  "delegationStatus": [
+  "country-code": "DO",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

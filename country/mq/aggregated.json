@@ -1,7 +1,7 @@
 {
   "country": "Martinique",
-  "countryCode": "MQ",
-  "delegationStatus": [
+  "country-code": "MQ",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

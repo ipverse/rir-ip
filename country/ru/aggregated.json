@@ -1,7 +1,7 @@
 {
   "country": "Russia",
-  "countryCode": "RU",
-  "delegationStatus": [
+  "country-code": "RU",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

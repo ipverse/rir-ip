@@ -1,7 +1,7 @@
 {
   "country": "Malta",
-  "countryCode": "MT",
-  "delegationStatus": [
+  "country-code": "MT",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

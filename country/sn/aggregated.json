@@ -1,7 +1,7 @@
 {
   "country": "Senegal",
-  "countryCode": "SN",
-  "delegationStatus": [
+  "country-code": "SN",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

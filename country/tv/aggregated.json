@@ -1,7 +1,7 @@
 {
   "country": "Tuvalu",
-  "countryCode": "TV",
-  "delegationStatus": [
+  "country-code": "TV",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

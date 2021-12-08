@@ -1,7 +1,7 @@
 {
   "country": "Barbados",
-  "countryCode": "BB",
-  "delegationStatus": [
+  "country-code": "BB",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

@@ -1,7 +1,7 @@
 {
   "country": "Greenland",
-  "countryCode": "GL",
-  "delegationStatus": [
+  "country-code": "GL",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

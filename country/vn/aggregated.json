@@ -1,7 +1,7 @@
 {
   "country": "Vietnam",
-  "countryCode": "VN",
-  "delegationStatus": [
+  "country-code": "VN",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

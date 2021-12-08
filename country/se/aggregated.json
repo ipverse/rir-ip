@@ -1,7 +1,7 @@
 {
   "country": "Sweden",
-  "countryCode": "SE",
-  "delegationStatus": [
+  "country-code": "SE",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

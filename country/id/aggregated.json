@@ -1,7 +1,7 @@
 {
   "country": "Indonesia",
-  "countryCode": "ID",
-  "delegationStatus": [
+  "country-code": "ID",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

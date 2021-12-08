@@ -1,7 +1,7 @@
 {
   "country": "Honduras",
-  "countryCode": "HN",
-  "delegationStatus": [
+  "country-code": "HN",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

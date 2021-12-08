@@ -1,7 +1,7 @@
 {
   "country": "Cook Islands",
-  "countryCode": "CK",
-  "delegationStatus": [
+  "country-code": "CK",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

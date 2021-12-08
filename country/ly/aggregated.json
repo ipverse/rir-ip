@@ -1,7 +1,7 @@
 {
   "country": "Libya",
-  "countryCode": "LY",
-  "delegationStatus": [
+  "country-code": "LY",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

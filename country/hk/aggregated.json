@@ -1,7 +1,7 @@
 {
   "country": "Hong Kong SAR China",
-  "countryCode": "HK",
-  "delegationStatus": [
+  "country-code": "HK",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

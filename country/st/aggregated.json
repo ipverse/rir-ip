@@ -1,7 +1,7 @@
 {
   "country": "São Tomé \u0026 Príncipe",
-  "countryCode": "ST",
-  "delegationStatus": [
+  "country-code": "ST",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

@@ -1,7 +1,7 @@
 {
   "country": "St. Barthélemy",
-  "countryCode": "BL",
-  "delegationStatus": [
+  "country-code": "BL",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

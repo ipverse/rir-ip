@@ -1,7 +1,7 @@
 {
   "country": "Eritrea",
-  "countryCode": "ER",
-  "delegationStatus": [
+  "country-code": "ER",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

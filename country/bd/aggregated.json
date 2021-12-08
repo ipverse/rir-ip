@@ -1,7 +1,7 @@
 {
   "country": "Bangladesh",
-  "countryCode": "BD",
-  "delegationStatus": [
+  "country-code": "BD",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

@@ -1,7 +1,7 @@
 {
   "country": "Central African Republic",
-  "countryCode": "CF",
-  "delegationStatus": [
+  "country-code": "CF",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

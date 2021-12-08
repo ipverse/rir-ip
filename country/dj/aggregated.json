@@ -1,7 +1,7 @@
 {
   "country": "Djibouti",
-  "countryCode": "DJ",
-  "delegationStatus": [
+  "country-code": "DJ",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

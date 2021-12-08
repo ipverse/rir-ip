@@ -1,7 +1,7 @@
 {
   "country": "St. Pierre \u0026 Miquelon",
-  "countryCode": "PM",
-  "delegationStatus": [
+  "country-code": "PM",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

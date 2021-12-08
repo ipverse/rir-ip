@@ -21,8 +21,8 @@ The resulting JSON will look similar to this:
 ```
 {
   "country": "Timor-Leste",
-  "countryCode": "TL",
-  "delegationStatus": [
+  "country-code": "TL",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],

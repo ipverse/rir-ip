@@ -1,7 +1,7 @@
 {
   "country": "French Guiana",
-  "countryCode": "GF",
-  "delegationStatus": [
+  "country-code": "GF",
+  "delegation-status": [
     "allocated",
     "assigned"
   ],
