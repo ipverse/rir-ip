@@ -2,8 +2,6 @@
 # IP version: IPv4
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: RIPE
-# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/iq/ipv4-aggregated.txt
 #
 2.56.36.0/22
 5.1.104.0/21

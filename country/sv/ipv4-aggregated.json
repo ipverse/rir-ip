@@ -7,8 +7,6 @@
     "assigned"
   ],
   "mode": "aggregated",
-  "source": "LACNIC",
-  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/sv/ipv4-aggregated.json",
   "subnets": [
     "45.5.12.0/24",
     "45.161.24.0/22",

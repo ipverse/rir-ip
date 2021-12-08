@@ -7,8 +7,6 @@
     "assigned"
   ],
   "mode": "aggregated",
-  "source": "AFRINIC",
-  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/cv/ipv4-aggregated.json",
   "subnets": [
     "41.74.128.0/20",
     "41.79.124.0/22",

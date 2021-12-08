@@ -2,8 +2,6 @@
 # IP version: IPv4
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: AFRINIC
-# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ml/ipv4-aggregated.txt
 #
 41.73.96.0/19
 41.203.192.0/20

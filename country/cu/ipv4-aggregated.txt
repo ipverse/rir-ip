@@ -2,8 +2,6 @@
 # IP version: IPv4
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: LACNIC
-# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/cu/ipv4-aggregated.txt
 #
 152.206.0.0/15
 169.158.0.0/16

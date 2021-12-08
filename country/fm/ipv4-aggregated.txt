@@ -2,8 +2,6 @@
 # IP version: IPv4
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: APNIC
-# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/fm/ipv4-aggregated.txt
 #
 43.248.156.0/22
 103.39.252.0/22

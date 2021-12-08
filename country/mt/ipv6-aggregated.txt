@@ -2,8 +2,6 @@
 # IP version: IPv6
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: RIPE
-# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/mt/ipv6-aggregated.txt
 #
 2001:1a70::/29
 2a00:1060::/32

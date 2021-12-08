@@ -2,8 +2,6 @@
 # IP version: IPv4
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: RIPE
-# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/nz/ipv4-aggregated.txt
 #
 14.1.32.0/19
 14.1.64.0/19

@@ -7,8 +7,6 @@
     "assigned"
   ],
   "mode": "aggregated",
-  "source": "APNIC",
-  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/bt/ipv6-aggregated.json",
   "subnets": [
     "2001:dea:4000::/47",
     "2001:deb:8000::/48",

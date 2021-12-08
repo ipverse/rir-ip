@@ -2,8 +2,6 @@
 # IP version: IPv4
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: ARIN
-# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/mx/ipv4-aggregated.txt
 #
 45.5.52.0/22
 45.5.92.0/22

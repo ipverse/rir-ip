@@ -7,8 +7,6 @@
     "assigned"
   ],
   "mode": "aggregated",
-  "source": "APNIC",
-  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/to/ipv4-aggregated.json",
   "subnets": [
     "43.255.148.0/22",
     "103.124.187.0/24",

@@ -2,8 +2,6 @@
 # IP version: IPv4
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: APNIC
-# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ph/ipv4-aggregated.txt
 #
 1.37.0.0/16
 2.58.228.0/22

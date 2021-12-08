@@ -2,8 +2,6 @@
 # IP version: IPv6
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: LACNIC
-# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/gt/ipv6-aggregated.txt
 #
 2001:1360::/32
 2800:98::/32

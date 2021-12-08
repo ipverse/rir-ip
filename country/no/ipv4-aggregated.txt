@@ -2,8 +2,6 @@
 # IP version: IPv4
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: ARIN
-# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/no/ipv4-aggregated.txt
 #
 2.58.24.0/22
 2.148.0.0/14

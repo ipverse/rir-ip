@@ -2,8 +2,6 @@
 # IP version: IPv6
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: RIPE
-# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/hk/ipv6-aggregated.txt
 #
 2001:2e0::/32
 2001:7fa:0:1::/64

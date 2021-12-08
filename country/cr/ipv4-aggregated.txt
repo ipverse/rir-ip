@@ -2,8 +2,6 @@
 # IP version: IPv4
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: LACNIC
-# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/cr/ipv4-aggregated.txt
 #
 45.5.60.0/22
 45.160.132.0/22

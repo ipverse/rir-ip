@@ -7,8 +7,6 @@
     "assigned"
   ],
   "mode": "aggregated",
-  "source": "AFRINIC",
-  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/rw/ipv6-aggregated.json",
   "subnets": [
     "2001:43f8:150::/48",
     "2001:43f8:d80::/48",

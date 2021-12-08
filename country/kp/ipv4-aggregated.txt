@@ -2,7 +2,5 @@
 # IP version: IPv4
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: APNIC
-# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/kp/ipv4-aggregated.txt
 #
 175.45.176.0/22

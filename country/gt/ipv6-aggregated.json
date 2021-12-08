@@ -7,8 +7,6 @@
     "assigned"
   ],
   "mode": "aggregated",
-  "source": "LACNIC",
-  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/gt/ipv6-aggregated.json",
   "subnets": [
     "2001:1360::/32",
     "2800:98::/32",

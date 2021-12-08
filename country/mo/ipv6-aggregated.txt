@@ -2,8 +2,6 @@
 # IP version: IPv6
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: APNIC
-# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/mo/ipv6-aggregated.txt
 #
 2001:df5:900::/48
 2001:df6:4f00::/48

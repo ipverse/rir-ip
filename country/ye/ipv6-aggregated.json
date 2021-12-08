@@ -7,8 +7,6 @@
     "assigned"
   ],
   "mode": "aggregated",
-  "source": "RIPE",
-  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ye/ipv6-aggregated.json",
   "subnets": [
     "2a02:2718::/29",
     "2a02:e280::/29",

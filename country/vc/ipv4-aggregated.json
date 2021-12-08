@@ -7,8 +7,6 @@
     "assigned"
   ],
   "mode": "aggregated",
-  "source": "ARIN",
-  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/vc/ipv4-aggregated.json",
   "subnets": [
     "23.170.80.0/24",
     "45.42.232.0/22",

@@ -2,8 +2,6 @@
 # IP version: IPv6
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: APNIC
-# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/mm/ipv6-aggregated.txt
 #
 2001:df0:5f80::/48
 2001:df0:9180::/48

@@ -7,8 +7,6 @@
     "assigned"
   ],
   "mode": "aggregated",
-  "source": "RIPE",
-  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ye/ipv4-aggregated.json",
   "subnets": [
     "5.100.160.0/21",
     "5.255.0.0/19",

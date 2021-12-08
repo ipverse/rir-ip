@@ -2,8 +2,6 @@
 # IP version: IPv6
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: AFRINIC
-# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/tg/ipv6-aggregated.txt
 #
 2001:43f8:d10::/47
 2001:43f8:1110::/48

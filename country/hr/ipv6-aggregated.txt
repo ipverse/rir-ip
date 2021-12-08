@@ -2,8 +2,6 @@
 # IP version: IPv6
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: RIPE
-# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/hr/ipv6-aggregated.txt
 #
 2001:678:9a0::/48
 2001:678:f1c::/48
