@@ -2,7 +2,7 @@
 # IP version: IPv6
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: ARIN
+# Source: LACNIC
 # Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/mx/ipv6-aggregated.txt
 #
 2001:448::/32

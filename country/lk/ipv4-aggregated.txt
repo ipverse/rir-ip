@@ -2,7 +2,7 @@
 # IP version: IPv4
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: APNIC
+# Source: ARIN
 # Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/lk/ipv4-aggregated.txt
 #
 43.224.124.0/22

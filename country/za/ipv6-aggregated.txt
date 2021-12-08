@@ -2,7 +2,7 @@
 # IP version: IPv6
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: AFRINIC
+# Source: RIPE
 # Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/za/ipv6-aggregated.txt
 #
 2001:4200::/32

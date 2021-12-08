@@ -7,7 +7,7 @@
     "assigned"
   ],
   "mode": "aggregated",
-  "source": "RIPE",
+  "source": "LACNIC",
   "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/co/ipv4-aggregated.json",
   "subnets": [
     "24.152.56.0/24",

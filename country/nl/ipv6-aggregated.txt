@@ -2,7 +2,7 @@
 # IP version: IPv6
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: RIPE
+# Source: ARIN
 # Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/nl/ipv6-aggregated.txt
 #
 2001:504:34::/48

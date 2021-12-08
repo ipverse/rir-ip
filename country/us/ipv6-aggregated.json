@@ -7,7 +7,7 @@
     "assigned"
   ],
   "mode": "aggregated",
-  "source": "RIPE",
+  "source": "ARIN",
   "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/us/ipv6-aggregated.json",
   "subnets": [
     "2001:400::/32",

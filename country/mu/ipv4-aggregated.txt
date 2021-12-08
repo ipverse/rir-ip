@@ -2,7 +2,7 @@
 # IP version: IPv4
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: AFRINIC
+# Source: RIPE
 # Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/mu/ipv4-aggregated.txt
 #
 41.60.0.0/16

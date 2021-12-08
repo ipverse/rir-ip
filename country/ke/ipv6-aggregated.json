@@ -7,7 +7,7 @@
     "assigned"
   ],
   "mode": "aggregated",
-  "source": "AFRINIC",
+  "source": "RIPE",
   "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ke/ipv6-aggregated.json",
   "subnets": [
     "2001:4358::/32",

@@ -2,7 +2,7 @@
 # IP version: IPv4
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: RIPE
+# Source: ARIN
 # Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/fr/ipv4-aggregated.txt
 #
 1.179.112.0/20

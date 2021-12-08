@@ -7,7 +7,7 @@
     "assigned"
   ],
   "mode": "aggregated",
-  "source": "RIPE",
+  "source": "ARIN",
   "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/jp/ipv4-aggregated.json",
   "subnets": [
     "1.0.16.0/20",

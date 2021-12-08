@@ -2,7 +2,7 @@
 # IP version: IPv4
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: RIPE
+# Source: ARIN
 # Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/bm/ipv4-aggregated.txt
 #
 45.42.144.0/22

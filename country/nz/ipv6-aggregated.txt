@@ -2,7 +2,7 @@
 # IP version: IPv6
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
-# Source: RIPE
+# Source: APNIC
 # Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/nz/ipv6-aggregated.txt
 #
 2001:7fa:3::/48
