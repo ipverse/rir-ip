@@ -1,0 +1,17 @@
+{
+  "country": "Cape Verde",
+  "countryCode": "CV",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "AFRINIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/cv/ipv6-aggregated.json",
+  "subnets": [
+    "2c0f:f420::/32",
+    "2c0f:f438::/32",
+    "2c0f:f498::/32"
+  ]
+}

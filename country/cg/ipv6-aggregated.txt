@@ -1,0 +1,15 @@
+# Country: Congo - Brazzaville (CG)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: AFRINIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/cg/ipv6-aggregated.txt
+#
+2001:43f8:6a0::/46
+2c0f:7600::/32
+2c0f:ead8::/32
+2c0f:ef58::/32
+2c0f:f048::/32
+2c0f:f220::/32
+2c0f:f568::/32
+2c0f:f920::/32

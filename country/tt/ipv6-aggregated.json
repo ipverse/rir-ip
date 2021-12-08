@@ -1,0 +1,27 @@
+{
+  "country": "Trinidad \u0026 Tobago",
+  "countryCode": "TT",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "LACNIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/tt/ipv6-aggregated.json",
+  "subnets": [
+    "2800:70::/32",
+    "2800:180::/32",
+    "2800:420::/30",
+    "2800:e00::/28",
+    "2801:0:40::/48",
+    "2801:1d:4000::/48",
+    "2803:1500::/32",
+    "2803:1b80::/32",
+    "2803:35e0::/32",
+    "2803:4680::/32",
+    "2803:90a0::/32",
+    "2803:9360::/32",
+    "2803:cd80::/32"
+  ]
+}

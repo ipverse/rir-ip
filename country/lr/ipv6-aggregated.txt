@@ -1,0 +1,12 @@
+# Country: Liberia (LR)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: AFRINIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/lr/ipv6-aggregated.txt
+#
+2001:43f8:a60::/47
+2c0f:edc0::/32
+2c0f:ef88::/32
+2c0f:f1d8::/32
+2c0f:f930::/32

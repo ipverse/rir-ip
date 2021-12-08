@@ -1,0 +1,10 @@
+# Country: Guinea-Bissau (GW)
+# IP version: IPv4
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: AFRINIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/gw/ipv4-aggregated.txt
+#
+102.219.174.0/23
+154.73.60.0/22
+197.214.80.0/20

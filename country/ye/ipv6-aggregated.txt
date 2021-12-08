@@ -1,0 +1,12 @@
+# Country: Yemen (YE)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: RIPE
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ye/ipv6-aggregated.txt
+#
+2a02:2718::/29
+2a02:e280::/29
+2a05:3380::/29
+2a05:7d80::/29
+2a07:fd40::/29

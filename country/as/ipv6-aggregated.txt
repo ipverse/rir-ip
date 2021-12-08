@@ -1,0 +1,9 @@
+# Country: American Samoa (AS)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: APNIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/as/ipv6-aggregated.txt
+#
+2403:1e00::/32
+2403:2140::/32

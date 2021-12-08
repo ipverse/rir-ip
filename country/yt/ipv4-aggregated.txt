@@ -1,0 +1,12 @@
+# Country: Mayotte (YT)
+# IP version: IPv4
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: AFRINIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/yt/ipv4-aggregated.txt
+#
+41.242.116.0/22
+91.217.195.0/24
+91.217.200.0/24
+91.217.207.0/24
+91.217.223.0/24

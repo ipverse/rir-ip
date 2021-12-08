@@ -1,0 +1,20 @@
+{
+  "country": "Algeria",
+  "countryCode": "DZ",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "AFRINIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/dz/ipv6-aggregated.json",
+  "subnets": [
+    "2001:4340::/32",
+    "2c0f:e8b0::/32",
+    "2c0f:ea88::/32",
+    "2c0f:f000::/32",
+    "2c0f:f858::/32",
+    "2c0f:f940::/32"
+  ]
+}

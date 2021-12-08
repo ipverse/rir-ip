@@ -1,0 +1,8 @@
+# Country: Niue (NU)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: APNIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/nu/ipv6-aggregated.txt
+#
+2001:df0:8c::/48

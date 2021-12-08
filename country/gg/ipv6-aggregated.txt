@@ -1,0 +1,13 @@
+# Country: Guernsey (GG)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: RIPE
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/gg/ipv6-aggregated.txt
+#
+2a00:8300::/32
+2a01:5480::/32
+2a04:6b40::/29
+2a04:b240::/29
+2a07:b140::/29
+2a09:5d40::/29

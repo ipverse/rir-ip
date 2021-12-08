@@ -1,0 +1,13 @@
+# Country: Cuba (CU)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: LACNIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/cu/ipv6-aggregated.txt
+#
+2001:1340::/32
+2001:1358::/32
+2001:13c8::/32
+2800:230::/32
+2800:360::/32
+2800:910::/32

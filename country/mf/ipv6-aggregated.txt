@@ -1,0 +1,9 @@
+# Country: St. Martin (MF)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: ARIN
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/mf/ipv6-aggregated.txt
+#
+2602:ff07::/36
+2604:25c0::/32

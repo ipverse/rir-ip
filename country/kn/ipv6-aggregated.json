@@ -1,0 +1,16 @@
+{
+  "country": "St. Kitts \u0026 Nevis",
+  "countryCode": "KN",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "ARIN",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/kn/ipv6-aggregated.json",
+  "subnets": [
+    "2620:18:c000::/48",
+    "2620:6b:2000::/48"
+  ]
+}

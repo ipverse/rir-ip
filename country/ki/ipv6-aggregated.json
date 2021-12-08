@@ -1,0 +1,17 @@
+{
+  "country": "Kiribati",
+  "countryCode": "KI",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "APNIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ki/ipv6-aggregated.json",
+  "subnets": [
+    "2001:df2:b280::/48",
+    "2401:dfc0::/32",
+    "2406:cd00::/32"
+  ]
+}

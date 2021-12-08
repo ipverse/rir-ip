@@ -1,0 +1,15 @@
+{
+  "country": "Eritrea",
+  "countryCode": "ER",
+  "ipVersion": "IPv4",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "AFRINIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/er/ipv4-aggregated.json",
+  "subnets": [
+    "196.200.96.0/20"
+  ]
+}

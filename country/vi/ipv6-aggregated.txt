@@ -1,0 +1,12 @@
+# Country: U.S. Virgin Islands (VI)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: ARIN
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/vi/ipv6-aggregated.txt
+#
+2604:ea40::/32
+2605:de80::/32
+2606:5a00::/32
+2607:8580::/32
+2607:f838::/32

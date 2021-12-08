@@ -1,0 +1,16 @@
+{
+  "country": "Niue",
+  "countryCode": "NU",
+  "ipVersion": "IPv4",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "APNIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/nu/ipv4-aggregated.json",
+  "subnets": [
+    "49.156.48.0/22",
+    "202.59.4.0/22"
+  ]
+}

@@ -1,0 +1,11 @@
+# Country: St. Barthélemy (BL)
+# IP version: IPv4
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: ARIN
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/bl/ipv4-aggregated.txt
+#
+149.112.20.0/24
+185.212.72.0/22
+206.83.45.0/24
+206.130.228.0/24

@@ -1,0 +1,19 @@
+{
+  "country": "Turkmenistan",
+  "countryCode": "TM",
+  "ipVersion": "IPv4",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "RIPE",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/tm/ipv4-aggregated.json",
+  "subnets": [
+    "95.85.96.0/19",
+    "185.69.184.0/22",
+    "185.246.72.0/22",
+    "195.191.230.0/23",
+    "217.174.224.0/20"
+  ]
+}

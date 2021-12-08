@@ -1,0 +1,9 @@
+# Country: Djibouti (DJ)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: AFRINIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/dj/ipv6-aggregated.txt
+#
+2001:4298::/32
+2001:43f8:9c0::/47

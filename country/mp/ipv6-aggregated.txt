@@ -1,0 +1,8 @@
+# Country: Northern Mariana Islands (MP)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: APNIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/mp/ipv6-aggregated.txt
+#
+2401:4e40::/32

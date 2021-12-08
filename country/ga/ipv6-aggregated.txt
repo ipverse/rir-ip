@@ -1,0 +1,15 @@
+# Country: Gabon (GA)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: AFRINIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ga/ipv6-aggregated.txt
+#
+2001:43f8:1160::/47
+2c0f:3800::/32
+2c0f:efc8::/32
+2c0f:f038::/32
+2c0f:f3e0::/32
+2c0f:f640::/32
+2c0f:f948::/32
+2c0f:f9b0::/32

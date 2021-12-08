@@ -1,0 +1,16 @@
+{
+  "country": "Micronesia",
+  "countryCode": "FM",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "APNIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/fm/ipv6-aggregated.json",
+  "subnets": [
+    "2407:4800::/32",
+    "2407:5c40::/32"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "country": "Tokelau",
+  "countryCode": "TK",
+  "ipVersion": "IPv4",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "APNIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/tk/ipv4-aggregated.json",
+  "subnets": [
+    "27.96.24.0/21"
+  ]
+}

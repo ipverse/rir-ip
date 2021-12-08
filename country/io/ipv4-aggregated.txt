@@ -1,0 +1,9 @@
+# Country: British Indian Ocean Territory (IO)
+# IP version: IPv4
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: APNIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/io/ipv4-aggregated.txt
+#
+202.44.112.0/22
+203.83.48.0/21

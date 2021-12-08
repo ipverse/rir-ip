@@ -1,0 +1,20 @@
+{
+  "country": "Guernsey",
+  "countryCode": "GG",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "RIPE",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/gg/ipv6-aggregated.json",
+  "subnets": [
+    "2a00:8300::/32",
+    "2a01:5480::/32",
+    "2a04:6b40::/29",
+    "2a04:b240::/29",
+    "2a07:b140::/29",
+    "2a09:5d40::/29"
+  ]
+}

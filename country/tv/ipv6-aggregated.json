@@ -1,0 +1,16 @@
+{
+  "country": "Tuvalu",
+  "countryCode": "TV",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "APNIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/tv/ipv6-aggregated.json",
+  "subnets": [
+    "2001:df2:ff80::/48",
+    "2400:3500::/32"
+  ]
+}

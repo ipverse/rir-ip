@@ -1,0 +1,17 @@
+{
+  "country": "Wallis \u0026 Futuna",
+  "countryCode": "WF",
+  "ipVersion": "IPv4",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "APNIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/wf/ipv4-aggregated.json",
+  "subnets": [
+    "27.125.192.0/22",
+    "103.235.110.0/23",
+    "117.20.32.0/21"
+  ]
+}

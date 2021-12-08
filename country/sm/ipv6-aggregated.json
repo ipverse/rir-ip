@@ -1,0 +1,25 @@
+{
+  "country": "San Marino",
+  "countryCode": "SM",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "RIPE",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/sm/ipv6-aggregated.json",
+  "subnets": [
+    "2001:678:28::/48",
+    "2001:67c:174::/48",
+    "2001:67c:15b8::/48",
+    "2001:67c:28d8::/48",
+    "2a00:55e0::/32",
+    "2a02:7f60::/32",
+    "2a03:8b00::/32",
+    "2a04:a340::/29",
+    "2a07:50c0::/29",
+    "2a09:2100::/29",
+    "2a0e:d340::/32"
+  ]
+}

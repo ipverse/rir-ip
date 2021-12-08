@@ -1,0 +1,9 @@
+# Country: Aruba (AW)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: LACNIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/aw/ipv6-aggregated.txt
+#
+2800:ad0::/32
+2803:b640::/32

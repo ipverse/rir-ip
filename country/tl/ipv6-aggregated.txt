@@ -1,0 +1,16 @@
+# Country: Timor-Leste (TL)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: APNIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/tl/ipv6-aggregated.txt
+#
+2001:df0:840::/48
+2001:df0:7a00::/48
+2001:df0:f980::/48
+2001:df7:f980::/48
+2401:4b80::/32
+2402:d080::/32
+2405:1f00::/32
+2405:d540::/32
+2407:f2c0::/32

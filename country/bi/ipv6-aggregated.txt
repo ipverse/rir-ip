@@ -1,0 +1,14 @@
+# Country: Burundi (BI)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: AFRINIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/bi/ipv6-aggregated.txt
+#
+2001:43f8:990::/47
+2c0f:ef70::/32
+2c0f:f198::/32
+2c0f:f6a8::/32
+2c0f:f788::/32
+2c0f:f908::/32
+2c0f:fd78::/32

@@ -1,0 +1,11 @@
+# Country: Faroe Islands (FO)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: RIPE
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/fo/ipv6-aggregated.txt
+#
+2a02:e90::/29
+2a03:ee00::/32
+2a0a:d500::/29
+2a0f:38c0::/29

@@ -1,0 +1,15 @@
+{
+  "country": "Ethiopia",
+  "countryCode": "ET",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "AFRINIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/et/ipv6-aggregated.json",
+  "subnets": [
+    "2c0f:f348::/32"
+  ]
+}

@@ -1,0 +1,15 @@
+# Country: Jersey (JE)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: RIPE
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/je/ipv6-aggregated.txt
+#
+2a01:94a0::/32
+2a01:a400::/32
+2a03:d4c0::/32
+2a07:ee40::/29
+2a0d:6700::/29
+2a0e:dec0::/29
+2a10:81c0::/32
+2a11:4400::/29

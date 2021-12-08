@@ -1,0 +1,11 @@
+# Country: St. Barthélemy (BL)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: ARIN
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/bl/ipv6-aggregated.txt
+#
+2001:504:111::/48
+2602:fc69::/36
+2620:122:a000::/36
+2620:139:7000::/40

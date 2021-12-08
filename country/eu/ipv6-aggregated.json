@@ -1,0 +1,21 @@
+{
+  "country": "European Union",
+  "countryCode": "EU",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "RIPE",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/eu/ipv6-aggregated.json",
+  "subnets": [
+    "2001:678:50::/48",
+    "2001:678:54::/48",
+    "2001:678:58::/48",
+    "2001:678:5c::/48",
+    "2001:67c:22ac::/48",
+    "2001:67c:2778::/48",
+    "2001:67c:2b00::/48"
+  ]
+}

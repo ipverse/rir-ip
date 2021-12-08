@@ -1,0 +1,11 @@
+# Country: Norfolk Island (NF)
+# IP version: IPv4
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: APNIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/nf/ipv4-aggregated.txt
+#
+103.43.204.0/23
+203.12.249.0/24
+203.17.240.0/22
+203.142.221.0/24

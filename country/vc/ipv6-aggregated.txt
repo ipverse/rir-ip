@@ -1,0 +1,10 @@
+# Country: St. Vincent & Grenadines (VC)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: RIPE
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/vc/ipv6-aggregated.txt
+#
+2600:1e00::/28
+2602:fce4::/36
+2a01:a440::/32

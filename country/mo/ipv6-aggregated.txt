@@ -1,0 +1,16 @@
+# Country: Macao SAR China (MO)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: APNIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/mo/ipv6-aggregated.txt
+#
+2001:df5:900::/48
+2001:df6:4f00::/48
+2001:f90::/32
+2001:ff8::/32
+2401:3280::/32
+2401:75c0::/32
+2401:9100::/32
+2402:9280::/32
+2402:e940::/32

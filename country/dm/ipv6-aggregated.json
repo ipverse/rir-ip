@@ -1,0 +1,19 @@
+{
+  "country": "Dominica",
+  "countryCode": "DM",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "RIPE",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/dm/ipv6-aggregated.json",
+  "subnets": [
+    "2001:504:63::/48",
+    "2602:fc3a::/36",
+    "2604:8c80::/32",
+    "2605:d880::/32",
+    "2a0e:fa00::/29"
+  ]
+}

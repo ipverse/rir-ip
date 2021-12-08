@@ -1,0 +1,8 @@
+# Country: Tokelau (TK)
+# IP version: IPv4
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: APNIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/tk/ipv4-aggregated.txt
+#
+27.96.24.0/21

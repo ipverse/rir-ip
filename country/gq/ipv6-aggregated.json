@@ -1,0 +1,17 @@
+{
+  "country": "Equatorial Guinea",
+  "countryCode": "GQ",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "AFRINIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/gq/ipv6-aggregated.json",
+  "subnets": [
+    "2c0f:f180::/32",
+    "2c0f:f840::/32",
+    "2c0f:f8c0::/32"
+  ]
+}

@@ -1,0 +1,8 @@
+# Country: Cook Islands (CK)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: APNIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ck/ipv6-aggregated.txt
+#
+2407:5800::/32

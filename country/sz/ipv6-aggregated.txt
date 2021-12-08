@@ -1,0 +1,11 @@
+# Country: Eswatini (SZ)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: AFRINIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/sz/ipv6-aggregated.txt
+#
+2001:4338::/32
+2001:43f8:9b0::/47
+2c0f:e908::/32
+2c0f:ebc8::/32

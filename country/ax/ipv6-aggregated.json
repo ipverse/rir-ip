@@ -1,0 +1,16 @@
+{
+  "country": "Åland Islands",
+  "countryCode": "AX",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "RIPE",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ax/ipv6-aggregated.json",
+  "subnets": [
+    "2a0b:c140::/29",
+    "2a0d:79c0::/32"
+  ]
+}

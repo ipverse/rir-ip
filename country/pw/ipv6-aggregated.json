@@ -1,0 +1,15 @@
+{
+  "country": "Palau",
+  "countryCode": "PW",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "APNIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/pw/ipv6-aggregated.json",
+  "subnets": [
+    "2404:7800::/32"
+  ]
+}

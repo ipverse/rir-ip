@@ -1,0 +1,9 @@
+# Country: Niue (NU)
+# IP version: IPv4
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: APNIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/nu/ipv4-aggregated.txt
+#
+49.156.48.0/22
+202.59.4.0/22

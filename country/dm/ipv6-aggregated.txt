@@ -1,0 +1,12 @@
+# Country: Dominica (DM)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: RIPE
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/dm/ipv6-aggregated.txt
+#
+2001:504:63::/48
+2602:fc3a::/36
+2604:8c80::/32
+2605:d880::/32
+2a0e:fa00::/29

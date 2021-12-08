@@ -1,0 +1,17 @@
+{
+  "country": "Comoros",
+  "countryCode": "KM",
+  "ipVersion": "IPv4",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "AFRINIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/km/ipv4-aggregated.json",
+  "subnets": [
+    "102.223.120.0/22",
+    "164.160.136.0/22",
+    "197.255.224.0/20"
+  ]
+}

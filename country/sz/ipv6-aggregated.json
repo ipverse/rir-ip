@@ -1,0 +1,18 @@
+{
+  "country": "Eswatini",
+  "countryCode": "SZ",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "AFRINIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/sz/ipv6-aggregated.json",
+  "subnets": [
+    "2001:4338::/32",
+    "2001:43f8:9b0::/47",
+    "2c0f:e908::/32",
+    "2c0f:ebc8::/32"
+  ]
+}

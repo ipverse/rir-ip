@@ -1,0 +1,15 @@
+{
+  "country": "Turkmenistan",
+  "countryCode": "TM",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "RIPE",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/tm/ipv6-aggregated.json",
+  "subnets": [
+    "2a05:2180::/29"
+  ]
+}

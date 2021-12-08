@@ -1,0 +1,10 @@
+# Country: Marshall Islands (MH)
+# IP version: IPv4
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: APNIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/mh/ipv4-aggregated.txt
+#
+103.202.148.0/22
+117.103.88.0/21
+203.78.152.0/22

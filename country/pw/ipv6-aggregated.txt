@@ -1,0 +1,8 @@
+# Country: Palau (PW)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: APNIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/pw/ipv6-aggregated.txt
+#
+2404:7800::/32

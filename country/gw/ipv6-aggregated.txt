@@ -1,0 +1,9 @@
+# Country: Guinea-Bissau (GW)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: AFRINIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/gw/ipv6-aggregated.txt
+#
+2c0f:ec50::/32
+2c0f:f928::/32

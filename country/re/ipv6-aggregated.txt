@@ -1,0 +1,12 @@
+# Country: Réunion (RE)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: AFRINIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/re/ipv6-aggregated.txt
+#
+2a00:a080::/32
+2a0b:dc00::/29
+2c0f:6c00::/32
+2c0f:f608::/32
+2c0f:f918::/32

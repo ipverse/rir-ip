@@ -1,0 +1,14 @@
+# Country: Falkland Islands (FK)
+# IP version: IPv4
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: RIPE
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/fk/ipv4-aggregated.txt
+#
+80.73.208.0/20
+91.232.129.0/24
+91.232.198.0/24
+91.232.208.0/24
+91.232.235.0/24
+185.87.144.0/22
+185.244.12.0/22

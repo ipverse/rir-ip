@@ -1,0 +1,19 @@
+{
+  "country": "Monaco",
+  "countryCode": "MC",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "RIPE",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/mc/ipv6-aggregated.json",
+  "subnets": [
+    "2a01:8fe0::/32",
+    "2a06:92c0::/32",
+    "2a07:9080::/29",
+    "2a0b:8000::/29",
+    "2a0f:b980::/29"
+  ]
+}

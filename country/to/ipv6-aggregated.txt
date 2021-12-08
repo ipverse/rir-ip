@@ -1,0 +1,11 @@
+# Country: Tonga (TO)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: APNIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/to/ipv6-aggregated.txt
+#
+2001:df4:7480::/48
+2400:6400::/32
+2402:1940::/32
+2406:1500::/32

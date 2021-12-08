@@ -1,0 +1,16 @@
+{
+  "country": "British Indian Ocean Territory",
+  "countryCode": "IO",
+  "ipVersion": "IPv4",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "APNIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/io/ipv4-aggregated.json",
+  "subnets": [
+    "202.44.112.0/22",
+    "203.83.48.0/21"
+  ]
+}

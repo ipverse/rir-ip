@@ -1,0 +1,16 @@
+{
+  "country": "Djibouti",
+  "countryCode": "DJ",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "AFRINIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/dj/ipv6-aggregated.json",
+  "subnets": [
+    "2001:4298::/32",
+    "2001:43f8:9c0::/47"
+  ]
+}

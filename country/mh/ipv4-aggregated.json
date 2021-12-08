@@ -1,0 +1,17 @@
+{
+  "country": "Marshall Islands",
+  "countryCode": "MH",
+  "ipVersion": "IPv4",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "APNIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/mh/ipv4-aggregated.json",
+  "subnets": [
+    "103.202.148.0/22",
+    "117.103.88.0/21",
+    "203.78.152.0/22"
+  ]
+}

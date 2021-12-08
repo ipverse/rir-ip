@@ -1,0 +1,8 @@
+# Country: Norfolk Island (NF)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: APNIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/nf/ipv6-aggregated.txt
+#
+2001:df0:20c::/48

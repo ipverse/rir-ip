@@ -1,0 +1,17 @@
+{
+  "country": "St. Vincent \u0026 Grenadines",
+  "countryCode": "VC",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "RIPE",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/vc/ipv6-aggregated.json",
+  "subnets": [
+    "2600:1e00::/28",
+    "2602:fce4::/36",
+    "2a01:a440::/32"
+  ]
+}

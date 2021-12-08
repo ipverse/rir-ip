@@ -1,0 +1,11 @@
+# Country: St. Lucia (LC)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: ARIN
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/lc/ipv6-aggregated.txt
+#
+2600:7c00::/28
+2604:bcc0::/32
+2606:3c80::/32
+2606:5dc0::/32

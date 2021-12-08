@@ -1,0 +1,22 @@
+{
+  "country": "Mauritania",
+  "countryCode": "MR",
+  "ipVersion": "IPv4",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "AFRINIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/mr/ipv4-aggregated.json",
+  "subnets": [
+    "41.138.128.0/19",
+    "41.188.64.0/18",
+    "41.223.96.0/22",
+    "82.151.64.0/19",
+    "102.219.207.0/24",
+    "196.49.18.0/24",
+    "196.223.45.0/24",
+    "197.231.0.0/19"
+  ]
+}

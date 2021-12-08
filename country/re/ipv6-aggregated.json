@@ -1,0 +1,19 @@
+{
+  "country": "Réunion",
+  "countryCode": "RE",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "AFRINIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/re/ipv6-aggregated.json",
+  "subnets": [
+    "2a00:a080::/32",
+    "2a0b:dc00::/29",
+    "2c0f:6c00::/32",
+    "2c0f:f608::/32",
+    "2c0f:f918::/32"
+  ]
+}

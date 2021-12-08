@@ -1,0 +1,10 @@
+# Country: Kiribati (KI)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: APNIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ki/ipv6-aggregated.txt
+#
+2001:df2:b280::/48
+2401:dfc0::/32
+2406:cd00::/32

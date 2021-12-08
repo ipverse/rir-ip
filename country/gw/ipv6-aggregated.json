@@ -1,0 +1,16 @@
+{
+  "country": "Guinea-Bissau",
+  "countryCode": "GW",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "AFRINIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/gw/ipv6-aggregated.json",
+  "subnets": [
+    "2c0f:ec50::/32",
+    "2c0f:f928::/32"
+  ]
+}

@@ -1,0 +1,9 @@
+# Country: Niger (NE)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: AFRINIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ne/ipv6-aggregated.txt
+#
+2c0f:eae8::/32
+2c0f:f8c8::/32

@@ -1,0 +1,23 @@
+{
+  "country": "Bermuda",
+  "countryCode": "BM",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "RIPE",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/bm/ipv6-aggregated.json",
+  "subnets": [
+    "2001:508::/32",
+    "2001:4910::/32",
+    "2604:140::/32",
+    "2605:e80::/32",
+    "2606:480::/32",
+    "2606:b80::/32",
+    "2606:1ec0::/32",
+    "2606:9e00::/32",
+    "2a00:1378::/32"
+  ]
+}

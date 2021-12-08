@@ -1,0 +1,18 @@
+{
+  "country": "Suriname",
+  "countryCode": "SR",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "LACNIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/sr/ipv6-aggregated.json",
+  "subnets": [
+    "2803:a10::/32",
+    "2803:6e00::/32",
+    "2803:a200::/32",
+    "2803:ff40::/32"
+  ]
+}

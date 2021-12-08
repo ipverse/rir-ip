@@ -1,0 +1,20 @@
+{
+  "country": "Mali",
+  "countryCode": "ML",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "AFRINIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ml/ipv6-aggregated.json",
+  "subnets": [
+    "2001:42c0::/32",
+    "2001:43f8:10d0::/48",
+    "2001:43f8:10e0::/48",
+    "2c0f:1b00::/32",
+    "2c0f:e870::/32",
+    "2c0f:f900::/32"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "country": "Tonga",
+  "countryCode": "TO",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "APNIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/to/ipv6-aggregated.json",
+  "subnets": [
+    "2001:df4:7480::/48",
+    "2400:6400::/32",
+    "2402:1940::/32",
+    "2406:1500::/32"
+  ]
+}

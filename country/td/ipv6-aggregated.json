@@ -1,0 +1,17 @@
+{
+  "country": "Chad",
+  "countryCode": "TD",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "AFRINIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/td/ipv6-aggregated.json",
+  "subnets": [
+    "2001:43fd:2000::/48",
+    "2c0f:eb98::/32",
+    "2c0f:f5c8::/32"
+  ]
+}

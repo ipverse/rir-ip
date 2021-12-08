@@ -1,0 +1,15 @@
+{
+  "country": "São Tomé \u0026 Príncipe",
+  "countryCode": "ST",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "AFRINIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/st/ipv6-aggregated.json",
+  "subnets": [
+    "2c0f:fa88::/32"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "country": "Northern Mariana Islands",
+  "countryCode": "MP",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "APNIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/mp/ipv6-aggregated.json",
+  "subnets": [
+    "2401:4e40::/32"
+  ]
+}

@@ -1,0 +1,13 @@
+# Country: Antigua & Barbuda (AG)
+# IP version: IPv6
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: RIPE
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ag/ipv6-aggregated.txt
+#
+2001:b28::/32
+2605:9e40::/32
+2620:6f:2000::/48
+2620:95:a000::/48
+2a00:11d8::/32
+2a02:1e0::/29

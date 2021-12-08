@@ -1,0 +1,13 @@
+# Country: Kiribati (KI)
+# IP version: IPv4
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
+# Source: APNIC
+# Static link: https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ki/ipv4-aggregated.txt
+#
+103.25.140.0/22
+103.73.80.0/23
+103.148.4.0/23
+103.250.0.0/22
+202.6.120.0/22
+202.58.248.0/22

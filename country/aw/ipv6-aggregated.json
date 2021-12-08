@@ -1,0 +1,16 @@
+{
+  "country": "Aruba",
+  "countryCode": "AW",
+  "ipVersion": "IPv6",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "source": "LACNIC",
+  "staticLink": "https://raw.githubusercontent.com/ipverse/rir-ip/master/country/aw/ipv6-aggregated.json",
+  "subnets": [
+    "2800:ad0::/32",
+    "2803:b640::/32"
+  ]
+}
