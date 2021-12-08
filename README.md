@@ -18,7 +18,8 @@ The subnet lists (IPv4 + IPv6 combined) are available in JSON format as well:
 ```$ curl https://raw.githubusercontent.com/ipverse/rir-ip/master/country/tl/aggregated.json```
 
 The resulting JSON will look similar to this:
-```{
+```
+{
   "country": "Timor-Leste",
   "countryCode": "TL",
   "delegationStatus": [
@@ -60,4 +61,5 @@ The resulting JSON will look similar to this:
       "2407:f2c0::/32"
     ]
   }
-}```
+}
+```
