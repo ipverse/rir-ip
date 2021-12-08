@@ -1,0 +1,18 @@
+{
+  "country": "British Indian Ocean Territory",
+  "countryCode": "IO",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "subnets": {
+    "ipv4": [
+      "202.44.112.0/22",
+      "203.83.48.0/21"
+    ],
+    "ipv6": [
+      "2401:a440::/32"
+    ]
+  }
+}

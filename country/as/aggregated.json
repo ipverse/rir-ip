@@ -1,0 +1,20 @@
+{
+  "country": "American Samoa",
+  "countryCode": "AS",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "subnets": {
+    "ipv4": [
+      "103.117.168.0/22",
+      "103.238.156.0/23",
+      "202.70.112.0/20"
+    ],
+    "ipv6": [
+      "2403:1e00::/32",
+      "2403:2140::/32"
+    ]
+  }
+}

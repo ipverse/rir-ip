@@ -1,0 +1,22 @@
+{
+  "country": "Micronesia",
+  "countryCode": "FM",
+  "delegationStatus": [
+    "allocated",
+    "assigned"
+  ],
+  "mode": "aggregated",
+  "subnets": {
+    "ipv4": [
+      "43.248.156.0/22",
+      "103.39.252.0/22",
+      "103.166.208.0/23",
+      "119.252.112.0/20",
+      "124.109.8.0/21"
+    ],
+    "ipv6": [
+      "2407:4800::/32",
+      "2407:5c40::/32"
+    ]
+  }
+}

@@ -14,5 +14,5 @@ To download the delegated IPv4 subnets for Switzerland, try:
 To download the delegated IPv6 subnets for Switzerland, try:
 ```$ curl https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ch/ipv6-aggregated.txt```
 
-The subnet lists are available in JSON format as well, just replace the extension with .json.
-
+The subnet lists (IPv4 + IPv6 combined) are available in JSON format as well:
+```$ curl https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ch/aggregated.json```
