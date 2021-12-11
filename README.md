@@ -63,3 +63,15 @@ The resulting JSON will look similar to this:
   }
 }
 ```
+
+## Migrating from ipverse.net?
+
+While all download-URLs pointing to [ipverse.net](http://ipverse.net) are being redirected to the corresponding file in this Github repository, you may chose to directly dowload the data from the new location. Here's how to change the download-URL:  
+
+Old URL:  
+```http://ipverse.net/ipblocks/data/countries/ch.zone```
+```http://ipverse.net/ipblocks/data/countries/ch-ipv6.zone```
+
+New URL:  
+```https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ch/ipv4-aggregated.txt"
+```https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ch/ipv6-aggregated.txt"
