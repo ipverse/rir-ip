@@ -1,8 +1,8 @@
 # ipverse-rir-ip
 
-Drop-in replacement for the country-based IP subnet lists currently available at http://ipverse.net 
-based on Internet number resource usage data published by the Regional Internet Registries (RIR). 
-Probably shouldn't be used for geolocating since the RIR data is rather generic.
+Drop-in replacement for the IP subnet lists previously available at [ipverse.net](http://ipverse.net)
+based on Internet number resource usage data published by the Regional Internet Registries (RIR). The data
+is organized by country code (ISO 3166).
 
 This repository is updated daily.
 
