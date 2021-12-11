@@ -15,13 +15,13 @@ To download the delegated IPv6 subnets for Switzerland, try:
 ```$ curl https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ch/ipv6-aggregated.txt```
 
 The data (IPv4 + IPv6 combined) is available in JSON format as well:  
-```$ curl https://raw.githubusercontent.com/ipverse/rir-ip/master/country/tl/aggregated.json```
+```$ curl https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ch/aggregated.json```
 
 The resulting JSON will look similar to this:  
 ```
 {
-  "country": "Timor-Leste",
-  "country-code": "TL",
+  "country": "Switzerland",
+  "country-code": "CH",
   "delegation-status": [
     "allocated",
     "assigned"
