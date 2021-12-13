@@ -4,7 +4,7 @@ Drop-in replacement for the IP subnet lists previously available at [ipverse.net
 based on Internet number resource usage data published by the Regional Internet Registries (RIR). The data
 is organized by country code (ISO 3166).
 
-This repository is updated daily.
+This repository is updated daily (if the underlying data changes).
 
 ## How to use
 
