@@ -42,9 +42,14 @@ The resulting JSON will look similar to this:
 }
 ```
 
+## Want moar IP addresses?
+
+Instead of carpet banning an entire geographic region, it might be more effective to just ban specific internet providers based on their autonomous system number (ASN).
+Check out the [ipverse-asn-ip](https://github.com/ipverse/asn-ip) repository for more information.
+
 ## Migrating from ipverse.net?
 
-While all download-URLs pointing to [ipverse.net](http://ipverse.net) are being redirected to the corresponding file in this Github repository, you may choose to directly dowload the data from the new location. Here's how to change the download-URL:  
+While all download URLs pointing to [ipverse.net](http://ipverse.net) are being redirected to the corresponding file in this Github repository, you may choose to directly download the data from the new location. Here's how to change the download-URL:  
 
 Old URL:  
 ```http://ipverse.net/ipblocks/data/countries/ch.zone```  
