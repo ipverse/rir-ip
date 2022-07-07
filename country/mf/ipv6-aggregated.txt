@@ -3,5 +3,6 @@
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
 #
+2602:fb4b::/40
 2602:ff07::/36
 2604:25c0::/32
