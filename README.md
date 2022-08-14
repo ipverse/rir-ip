@@ -1,6 +1,6 @@
 # ipverse-rir-ip
 
-Drop-in replacement for the IP subnet lists previously available at [ipverse.net](http://ipverse.net)
+Drop-in replacement for the network lists previously available at [ipverse.net](http://ipverse.net)
 based on Internet number resource usage data published by the Regional Internet Registries (RIR). The data
 is organized by country code (ISO 3166).
 
@@ -8,10 +8,10 @@ This repository is updated daily (if the underlying data changes).
 
 ## How to use
 
-To download the delegated IPv4 subnets for Switzerland, try:  
+To download the delegated IPv4 networks for Switzerland, try:  
 ```$ curl https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ch/ipv4-aggregated.txt```
 
-To download the delegated IPv6 subnets for Switzerland, try:  
+To download the delegated IPv6 networks for Switzerland, try:  
 ```$ curl https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ch/ipv6-aggregated.txt```
 
 The data (IPv4 + IPv6 combined) is available in JSON format as well:  
