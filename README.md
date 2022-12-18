@@ -6,6 +6,10 @@ is organized by country code (ISO 3166).
 
 This repository is updated daily (if the underlying data changes).
 
+## Update notes
+
+- 2022-12-18: Fixed prefixes for delegated networks as reported by @RF3
+
 ## How to use
 
 To download the delegated IPv4 networks for Switzerland, try:  
