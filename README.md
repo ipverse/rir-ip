@@ -8,7 +8,7 @@ This repository is updated daily (if the underlying data changes).
 
 ## Update notes
 
-- 2022-12-18: Fixed prefixes for delegated networks as reported by @RF3
+- 2022-12-18: Fixed prefixes for some delegated networks as reported by [RF3](https://github.com/RF3)
 
 ## How to use
 
