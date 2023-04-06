@@ -3,5 +3,4 @@
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
 #
-2c0f:ec50::/32
 2c0f:f928::/32
