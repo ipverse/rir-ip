@@ -3,4 +3,5 @@
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
 #
+2401:6e0::/32
 2404:7800::/32
