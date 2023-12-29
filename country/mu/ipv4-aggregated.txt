@@ -3,6 +3,7 @@
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
 #
+37.139.132.0/22
 41.60.0.0/16
 41.72.192.0/19
 41.76.40.0/21
