@@ -1,4 +1,4 @@
-# Country: Turkey (TR)
+# Country: Türkiye (TR)
 # IP version: IPv6
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
@@ -636,3 +636,4 @@
 2a14:7bc0::/29
 2a14:9400::/29
 2a14:9c00::/29
+2a14:e400::/29
