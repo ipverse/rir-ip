@@ -9,6 +9,7 @@ This repository is updated daily (if the underlying data changes).
 ## Update notes
 
 - 2022-12-18: Fixed prefixes for some delegated networks as reported by [RF3](https://github.com/RF3), see [this thread](https://github.com/ipverse/feedback/discussions/9) for details
+- 2025-05-04: Removed country code EU, as it's a non-standard code and only kept for historical reasons as per RIPE
 
 ## How to use
 
