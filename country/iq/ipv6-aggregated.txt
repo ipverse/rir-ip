@@ -3,6 +3,7 @@
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
 #
+2001:7f8:166::/48
 2001:3680::/29
 2a00:4360::/32
 2a00:8ac0::/32
