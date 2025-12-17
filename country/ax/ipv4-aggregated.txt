@@ -3,4 +3,6 @@
 # Delegation status: Allocated || Assigned
 # Mode: Aggregated
 #
+91.210.154.0/24
+185.84.30.0/23
 217.29.224.0/20
