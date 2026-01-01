@@ -1,65 +1,83 @@
-# ipverse-rir-ip
+# country-ip-blocks (formerly rir-ip)
 
-Drop-in replacement for the network lists previously available at [ipverse.net](http://ipverse.net)
-based on Internet number resource usage data published by the Regional Internet Registries (RIR). The data
-is organized by country code (ISO 3166).
+> **📢 Heads up:** This repo has a new name and the data format has changed. Terribly sorry but if you're using this in production, check out [MIGRATION.md](MIGRATION.md) for what you need to update. The data is provided as-is on a best-effort basis.
 
-This repository is updated daily (if the underlying data changes).
+Ready-to-use IPv4 and IPv6 prefixes delegated to countries (ISO 3166-1 alpha-2), sourced from all five regional internet registries (RIR).
 
-## Update notes
+This dataset saves you from parsing RIR delegation files yourself - the prefixes are aggregated and ready to drop into firewalls, access control lists, or geo-routing configurations. Updated daily when the underlying RIR data changes, so you always have current allocations.
 
-- 2025-05-04: Removed country code EU, as it's a non-standard code and only kept for historical reasons as per RIPE
-- 2022-12-18: Fixed prefixes for some delegated networks as reported by [RF3](https://github.com/RF3), see [this thread](https://github.com/ipverse/feedback/discussions/9) for details
+> **Note:** This data shows which country an IP range is *delegated to* by the RIRs. It can be used for country-level blocking and compliance, but has limitations - delegated IPs can be used in other countries or routed globally. For pinpoint geolocation (city-level, actual user location), you'll need a dedicated geolocation service.
 
-## How to use
+Available formats: plaintext and JSON
 
-To download the delegated IPv4 networks for Switzerland, try:  
-```$ curl https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ch/ipv4-aggregated.txt```
-
-To download the delegated IPv6 networks for Switzerland, try:  
-```$ curl https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ch/ipv6-aggregated.txt```
-
-The data (IPv4 + IPv6 combined) is available in JSON format as well:  
-```$ curl https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ch/aggregated.json```
-
-The resulting JSON will look similar to this:  
+**Plaintext format** (Andorra IPv4):
 ```
+46.172.224.0/19
+85.94.160.0/19
+```
+
+**JSON format** (includes both IPv4 and IPv6):
+```json
 {
-  "country": "Switzerland",
-  "country-code": "CH",
-  "delegation-status": [
+  "country": "Andorra",
+  "countryCode": "AD",
+  "delegationStatus": [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
+  "exportMode": "aggregated",
+  "prefixes": {
     "ipv4": [
-      "43.254.56.0/22",
-      "45.115.72.0/22",
-      "59.153.132.0/22",
+      "46.172.224.0/19",
+      "85.94.160.0/19"
     ],
     "ipv6": [
-      "2001:df0:840::/48",
-      "2001:df7:f980::/48",
-      "2401:4b80::/32",
+      "2a01:fb00::/29"
     ]
   }
 }
 ```
 
-## Want moar IP addresses?
+## Recent changes
 
-Instead of carpet banning an entire geographic region, it might be more effective to just ban specific internet providers based on their autonomous system number (ASN).
-Check out the [ipverse-asn-ip](https://github.com/ipverse/asn-ip) repository for more information.
+- **2026-01-03**: Repo renamed from `rir-ip` to `country-ip-blocks` and JSON format updated to use camelCase. Check [MIGRATION.md](MIGRATION.md) if you're already using this data.
+- 2025-05-04: Removed country code EU (non-standard code that RIPE only kept for historical reasons)
 
-## Migrating from ipverse.net?
+## How to use
 
-While all download URLs pointing to [ipverse.net](http://ipverse.net) are being redirected to the corresponding file in this Github repository, you may choose to directly download the data from the new location. Here's how to change the download-URL:  
+Download the delegated networks for a specific country (Andorra in these examples):
 
-Old URL:  
-```http://ipverse.net/ipblocks/data/countries/ch.zone```  
-```http://ipverse.net/ipblocks/data/countries/ch-ipv6.zone```  
+**Andorra IPv4 addresses:**
+```bash
+curl https://raw.githubusercontent.com/ipverse/country-ip-blocks/master/country/ad/ipv4-aggregated.txt
+```
 
-New URL:  
-```https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ch/ipv4-aggregated.txt```  
-```https://raw.githubusercontent.com/ipverse/rir-ip/master/country/ch/ipv6-aggregated.txt```  
+**Andorra IPv6 addresses:**
+```bash
+curl https://raw.githubusercontent.com/ipverse/country-ip-blocks/master/country/ad/ipv6-aggregated.txt
+```
+
+**Andorra combined (IPv4 + IPv6) in JSON format:**
+```bash
+curl https://raw.githubusercontent.com/ipverse/country-ip-blocks/master/country/ad/aggregated.json
+```
+
+### Want more granular control?
+
+Instead of blocking an entire geographic region, it might be more effective to block specific internet providers based on their autonomous system number (ASN). Check out [asn-ip](https://github.com/ipverse/asn-ip) for more information.
+
+## Use cases
+- Block entire countries at the firewall (for compliance or security reasons)
+- Geo-based access control and traffic routing
+- Network research and statistical analysis
+- Threat hunting and security research
+- Figure out which IPs are delegated to specific countries
+- Pretty much anything where you need to map country codes to their delegated networks
+
+## Questions or issues?
+
+Head over to the [feedback repo](https://github.com/ipverse/feedback) if you have questions, issues, or suggestions.
+
+## License
+
+This data is released under [CC0 1.0 Universal](LICENSE).
