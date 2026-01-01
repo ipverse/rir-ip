@@ -8,15 +8,9 @@ This dataset saves you from parsing RIR delegation files yourself - the prefixes
 
 > **Note:** This data shows which country an IP range is *delegated to* by the RIRs. It can be used for country-level blocking and compliance, but has limitations - delegated IPs can be used in other countries or routed globally. For pinpoint geolocation (city-level, actual user location), you'll need a dedicated geolocation service.
 
-Available formats: plaintext and JSON
+Available formats: JSON and plaintext
 
-**Plaintext format** (Andorra IPv4):
-```
-46.172.224.0/19
-85.94.160.0/19
-```
-
-**JSON format** (includes both IPv4 and IPv6):
+**JSON format**:
 ```json
 {
   "country": "Andorra",
@@ -38,6 +32,17 @@ Available formats: plaintext and JSON
 }
 ```
 
+**Plaintext format** (Andorra IPv4):
+```
+46.172.224.0/19
+85.94.160.0/19
+```
+
+**Plaintext format** (Andorra IPv6):
+```
+2a01:fb00::/29
+```
+
 ## Recent changes
 
 - **2026-01-03**: Repo renamed from `rir-ip` to `country-ip-blocks` and JSON format updated to use camelCase. Check [MIGRATION.md](MIGRATION.md) if you're already using this data.
@@ -47,6 +52,12 @@ Available formats: plaintext and JSON
 
 Download the delegated networks for a specific country (Andorra in these examples):
 
+
+**Andorra in JSON format:**
+```bash
+curl https://raw.githubusercontent.com/ipverse/country-ip-blocks/master/country/ad/aggregated.json
+```
+
 **Andorra IPv4 addresses:**
 ```bash
 curl https://raw.githubusercontent.com/ipverse/country-ip-blocks/master/country/ad/ipv4-aggregated.txt
@@ -55,11 +66,6 @@ curl https://raw.githubusercontent.com/ipverse/country-ip-blocks/master/country/
 **Andorra IPv6 addresses:**
 ```bash
 curl https://raw.githubusercontent.com/ipverse/country-ip-blocks/master/country/ad/ipv6-aggregated.txt
-```
-
-**Andorra combined (IPv4 + IPv6) in JSON format:**
-```bash
-curl https://raw.githubusercontent.com/ipverse/country-ip-blocks/master/country/ad/aggregated.json
 ```
 
 ### Want more granular control?
