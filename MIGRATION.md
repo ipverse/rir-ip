@@ -75,9 +75,9 @@ country/ad/ipv6-aggregated.txt
 - `mode` renamed to `exportMode`
 - `subnets` renamed to `prefixes`
 
-### TXT format
+### Plaintext format
 
-The text file format remains the same:
+The plaintext file format remains the same:
 
 ipv4-aggregated.txt:
 ```
