@@ -1,0 +1,17 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VSCode
+.vscode/
+
+# Agentic AI
+AGENTS.md
+.claude/
+.cursor/
+.copilot/
+.aider*
+.codeium/
+.continue/
