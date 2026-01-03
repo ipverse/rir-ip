@@ -1,8 +1,6 @@
 # country-ip-blocks (formerly rir-ip)
 
-> **📢 Heads up:** This repo has a new name and the data format has changed. 
-> 
-> Check out [MIGRATION.md](MIGRATION.md) for what you need to update.
+> **📢 Heads up:** This repo has a new name and the data format has changed. Check out [MIGRATION.md](MIGRATION.md) for what you need to update.
 
 Ready-to-use IPv4 and IPv6 prefixes delegated to countries (ISO 3166-1 alpha-2), sourced from all five regional internet registries (RIR).
 
