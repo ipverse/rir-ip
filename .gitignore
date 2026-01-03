@@ -1,17 +1,37 @@
-# IntelliJ IDEA
+# IDE
 .idea/
-*.iml
-*.ipr
-*.iws
-
-# VSCode
 .vscode/
+*.swp
+*.swo
+*~
 
-# Agentic AI
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependencies
+node_modules/
+vendor/
+/compare
+
+# Environment
+.env
+.env.local
+
+# AI Assistants
 AGENTS.md
 .claude/
+.opencode/
 .cursor/
-.copilot/
 .aider*
 .codeium/
 .continue/
+.copilot/
+.windsurf/
+.roo/
+.augment*/
+.codex/
+.gemini/
