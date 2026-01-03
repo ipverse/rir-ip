@@ -1,13 +1,13 @@
 {
-  "country": "Côte d’Ivoire",
-  "country-code": "CI",
-  "delegation-status": [
+  "country" : "Côte d’Ivoire",
+  "countryCode" : "CI",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.66.0.0/18",
       "41.67.64.0/20",
       "41.67.88.0/21",
@@ -240,7 +240,7 @@
       "197.242.224.0/20",
       "213.136.96.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:42d8::/32",
       "2001:43f8:940::/47",
       "2001:43f8:b20::/48",

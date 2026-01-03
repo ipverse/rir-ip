@@ -1,7 +1,7 @@
 # Country: South Africa (ZA)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:67c:ef8::/48
 2001:4200::/32

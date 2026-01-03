@@ -1,13 +1,13 @@
 {
-  "country": "South Korea",
-  "country-code": "KR",
-  "delegation-status": [
+  "country" : "South Korea",
+  "countryCode" : "KR",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "1.11.0.0/16",
       "1.16.0.0/14",
       "1.96.0.0/12",
@@ -998,7 +998,7 @@
       "223.253.0.0/16",
       "223.255.192.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:220::/32",
       "2001:230::/32",
       "2001:270::/32",

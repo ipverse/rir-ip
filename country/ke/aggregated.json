@@ -1,13 +1,13 @@
 {
-  "country": "Kenya",
-  "country-code": "KE",
-  "delegation-status": [
+  "country" : "Kenya",
+  "countryCode" : "KE",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.57.96.0/20",
       "41.72.160.0/19",
       "41.75.144.0/20",
@@ -339,7 +339,7 @@
       "212.49.64.0/19",
       "217.199.144.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:4358::/32",
       "2001:4368::/32",
       "2001:4370::/32",

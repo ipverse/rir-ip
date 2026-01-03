@@ -1,7 +1,7 @@
 # Country: Jordan (JO)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2.59.52.0/22
 5.45.128.0/20

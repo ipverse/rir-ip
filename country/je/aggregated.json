@@ -1,13 +1,13 @@
 {
-  "country": "Jersey",
-  "country-code": "JE",
-  "delegation-status": [
+  "country" : "Jersey",
+  "countryCode" : "JE",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "5.35.160.0/21",
       "5.42.128.0/21",
       "31.186.112.0/21",
@@ -51,7 +51,7 @@
       "213.134.23.0/24",
       "217.198.188.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2a01:94a0::/32",
       "2a01:a400::/32",
       "2a02:c28::/29",

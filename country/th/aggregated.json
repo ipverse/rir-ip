@@ -1,13 +1,13 @@
 {
-  "country": "Thailand",
-  "country-code": "TH",
-  "delegation-status": [
+  "country" : "Thailand",
+  "countryCode" : "TH",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "1.0.128.0/17",
       "1.1.128.0/17",
       "1.2.128.0/17",
@@ -647,7 +647,7 @@
       "223.27.192.0/18",
       "223.204.0.0/14"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:3c8::/32",
       "2001:c00::/32",
       "2001:c38::/31",

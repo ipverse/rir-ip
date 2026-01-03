@@ -1,7 +1,7 @@
 # Country: Cayman Islands (KY)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 23.188.0.0/24
 45.144.204.0/22

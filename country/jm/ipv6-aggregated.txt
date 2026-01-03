@@ -1,7 +1,7 @@
 # Country: Jamaica (JM)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:504:3e::/48
 2600:1b00::/24

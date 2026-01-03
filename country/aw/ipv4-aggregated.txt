@@ -1,7 +1,7 @@
 # Country: Aruba (AW)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 138.255.252.0/22
 170.84.254.0/24

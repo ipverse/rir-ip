@@ -1,13 +1,13 @@
 {
-  "country": "Qatar",
-  "country-code": "QA",
-  "delegation-status": [
+  "country" : "Qatar",
+  "countryCode" : "QA",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "5.180.36.0/22",
       "31.11.48.0/21",
       "37.186.32.0/19",
@@ -53,7 +53,7 @@
       "213.177.175.0/24",
       "213.178.136.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:ed8::/48",
       "2001:7f8:ed::/48",
       "2001:7f8:162::/47",

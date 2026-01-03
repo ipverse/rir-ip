@@ -1,13 +1,13 @@
 {
-  "country": "Denmark",
-  "country-code": "DK",
-  "delegation-status": [
+  "country" : "Denmark",
+  "countryCode" : "DK",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.56.4.0/22",
       "2.59.180.0/22",
       "2.59.184.0/22",
@@ -1258,7 +1258,7 @@
       "217.195.176.0/20",
       "217.198.208.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:1a::/48",
       "2001:678:74::/48",
       "2001:678:78::/48",

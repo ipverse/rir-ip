@@ -1,13 +1,13 @@
 {
-  "country": "St. Vincent \u0026 Grenadines",
-  "country-code": "VC",
-  "delegation-status": [
+  "country" : "St. Vincent & Grenadines",
+  "countryCode" : "VC",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "23.170.80.0/24",
       "45.42.232.0/22",
       "91.230.190.0/24",
@@ -21,7 +21,7 @@
       "207.191.240.0/21",
       "208.84.200.0/21"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:505:141::/48",
       "2600:1e00::/28",
       "2602:fce4::/36"

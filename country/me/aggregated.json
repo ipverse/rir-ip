@@ -1,13 +1,13 @@
 {
-  "country": "Montenegro",
-  "country-code": "ME",
-  "delegation-status": [
+  "country" : "Montenegro",
+  "countryCode" : "ME",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "31.204.192.0/18",
       "37.0.64.0/21",
       "37.122.160.0/19",
@@ -57,7 +57,7 @@
       "213.149.96.0/19",
       "213.196.64.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:408::/48",
       "2001:67c:f94::/48",
       "2001:7f8:22::/48",

@@ -1,7 +1,7 @@
 # Country: Libya (LY)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 5.63.0.0/21
 41.74.64.0/20

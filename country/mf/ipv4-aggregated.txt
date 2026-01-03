@@ -1,7 +1,7 @@
 # Country: St. Martin (MF)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 23.138.120.0/24
 148.64.60.0/23

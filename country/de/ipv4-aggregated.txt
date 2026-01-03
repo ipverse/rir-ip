@@ -1,7 +1,7 @@
 # Country: Germany (DE)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2.56.20.0/22
 2.56.72.0/21

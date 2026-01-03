@@ -1,7 +1,7 @@
 # Country: North Macedonia (MK)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 5.32.176.0/21
 31.3.88.0/21

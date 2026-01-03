@@ -1,7 +1,7 @@
 # Country: Yemen (YE)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 5.100.160.0/21
 5.255.0.0/19

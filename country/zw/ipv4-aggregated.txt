@@ -1,7 +1,7 @@
 # Country: Zimbabwe (ZW)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 41.57.64.0/20
 41.78.76.0/22

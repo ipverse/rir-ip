@@ -1,13 +1,13 @@
 {
-  "country": "Seychelles",
-  "country-code": "SC",
-  "delegation-status": [
+  "country" : "Seychelles",
+  "countryCode" : "SC",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.56.10.0/24",
       "2.56.100.0/22",
       "2.56.112.0/22",
@@ -802,7 +802,7 @@
       "217.198.182.0/24",
       "217.199.255.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:a18::/48",
       "2001:df1:5d80::/48",
       "2001:df1:f400::/48",

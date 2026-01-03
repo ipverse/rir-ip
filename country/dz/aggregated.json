@@ -1,13 +1,13 @@
 {
-  "country": "Algeria",
-  "country-code": "DZ",
-  "delegation-status": [
+  "country" : "Algeria",
+  "countryCode" : "DZ",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.96.0.0/12",
       "41.200.0.0/15",
       "41.220.144.0/20",
@@ -43,7 +43,7 @@
       "197.200.0.0/13",
       "213.179.160.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:4340::/32",
       "2c0f:41a0::/32",
       "2c0f:e8b0::/32",

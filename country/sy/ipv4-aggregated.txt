@@ -1,7 +1,7 @@
 # Country: Syria (SY)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 5.0.0.0/16
 5.104.128.0/21

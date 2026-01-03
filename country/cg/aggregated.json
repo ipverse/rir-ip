@@ -1,13 +1,13 @@
 {
-  "country": "Congo - Brazzaville",
-  "country-code": "CG",
-  "delegation-status": [
+  "country" : "Congo - Brazzaville",
+  "countryCode" : "CG",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.75.64.0/20",
       "102.64.116.0/22",
       "102.129.64.0/19",
@@ -31,7 +31,7 @@
       "197.214.128.0/17",
       "197.255.176.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:43f8:6a0::/46",
       "2001:43fc:f000::/48",
       "2c0f:1180::/32",

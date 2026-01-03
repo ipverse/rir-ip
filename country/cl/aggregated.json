@@ -1,13 +1,13 @@
 {
-  "country": "Chile",
-  "country-code": "CL",
-  "delegation-status": [
+  "country" : "Chile",
+  "countryCode" : "CL",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "45.4.0.0/22",
       "45.4.168.0/22",
       "45.5.120.0/21",
@@ -639,7 +639,7 @@
       "207.248.192.0/19",
       "216.155.64.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:1310::/32",
       "2001:1398::/32",
       "2800:8::/32",

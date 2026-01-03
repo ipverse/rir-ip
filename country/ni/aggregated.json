@@ -1,13 +1,13 @@
 {
-  "country": "Nicaragua",
-  "country-code": "NI",
-  "delegation-status": [
+  "country" : "Nicaragua",
+  "countryCode" : "NI",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "45.5.216.0/22",
       "45.170.224.0/22",
       "45.182.142.0/24",
@@ -59,7 +59,7 @@
       "201.131.115.0/24",
       "207.248.86.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2800:10::/32",
       "2800:8c0::/32",
       "2801:14:5000::/48",

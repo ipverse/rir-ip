@@ -1,13 +1,13 @@
 {
-  "country": "Oman",
-  "country-code": "OM",
-  "delegation-status": [
+  "country" : "Oman",
+  "countryCode" : "OM",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "5.21.0.0/16",
       "5.32.192.0/18",
       "5.36.0.0/15",
@@ -83,7 +83,7 @@
       "213.202.8.0/21",
       "213.202.16.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:7f8:105::/48",
       "2001:1670::/32",
       "2001:3340::/29",

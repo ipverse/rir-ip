@@ -1,13 +1,13 @@
 {
-  "country": "Lesotho",
-  "country-code": "LS",
-  "delegation-status": [
+  "country" : "Lesotho",
+  "countryCode" : "LS",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.76.16.0/21",
       "41.191.200.0/21",
       "41.203.176.0/20",
@@ -29,7 +29,7 @@
       "197.231.32.0/19",
       "197.254.128.0/18"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:43f8:210::/48",
       "2001:43f8:1170::/48",
       "2c0f:3140::/32",

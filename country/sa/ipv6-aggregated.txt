@@ -1,7 +1,7 @@
 # Country: Saudi Arabia (SA)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:678:cc::/48
 2001:678:39c::/48

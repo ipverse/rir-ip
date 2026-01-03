@@ -1,7 +1,7 @@
 # Country: Namibia (NA)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:43f8:80::/48
 2001:43f8:3b0::/48

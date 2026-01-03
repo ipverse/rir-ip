@@ -1,7 +1,7 @@
 # Country: New Zealand (NZ)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:678:25c::/48
 2001:67c:112c::/48

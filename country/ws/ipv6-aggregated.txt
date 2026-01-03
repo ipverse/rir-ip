@@ -1,7 +1,7 @@
 # Country: Samoa (WS)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:de8:8000::/48
 2001:df1:4c40::/48

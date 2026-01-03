@@ -1,7 +1,7 @@
 # Country: Congo - Kinshasa (CD)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:43f8:3c0::/47
 2001:43f8:1460::/48

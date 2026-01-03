@@ -1,13 +1,13 @@
 {
-  "country": "Canada",
-  "country-code": "CA",
-  "delegation-status": [
+  "country" : "Canada",
+  "countryCode" : "CA",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.59.21.0/24",
       "2.59.22.0/24",
       "5.23.0.0/19",
@@ -6216,7 +6216,7 @@
       "217.65.70.0/24",
       "223.165.4.0/23"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:410::/32",
       "2001:4c0::/32",
       "2001:4e8::/32",

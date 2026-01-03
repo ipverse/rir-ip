@@ -1,7 +1,7 @@
 # Country: Sri Lanka (LK)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:678:638::/48
 2001:de9::/48

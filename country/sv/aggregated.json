@@ -1,13 +1,13 @@
 {
-  "country": "El Salvador",
-  "country-code": "SV",
-  "delegation-status": [
+  "country" : "El Salvador",
+  "countryCode" : "SV",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "45.5.12.0/24",
       "45.152.216.0/22",
       "45.161.24.0/22",
@@ -84,7 +84,7 @@
       "201.247.0.0/16",
       "207.191.172.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2800:90::/32",
       "2800:880::/30",
       "2800:b20::/30",

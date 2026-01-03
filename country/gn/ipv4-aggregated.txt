@@ -1,7 +1,7 @@
 # Country: Guinea (GN)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 41.77.184.0/21
 41.79.200.0/22

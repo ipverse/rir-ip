@@ -1,13 +1,13 @@
 {
-  "country": "Cameroon",
-  "country-code": "CM",
-  "delegation-status": [
+  "country" : "Cameroon",
+  "countryCode" : "CM",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.77.80.0/21",
       "41.92.128.0/21",
       "41.92.152.0/21",
@@ -68,7 +68,7 @@
       "196.216.212.0/24",
       "197.159.0.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:4268::/32",
       "2001:43f8:d70::/47",
       "2001:43f8:1470::/48",

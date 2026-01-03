@@ -1,13 +1,13 @@
 {
-  "country": "French Polynesia",
-  "country-code": "PF",
-  "delegation-status": [
+  "country" : "French Polynesia",
+  "countryCode" : "PF",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "43.249.176.0/22",
       "50.21.80.0/20",
       "64.140.144.0/20",
@@ -28,7 +28,7 @@
       "203.185.176.0/21",
       "218.100.77.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:de8:16::/48",
       "2001:df6:8080::/48",
       "2400:5f00::/32",

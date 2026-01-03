@@ -1,7 +1,7 @@
 # Country: Lesotho (LS)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 41.76.16.0/21
 41.191.200.0/21

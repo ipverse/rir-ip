@@ -1,7 +1,7 @@
 # Country: Burundi (BI)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:43f8:990::/47
 2c0f:ef70::/32

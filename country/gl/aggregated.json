@@ -1,13 +1,13 @@
 {
-  "country": "Greenland",
-  "country-code": "GL",
-  "delegation-status": [
+  "country" : "Greenland",
+  "countryCode" : "GL",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "37.18.44.0/22",
       "37.230.164.0/22",
       "37.230.214.0/23",
@@ -34,7 +34,7 @@
       "188.72.71.0/24",
       "194.177.224.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2a00:1fa8::/32",
       "2a03:fdc0::/32",
       "2a0e:3b80::/29"

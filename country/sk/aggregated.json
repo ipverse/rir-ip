@@ -1,13 +1,13 @@
 {
-  "country": "Slovakia",
-  "country-code": "SK",
-  "delegation-status": [
+  "country" : "Slovakia",
+  "countryCode" : "SK",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.57.64.0/22",
       "5.34.168.0/21",
       "5.42.148.0/22",
@@ -422,13 +422,12 @@
       "217.145.192.0/20",
       "217.172.144.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:70::/48",
       "2001:678:90::/48",
       "2001:678:9c::/48",
       "2001:678:108::/48",
       "2001:678:12c::/48",
-      "2001:678:170::/48",
       "2001:678:448::/48",
       "2001:678:86c::/48",
       "2001:678:c34::/48",

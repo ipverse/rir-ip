@@ -1,7 +1,7 @@
 # Country: Hong Kong SAR China (HK)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 1.36.0.0/16
 1.64.0.0/15

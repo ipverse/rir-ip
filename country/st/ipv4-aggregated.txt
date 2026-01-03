@@ -1,7 +1,7 @@
 # Country: São Tomé & Príncipe (ST)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 102.206.44.0/22
 154.72.12.0/22

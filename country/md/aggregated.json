@@ -1,13 +1,13 @@
 {
-  "country": "Moldova",
-  "country-code": "MD",
-  "delegation-status": [
+  "country" : "Moldova",
+  "countryCode" : "MD",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.57.152.0/22",
       "2.59.204.0/22",
       "5.32.168.0/21",
@@ -423,7 +423,7 @@
       "217.26.144.0/20",
       "217.26.160.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:6d4::/48",
       "2001:678:cf4::/48",
       "2001:67c:df4::/48",

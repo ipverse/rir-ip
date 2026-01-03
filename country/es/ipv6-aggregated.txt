@@ -1,7 +1,7 @@
 # Country: Spain (ES)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:678:40::/48
 2001:678:44::/48

@@ -1,7 +1,7 @@
 # Country: Åland Islands (AX)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 91.210.154.0/24
 185.84.30.0/23

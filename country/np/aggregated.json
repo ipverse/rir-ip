@@ -1,13 +1,13 @@
 {
-  "country": "Nepal",
-  "country-code": "NP",
-  "delegation-status": [
+  "country" : "Nepal",
+  "countryCode" : "NP",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "27.34.0.0/17",
       "27.111.16.0/20",
       "36.0.4.0/22",
@@ -275,7 +275,7 @@
       "212.32.46.0/23",
       "212.32.52.0/23"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:dd8:10::/47",
       "2001:dd8:24::/47",
       "2001:def:8000::/47",

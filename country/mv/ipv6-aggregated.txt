@@ -1,7 +1,7 @@
 # Country: Maldives (MV)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:dde::/48
 2001:dec:c000::/48

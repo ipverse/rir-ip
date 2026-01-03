@@ -1,13 +1,13 @@
 {
-  "country": "Dominica",
-  "country-code": "DM",
-  "delegation-status": [
+  "country" : "Dominica",
+  "countryCode" : "DM",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "23.186.240.0/24",
       "45.9.148.0/22",
       "66.118.36.0/22",
@@ -23,7 +23,7 @@
       "206.53.141.0/24",
       "216.162.201.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:504:63::/48",
       "2001:678:a50::/48",
       "2602:fc3a::/36",

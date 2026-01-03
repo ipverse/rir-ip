@@ -1,7 +1,7 @@
 # Country: Taiwan (TW)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 1.34.0.0/15
 1.160.0.0/12

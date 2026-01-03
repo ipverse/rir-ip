@@ -1,7 +1,7 @@
 # Country: India (IN)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:67c:ffc::/48
 2001:ca8::/32

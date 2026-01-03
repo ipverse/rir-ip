@@ -1,13 +1,13 @@
 {
-  "country": "Iran",
-  "country-code": "IR",
-  "delegation-status": [
+  "country" : "Iran",
+  "countryCode" : "IR",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.57.3.0/24",
       "2.144.0.0/14",
       "2.176.0.0/12",
@@ -1704,7 +1704,7 @@
       "217.198.190.0/24",
       "217.218.0.0/15"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:b0::/46",
       "2001:678:428::/48",
       "2001:67c:d98::/48",

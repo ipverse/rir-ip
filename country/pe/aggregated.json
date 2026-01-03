@@ -1,13 +1,13 @@
 {
-  "country": "Peru",
-  "country-code": "PE",
-  "delegation-status": [
+  "country" : "Peru",
+  "countryCode" : "PE",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "45.4.92.0/22",
       "45.5.56.0/22",
       "45.5.68.0/22",
@@ -234,7 +234,7 @@
       "209.45.0.0/17",
       "216.244.128.0/18"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:1300::/32",
       "2001:1380::/32",
       "2001:1388::/31",

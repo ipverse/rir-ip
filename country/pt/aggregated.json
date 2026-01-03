@@ -1,13 +1,13 @@
 {
-  "country": "Portugal",
-  "country-code": "PT",
-  "delegation-status": [
+  "country" : "Portugal",
+  "countryCode" : "PT",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.80.0.0/14",
       "5.43.0.0/18",
       "5.158.0.0/18",
@@ -414,7 +414,7 @@
       "217.129.0.0/16",
       "217.168.112.0/21"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:1094::/48",
       "2001:67c:c0c::/48",
       "2001:67c:13ec::/48",

@@ -1,7 +1,7 @@
 # Country: St. Lucia (LC)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2600:7c00::/28
 2606:3c80::/32

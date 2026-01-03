@@ -1,13 +1,13 @@
 {
-  "country": "Madagascar",
-  "country-code": "MG",
-  "delegation-status": [
+  "country" : "Madagascar",
+  "countryCode" : "MG",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.63.128.0/19",
       "41.74.16.0/20",
       "41.74.208.0/20",
@@ -36,7 +36,7 @@
       "197.159.144.0/20",
       "197.215.192.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:4398::/32",
       "2001:43f8:290::/48",
       "2001:43f8:a10::/47",

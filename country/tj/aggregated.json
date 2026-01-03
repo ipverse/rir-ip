@@ -1,13 +1,13 @@
 {
-  "country": "Tajikistan",
-  "country-code": "TJ",
-  "delegation-status": [
+  "country" : "Tajikistan",
+  "countryCode" : "TJ",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "37.98.152.0/21",
       "45.81.37.0/24",
       "45.94.216.0/22",
@@ -62,7 +62,7 @@
       "217.70.3.0/24",
       "217.197.105.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:650::/48",
       "2001:7f8:59::/48",
       "2a01:5d60::/29",

@@ -1,7 +1,7 @@
 # Country: Madagascar (MG)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 41.63.128.0/19
 41.74.16.0/20

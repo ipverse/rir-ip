@@ -1,13 +1,13 @@
 {
-  "country": "Honduras",
-  "country-code": "HN",
-  "delegation-status": [
+  "country" : "Honduras",
+  "countryCode" : "HN",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "45.4.84.0/22",
       "45.4.136.0/22",
       "45.4.204.0/22",
@@ -196,7 +196,7 @@
       "201.220.128.0/20",
       "207.248.66.0/23"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2800:6a0::/32",
       "2800:b10::/32",
       "2801:0:30::/48",

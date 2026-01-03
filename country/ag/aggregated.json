@@ -1,13 +1,13 @@
 {
-  "country": "Antigua \u0026 Barbuda",
-  "country-code": "AG",
-  "delegation-status": [
+  "country" : "Antigua & Barbuda",
+  "countryCode" : "AG",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "23.132.144.0/24",
       "23.176.240.0/24",
       "46.19.184.0/21",
@@ -51,7 +51,7 @@
       "213.21.48.0/20",
       "216.48.96.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:504:13c::/48",
       "2001:b28::/32",
       "2602:f6b5::/36",

@@ -1,7 +1,7 @@
 # Country: British Virgin Islands (VG)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:504:93::/48
 2001:67c:4e8::/48

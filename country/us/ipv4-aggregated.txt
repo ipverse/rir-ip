@@ -1,7 +1,7 @@
 # Country: United States (US)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 1.178.0.0/23
 1.178.4.0/22

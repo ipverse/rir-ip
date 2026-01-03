@@ -1,7 +1,7 @@
 # Country: Puerto Rico (PR)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:500:10::/48
 2001:504:1d::/48

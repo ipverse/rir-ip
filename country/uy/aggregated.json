@@ -1,13 +1,13 @@
 {
-  "country": "Uruguay",
-  "country-code": "UY",
-  "delegation-status": [
+  "country" : "Uruguay",
+  "countryCode" : "UY",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "45.6.248.0/21",
       "45.228.64.0/23",
       "69.164.80.0/24",
@@ -67,7 +67,7 @@
       "201.219.252.0/22",
       "201.221.0.0/18"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:1328::/32",
       "2001:1348::/32",
       "2001:13c7:7001::/48",

@@ -1,7 +1,7 @@
 # Country: Portugal (PT)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:678:1094::/48
 2001:67c:c0c::/48

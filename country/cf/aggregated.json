@@ -1,19 +1,19 @@
 {
-  "country": "Central African Republic",
-  "country-code": "CF",
-  "delegation-status": [
+  "country" : "Central African Republic",
+  "countryCode" : "CF",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.78.120.0/22",
       "41.223.184.0/22",
       "102.205.60.0/23",
       "169.239.96.0/22",
       "197.242.176.0/21"
     ],
-    "ipv6": []
+    "ipv6" : [ ]
   }
 }

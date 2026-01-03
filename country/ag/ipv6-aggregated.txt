@@ -1,7 +1,7 @@
 # Country: Antigua & Barbuda (AG)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:504:13c::/48
 2001:b28::/32

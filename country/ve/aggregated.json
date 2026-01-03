@@ -1,13 +1,13 @@
 {
-  "country": "Venezuela",
-  "country-code": "VE",
-  "delegation-status": [
+  "country" : "Venezuela",
+  "countryCode" : "VE",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "45.7.140.0/22",
       "45.68.88.0/22",
       "45.68.100.0/22",
@@ -224,7 +224,7 @@
       "201.242.0.0/15",
       "201.248.0.0/15"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:1338::/32",
       "2800:30::/32",
       "2800:38::/32",

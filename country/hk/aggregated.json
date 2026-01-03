@@ -1,13 +1,13 @@
 {
-  "country": "Hong Kong SAR China",
-  "country-code": "HK",
-  "delegation-status": [
+  "country" : "Hong Kong SAR China",
+  "countryCode" : "HK",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "1.36.0.0/16",
       "1.64.0.0/15",
       "2.59.100.0/22",
@@ -2936,7 +2936,7 @@
       "223.255.240.0/22",
       "223.255.248.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:2e0::/32",
       "2001:67c:f2c::/48",
       "2001:7fa:0:1::/64",
@@ -3499,6 +3499,7 @@
       "2404:8c0::/32",
       "2404:1280::/32",
       "2404:1a40::/32",
+      "2404:2100::/32",
       "2404:2480::/32",
       "2404:2a80::/32",
       "2404:2b40::/32",

@@ -1,13 +1,13 @@
 {
-  "country": "Burkina Faso",
-  "country-code": "BF",
-  "delegation-status": [
+  "country" : "Burkina Faso",
+  "countryCode" : "BF",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.78.48.0/21",
       "41.138.96.0/19",
       "41.203.224.0/20",
@@ -59,7 +59,7 @@
       "197.239.64.0/18",
       "212.52.128.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:43f8:3d0::/48",
       "2001:43f8:a50::/48",
       "2001:43f8:b60::/47",

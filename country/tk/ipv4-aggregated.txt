@@ -1,7 +1,7 @@
 # Country: Tokelau (TK)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 27.96.24.0/21
 194.0.38.0/23

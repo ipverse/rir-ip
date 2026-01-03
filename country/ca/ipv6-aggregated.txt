@@ -1,7 +1,7 @@
 # Country: Canada (CA)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:410::/32
 2001:4c0::/32

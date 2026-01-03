@@ -1,7 +1,7 @@
 # Country: Pakistan (PK)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 14.1.104.0/22
 14.192.128.0/19

@@ -1,15 +1,15 @@
 {
-  "country": "Eritrea",
-  "country-code": "ER",
-  "delegation-status": [
+  "country" : "Eritrea",
+  "countryCode" : "ER",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "196.200.96.0/20"
     ],
-    "ipv6": []
+    "ipv6" : [ ]
   }
 }

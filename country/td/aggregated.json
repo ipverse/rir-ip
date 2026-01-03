@@ -1,13 +1,13 @@
 {
-  "country": "Chad",
-  "country-code": "TD",
-  "delegation-status": [
+  "country" : "Chad",
+  "countryCode" : "TD",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.242.152.0/21",
       "102.23.84.0/22",
       "102.131.56.0/22",
@@ -29,7 +29,7 @@
       "196.223.42.0/24",
       "197.149.128.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:43f8:16a0::/47",
       "2001:43fd:2000::/48",
       "2c0f:5a80::/32",

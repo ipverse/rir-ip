@@ -1,7 +1,7 @@
 # Country: Armenia (AM)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2.56.204.0/22
 5.39.204.0/22

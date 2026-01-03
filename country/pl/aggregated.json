@@ -1,13 +1,13 @@
 {
-  "country": "Poland",
-  "country-code": "PL",
-  "delegation-status": [
+  "country" : "Poland",
+  "countryCode" : "PL",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.56.68.0/22",
       "2.57.8.0/22",
       "2.57.132.0/22",
@@ -3922,7 +3922,7 @@
       "217.197.64.0/20",
       "217.197.102.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:1c0::/48",
       "2001:678:1cc::/48",
       "2001:678:224::/48",
@@ -4147,6 +4147,7 @@
       "2001:67c:2d24::/48",
       "2001:67c:2d98::/48",
       "2001:67c:2db4::/48",
+      "2001:67c:2ddc::/48",
       "2001:67c:2de4::/48",
       "2001:67c:2e3c::/48",
       "2001:67c:2e50::/48",

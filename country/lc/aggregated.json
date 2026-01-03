@@ -1,13 +1,13 @@
 {
-  "country": "St. Lucia",
-  "country-code": "LC",
-  "delegation-status": [
+  "country" : "St. Lucia",
+  "countryCode" : "LC",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "24.92.144.0/20",
       "66.212.62.0/23",
       "72.14.98.0/23",
@@ -28,7 +28,7 @@
       "207.191.248.0/21",
       "208.94.176.0/21"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2600:7c00::/28",
       "2606:3c80::/32",
       "2606:5dc0::/32"

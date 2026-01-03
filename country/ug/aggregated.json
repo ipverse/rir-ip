@@ -1,13 +1,13 @@
 {
-  "country": "Uganda",
-  "country-code": "UG",
-  "delegation-status": [
+  "country" : "Uganda",
+  "countryCode" : "UG",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.75.160.0/19",
       "41.77.72.0/21",
       "41.84.192.0/19",
@@ -110,7 +110,7 @@
       "212.88.96.0/19",
       "216.104.192.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:43f8:130::/48",
       "2001:43f8:a30::/48",
       "2001:43f8:ad0::/48",

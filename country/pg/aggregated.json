@@ -1,13 +1,13 @@
 {
-  "country": "Papua New Guinea",
-  "country-code": "PG",
-  "delegation-status": [
+  "country" : "Papua New Guinea",
+  "countryCode" : "PG",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "14.192.72.0/22",
       "27.122.16.0/20",
       "43.245.56.0/22",
@@ -73,7 +73,7 @@
       "202.171.240.0/21",
       "203.83.16.0/21"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:c60::/32",
       "2001:dea:8000::/48",
       "2001:df1:b00::/48",

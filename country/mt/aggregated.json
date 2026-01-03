@@ -1,13 +1,13 @@
 {
-  "country": "Malta",
-  "country-code": "MT",
-  "delegation-status": [
+  "country" : "Malta",
+  "countryCode" : "MT",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "37.75.32.0/19",
       "37.114.72.0/21",
       "37.233.120.0/21",
@@ -132,7 +132,7 @@
       "217.168.160.0/20",
       "217.198.186.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:67c:dbc::/48",
       "2001:1a70::/29",
       "2a00:1060::/32",

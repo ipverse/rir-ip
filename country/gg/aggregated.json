@@ -1,13 +1,13 @@
 {
-  "country": "Guernsey",
-  "country-code": "GG",
-  "delegation-status": [
+  "country" : "Guernsey",
+  "countryCode" : "GG",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "45.11.144.0/22",
       "45.135.252.0/22",
       "46.31.240.0/21",
@@ -31,7 +31,7 @@
       "194.145.126.0/24",
       "195.226.128.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2a00:8300::/32",
       "2a01:5480::/32",
       "2a03:7aa0::/32",

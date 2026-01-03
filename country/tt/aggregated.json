@@ -1,13 +1,13 @@
 {
-  "country": "Trinidad \u0026 Tobago",
-  "country-code": "TT",
-  "delegation-status": [
+  "country" : "Trinidad & Tobago",
+  "countryCode" : "TT",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "45.185.20.0/22",
       "45.234.164.0/22",
       "45.237.88.0/22",
@@ -60,7 +60,7 @@
       "201.238.64.0/18",
       "209.94.192.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2800:70::/32",
       "2800:180::/32",
       "2800:420::/30",

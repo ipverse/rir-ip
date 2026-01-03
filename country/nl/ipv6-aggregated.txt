@@ -1,7 +1,7 @@
 # Country: Netherlands (NL)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:504:34::/48
 2001:504:38::/48
@@ -254,6 +254,7 @@
 2001:7f8:104::/48
 2001:7f8:10f::/48
 2001:7f8:12a::/48
+2001:7f8:12f::/48
 2001:7f8:134::/48
 2001:7f8:141::/48
 2001:7f8:15a::/48

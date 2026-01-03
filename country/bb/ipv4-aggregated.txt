@@ -1,7 +1,7 @@
 # Country: Barbados (BB)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 23.236.0.0/20
 64.119.192.0/20

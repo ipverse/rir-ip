@@ -1,7 +1,7 @@
 # Country: Iceland (IS)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 5.23.64.0/19
 31.15.112.0/21

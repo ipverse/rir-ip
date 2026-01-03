@@ -1,7 +1,7 @@
 # Country: Italy (IT)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:678:12::/48
 2001:678:d4::/48
@@ -316,7 +316,7 @@
 2a03:1700::/29
 2a03:1920::/32
 2a03:2340::/32
-2a03:2700::/29
+2a03:2700::/32
 2a03:2b00::/32
 2a03:2c40::/32
 2a03:2e80::/29

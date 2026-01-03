@@ -1,7 +1,7 @@
 # Country: Dominican Republic (DO)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 5.183.80.0/22
 24.152.48.0/22

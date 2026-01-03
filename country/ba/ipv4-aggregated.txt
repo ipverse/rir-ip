@@ -1,7 +1,7 @@
 # Country: Bosnia & Herzegovina (BA)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 5.43.64.0/18
 5.133.0.0/21

@@ -1,13 +1,13 @@
 {
-  "country": "Guyana",
-  "country-code": "GY",
-  "delegation-status": [
+  "country" : "Guyana",
+  "countryCode" : "GY",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "138.94.248.0/22",
       "168.232.144.0/22",
       "179.51.205.0/24",
@@ -22,7 +22,7 @@
       "190.108.208.0/21",
       "190.124.220.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2800:3c0::/32",
       "2801:16:e0::/48",
       "2803:d00::/32",

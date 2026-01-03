@@ -1,13 +1,13 @@
 {
-  "country": "British Virgin Islands",
-  "country-code": "VG",
-  "delegation-status": [
+  "country" : "British Virgin Islands",
+  "countryCode" : "VG",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.56.144.0/22",
       "5.35.168.0/21",
       "5.180.136.0/22",
@@ -214,7 +214,7 @@
       "213.108.196.0/22",
       "216.180.224.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:504:93::/48",
       "2001:67c:4e8::/48",
       "2001:67c:2d54::/48",

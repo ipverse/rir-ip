@@ -1,7 +1,7 @@
 # Country: Gambia (GM)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:43f8:970::/48
 2c0f:140::/32

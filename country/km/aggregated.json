@@ -1,20 +1,20 @@
 {
-  "country": "Comoros",
-  "country-code": "KM",
-  "delegation-status": [
+  "country" : "Comoros",
+  "countryCode" : "KM",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "102.204.47.0/24",
       "102.207.176.0/22",
       "102.223.120.0/22",
       "164.160.136.0/22",
       "197.255.224.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2c0f:f2c8::/32",
       "2c0f:f560::/32"
     ]

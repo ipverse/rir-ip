@@ -1,13 +1,13 @@
 {
-  "country": "Turkmenistan",
-  "country-code": "TM",
-  "delegation-status": [
+  "country" : "Turkmenistan",
+  "countryCode" : "TM",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "77.83.59.0/24",
       "95.85.96.0/19",
       "103.220.0.0/22",
@@ -20,7 +20,7 @@
       "217.65.78.0/24",
       "217.174.224.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:7f8:165::/48",
       "2a05:2180::/29",
       "2a14:340::/29"

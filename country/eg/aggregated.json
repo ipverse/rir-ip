@@ -1,13 +1,13 @@
 {
-  "country": "Egypt",
-  "country-code": "EG",
-  "delegation-status": [
+  "country" : "Egypt",
+  "countryCode" : "EG",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.32.0.0/12",
       "41.64.0.0/15",
       "41.68.0.0/15",
@@ -184,7 +184,7 @@
       "217.52.0.0/14",
       "217.139.0.0/16"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:4220::/32",
       "2001:42b8::/32",
       "2001:4300::/32",

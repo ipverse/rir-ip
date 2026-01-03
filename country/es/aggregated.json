@@ -1,13 +1,13 @@
 {
-  "country": "Spain",
-  "country-code": "ES",
-  "delegation-status": [
+  "country" : "Spain",
+  "countryCode" : "ES",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "1.178.224.0/19",
       "2.56.64.0/22",
       "2.57.2.0/24",
@@ -3396,7 +3396,7 @@
       "217.197.111.0/24",
       "217.198.192.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:40::/48",
       "2001:678:44::/48",
       "2001:678:48::/48",

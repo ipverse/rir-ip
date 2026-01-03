@@ -1,13 +1,13 @@
 {
-  "country": "Lebanon",
-  "country-code": "LB",
-  "delegation-status": [
+  "country" : "Lebanon",
+  "countryCode" : "LB",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "5.8.128.0/19",
       "5.45.188.0/22",
       "5.57.0.0/21",
@@ -234,7 +234,7 @@
       "213.204.64.0/18",
       "217.150.80.0/21"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:67c:1150::/48",
       "2001:7f8:2::/48",
       "2001:7f8:c2::/48",

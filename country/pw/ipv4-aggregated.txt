@@ -1,7 +1,7 @@
 # Country: Palau (PW)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 103.30.248.0/22
 103.159.28.0/23

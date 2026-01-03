@@ -1,13 +1,13 @@
 {
-  "country": "Sint Maarten",
-  "country-code": "SX",
-  "delegation-status": [
+  "country" : "Sint Maarten",
+  "countryCode" : "SX",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "131.161.84.0/22",
       "168.0.84.0/22",
       "168.197.108.0/22",
@@ -19,7 +19,7 @@
       "200.7.32.0/19",
       "201.220.0.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:13c7:6002::/48",
       "2800:280::/32",
       "2800:470::/32",

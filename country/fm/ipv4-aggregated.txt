@@ -1,7 +1,7 @@
 # Country: Micronesia (FM)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 43.248.156.0/22
 103.39.252.0/22

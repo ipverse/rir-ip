@@ -1,7 +1,7 @@
 # Country: St. Martin (MF)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2602:fb4a::/40
 2602:fb4b::/40

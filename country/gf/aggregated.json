@@ -1,13 +1,13 @@
 {
-  "country": "French Guiana",
-  "country-code": "GF",
-  "delegation-status": [
+  "country" : "French Guiana",
+  "countryCode" : "GF",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "45.169.164.0/22",
       "128.201.88.0/22",
       "161.22.64.0/18",
@@ -15,7 +15,7 @@
       "186.2.244.0/22",
       "200.13.136.0/21"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2803:3a0::/32",
       "2803:1680::/32",
       "2803:1740::/32",

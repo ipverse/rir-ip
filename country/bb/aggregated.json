@@ -1,13 +1,13 @@
 {
-  "country": "Barbados",
-  "country-code": "BB",
-  "delegation-status": [
+  "country" : "Barbados",
+  "countryCode" : "BB",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "23.236.0.0/20",
       "64.119.192.0/20",
       "65.48.128.0/17",
@@ -39,7 +39,7 @@
       "205.214.192.0/19",
       "216.110.96.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2600:8400::/28",
       "2602:fe45::/36",
       "2604:a180::/32",

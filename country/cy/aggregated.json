@@ -1,13 +1,13 @@
 {
-  "country": "Cyprus",
-  "country-code": "CY",
-  "delegation-status": [
+  "country" : "Cyprus",
+  "countryCode" : "CY",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.56.116.0/22",
       "2.56.120.0/21",
       "2.56.140.0/22",
@@ -543,7 +543,7 @@
       "217.177.48.0/21",
       "217.197.104.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:19c::/48",
       "2001:678:e08::/48",
       "2001:67c:310::/48",

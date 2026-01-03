@@ -1,7 +1,7 @@
 # Country: French Polynesia (PF)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:de8:16::/48
 2001:df6:8080::/48

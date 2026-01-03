@@ -1,13 +1,13 @@
 {
-  "country": "Aruba",
-  "country-code": "AW",
-  "delegation-status": [
+  "country" : "Aruba",
+  "countryCode" : "AW",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "138.255.252.0/22",
       "170.84.254.0/24",
       "179.61.32.0/19",
@@ -21,7 +21,7 @@
       "190.104.96.0/20",
       "201.229.0.0/17"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2800:ad0::/32",
       "2801:19:5800::/48",
       "2803:b640::/32"

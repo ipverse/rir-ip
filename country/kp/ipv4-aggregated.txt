@@ -1,6 +1,6 @@
 # Country: North Korea (KP)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 175.45.176.0/22

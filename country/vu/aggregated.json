@@ -1,13 +1,13 @@
 {
-  "country": "Vanuatu",
-  "country-code": "VU",
-  "delegation-status": [
+  "country" : "Vanuatu",
+  "countryCode" : "VU",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "103.7.197.0/24",
       "103.16.15.0/24",
       "103.20.232.0/23",
@@ -29,7 +29,7 @@
       "202.80.32.0/20",
       "203.191.128.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:dec::/48",
       "2001:df0:410::/48",
       "2001:df2:a700::/48",

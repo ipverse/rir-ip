@@ -1,7 +1,7 @@
 # Country: North Macedonia (MK)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:67c:a60::/48
 2001:7f8:cb::/48

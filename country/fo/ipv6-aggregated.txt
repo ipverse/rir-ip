@@ -1,7 +1,7 @@
 # Country: Faroe Islands (FO)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2a02:e90::/29
 2a03:ee00::/32

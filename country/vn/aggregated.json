@@ -1,13 +1,13 @@
 {
-  "country": "Vietnam",
-  "country-code": "VN",
-  "delegation-status": [
+  "country" : "Vietnam",
+  "countryCode" : "VN",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "1.52.0.0/14",
       "14.0.16.0/20",
       "14.160.0.0/11",
@@ -1248,7 +1248,7 @@
       "223.27.104.0/21",
       "223.130.10.0/23"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:1110::/48",
       "2001:7fa:6::/48",
       "2001:dc8::/32",

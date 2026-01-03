@@ -1,7 +1,7 @@
 # Country: Qatar (QA)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 5.180.36.0/22
 31.11.48.0/21

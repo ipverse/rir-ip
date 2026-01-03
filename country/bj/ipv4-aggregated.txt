@@ -1,7 +1,7 @@
 # Country: Benin (BJ)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 41.74.0.0/20
 41.79.216.0/22

@@ -1,13 +1,13 @@
 {
-  "country": "Sri Lanka",
-  "country-code": "LK",
-  "delegation-status": [
+  "country" : "Sri Lanka",
+  "countryCode" : "LK",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "43.224.124.0/22",
       "43.228.108.0/22",
       "43.250.240.0/22",
@@ -78,7 +78,7 @@
       "222.165.128.0/18",
       "223.224.0.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:638::/48",
       "2001:de9::/48",
       "2001:df0:17::/48",

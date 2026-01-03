@@ -1,7 +1,7 @@
 # Country: Palau (PW)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:67c:ec8::/48
 2401:6e0::/32

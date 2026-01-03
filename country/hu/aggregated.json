@@ -1,13 +1,13 @@
 {
-  "country": "Hungary",
-  "country-code": "HU",
-  "delegation-status": [
+  "country" : "Hungary",
+  "countryCode" : "HU",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.58.168.0/22",
       "2.59.196.0/22",
       "5.28.0.0/21",
@@ -653,7 +653,7 @@
       "217.173.32.0/20",
       "217.197.176.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:214::/48",
       "2001:678:9bc::/48",
       "2001:678:f10::/48",

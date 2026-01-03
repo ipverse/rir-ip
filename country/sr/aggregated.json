@@ -1,13 +1,13 @@
 {
-  "country": "Suriname",
-  "country-code": "SR",
-  "delegation-status": [
+  "country" : "Suriname",
+  "countryCode" : "SR",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "45.68.20.0/23",
       "45.68.22.0/24",
       "138.186.208.0/22",
@@ -20,7 +20,7 @@
       "200.2.160.0/19",
       "200.7.148.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2801:109::/44",
       "2803:a10::/32",
       "2803:6e00::/32",

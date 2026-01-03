@@ -1,7 +1,7 @@
 # Country: Malawi (MW)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:43f8:20::/48
 2001:43f8:380::/48

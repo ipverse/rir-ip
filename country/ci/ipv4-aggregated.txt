@@ -1,7 +1,7 @@
 # Country: Côte d’Ivoire (CI)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 41.66.0.0/18
 41.67.64.0/20

@@ -1,7 +1,7 @@
 # Country: Vatican City (VA)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2a01:b8::/32
 2a04:640::/29

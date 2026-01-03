@@ -1,13 +1,13 @@
 {
-  "country": "Japan",
-  "country-code": "JP",
-  "delegation-status": [
+  "country" : "Japan",
+  "countryCode" : "JP",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "1.0.16.0/20",
       "1.0.64.0/18",
       "1.1.64.0/18",
@@ -3169,7 +3169,7 @@
       "223.252.64.0/19",
       "223.252.112.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:200::/32",
       "2001:218::/32",
       "2001:240::/32",

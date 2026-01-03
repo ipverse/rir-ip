@@ -1,7 +1,7 @@
 # Country: Mozambique (MZ)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 41.76.0.0/21
 41.76.144.0/21

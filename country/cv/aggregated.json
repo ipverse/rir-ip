@@ -1,13 +1,13 @@
 {
-  "country": "Cape Verde",
-  "country-code": "CV",
-  "delegation-status": [
+  "country" : "Cape Verde",
+  "countryCode" : "CV",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.74.128.0/20",
       "41.79.124.0/22",
       "41.215.208.0/20",
@@ -32,7 +32,7 @@
       "197.255.128.0/20",
       "213.150.192.0/21"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:43f8:16c0::/47",
       "2001:43fc:1000::/48",
       "2001:43fd:5000::/48",

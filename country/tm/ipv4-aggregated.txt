@@ -1,7 +1,7 @@
 # Country: Turkmenistan (TM)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 77.83.59.0/24
 95.85.96.0/19

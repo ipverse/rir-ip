@@ -1,13 +1,13 @@
 {
-  "country": "Czechia",
-  "country-code": "CZ",
-  "delegation-status": [
+  "country" : "Czechia",
+  "countryCode" : "CZ",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.59.220.0/22",
       "5.1.56.0/21",
       "5.39.200.0/22",
@@ -1555,7 +1555,7 @@
       "217.197.144.0/20",
       "217.198.112.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:1::/48",
       "2001:678:f::/48",
       "2001:678:10::/47",

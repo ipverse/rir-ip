@@ -1,13 +1,13 @@
 {
-  "country": "South Africa",
-  "country-code": "ZA",
-  "delegation-status": [
+  "country" : "South Africa",
+  "countryCode" : "ZA",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.59.96.0/22",
       "41.0.0.0/11",
       "41.48.0.0/13",
@@ -1558,7 +1558,7 @@
       "213.193.48.0/20",
       "217.29.208.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:67c:ef8::/48",
       "2001:4200::/32",
       "2001:4210::/32",

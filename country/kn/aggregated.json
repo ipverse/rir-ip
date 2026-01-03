@@ -1,13 +1,13 @@
 {
-  "country": "St. Kitts \u0026 Nevis",
-  "country-code": "KN",
-  "delegation-status": [
+  "country" : "St. Kitts & Nevis",
+  "countryCode" : "KN",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "23.131.208.0/24",
       "23.137.40.0/24",
       "45.42.252.0/22",
@@ -25,7 +25,7 @@
       "208.87.144.0/22",
       "216.211.197.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2602:fb78::/40",
       "2620:18:c000::/48",
       "2620:6b:2000::/48"

@@ -1,7 +1,7 @@
 # Country: Gibraltar (GI)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:67c:1728::/48
 2a01:8c40::/32

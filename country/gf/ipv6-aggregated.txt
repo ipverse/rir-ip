@@ -1,7 +1,7 @@
 # Country: French Guiana (GF)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2803:3a0::/32
 2803:1680::/32

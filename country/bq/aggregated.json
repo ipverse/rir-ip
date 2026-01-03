@@ -1,13 +1,13 @@
 {
-  "country": "Caribbean Netherlands",
-  "country-code": "BQ",
-  "delegation-status": [
+  "country" : "Caribbean Netherlands",
+  "countryCode" : "BQ",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "138.185.208.0/22",
       "143.0.32.0/22",
       "161.0.80.0/20",
@@ -21,7 +21,7 @@
       "200.71.248.0/21",
       "200.107.84.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2800:b00::/32",
       "2803:1600::/32",
       "2803:4900::/32",

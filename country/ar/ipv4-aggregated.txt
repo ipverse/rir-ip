@@ -1,7 +1,7 @@
 # Country: Argentina (AR)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 24.152.57.0/24
 24.232.0.0/16

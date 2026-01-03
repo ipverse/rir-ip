@@ -1,7 +1,7 @@
 # Country: American Samoa (AS)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 103.117.168.0/22
 202.70.112.0/20

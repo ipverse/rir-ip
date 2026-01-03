@@ -1,7 +1,7 @@
 # Country: United Arab Emirates (AE)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2.48.0.0/14
 2.56.16.0/22

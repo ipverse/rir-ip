@@ -1,7 +1,7 @@
 # Country: Panama (PA)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 5.252.152.0/22
 23.137.100.0/24

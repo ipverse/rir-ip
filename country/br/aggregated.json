@@ -1,13 +1,13 @@
 {
-  "country": "Brazil",
-  "country-code": "BR",
-  "delegation-status": [
+  "country" : "Brazil",
+  "countryCode" : "BR",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "24.152.0.0/19",
       "24.152.32.0/21",
       "24.152.44.0/22",
@@ -4906,7 +4906,7 @@
       "216.98.208.0/20",
       "216.245.133.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:1280::/32",
       "2001:1284::/32",
       "2001:1288::/32",

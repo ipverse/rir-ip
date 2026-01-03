@@ -1,13 +1,13 @@
 {
-  "country": "Georgia",
-  "country-code": "GE",
-  "delegation-status": [
+  "country" : "Georgia",
+  "countryCode" : "GE",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.57.60.0/22",
       "2.57.216.0/22",
       "5.10.32.0/21",
@@ -315,7 +315,7 @@
       "217.70.4.0/24",
       "217.147.224.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:67c:2128::/48",
       "2001:7f8:11e::/48",
       "2001:7f8:14c::/48",

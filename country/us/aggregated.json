@@ -1,13 +1,13 @@
 {
-  "country": "United States",
-  "country-code": "US",
-  "delegation-status": [
+  "country" : "United States",
+  "countryCode" : "US",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "1.178.0.0/23",
       "1.178.4.0/22",
       "1.178.8.0/21",
@@ -29026,7 +29026,7 @@
       "222.167.192.0/18",
       "223.165.96.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:4:112::/48",
       "2001:400::/32",
       "2001:408::/32",
@@ -30074,7 +30074,6 @@
       "2602:81c:c000::/40",
       "2602:81c:d000::/40",
       "2602:81c:e000::/44",
-      "2602:f479::/36",
       "2602:f47b::/40",
       "2602:f47c::/40",
       "2602:f47d::/40",

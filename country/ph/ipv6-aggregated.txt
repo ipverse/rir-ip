@@ -1,7 +1,7 @@
 # Country: Philippines (PH)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:d18::/32
 2001:de9:c000::/48

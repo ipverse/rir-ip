@@ -1,13 +1,13 @@
 {
-  "country": "Costa Rica",
-  "country-code": "CR",
-  "delegation-status": [
+  "country" : "Costa Rica",
+  "countryCode" : "CR",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "45.5.60.0/22",
       "45.65.188.0/22",
       "45.160.132.0/22",
@@ -178,7 +178,7 @@
       "201.220.29.0/24",
       "201.237.0.0/16"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:1330::/29",
       "2001:13c7:7004::/48",
       "2001:13d8::/32",

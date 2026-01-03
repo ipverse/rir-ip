@@ -1,13 +1,13 @@
 {
-  "country": "Philippines",
-  "country-code": "PH",
-  "delegation-status": [
+  "country" : "Philippines",
+  "countryCode" : "PH",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "1.37.0.0/16",
       "2.58.228.0/22",
       "14.102.168.0/22",
@@ -802,7 +802,7 @@
       "223.25.0.0/18",
       "223.130.16.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:d18::/32",
       "2001:de9:c000::/48",
       "2001:ded:4000::/48",

@@ -1,7 +1,7 @@
 # Country: Ghana (GH)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:43c0::/32
 2001:43e0::/32

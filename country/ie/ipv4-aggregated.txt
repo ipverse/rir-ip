@@ -1,7 +1,7 @@
 # Country: Ireland (IE)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2.57.24.0/22
 2.58.60.0/22

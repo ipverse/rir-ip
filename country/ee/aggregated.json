@@ -1,13 +1,13 @@
 {
-  "country": "Estonia",
-  "country-code": "EE",
-  "delegation-status": [
+  "country" : "Estonia",
+  "countryCode" : "EE",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.57.220.0/22",
       "2.59.164.0/22",
       "5.42.199.0/24",
@@ -426,9 +426,10 @@
       "217.146.64.0/20",
       "217.159.128.0/17"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:94::/48",
       "2001:678:5e0::/48",
+      "2001:678:6d8::/48",
       "2001:678:a54::/48",
       "2001:678:f64::/48",
       "2001:67c:32c::/48",

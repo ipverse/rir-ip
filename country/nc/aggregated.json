@@ -1,13 +1,13 @@
 {
-  "country": "New Caledonia",
-  "country-code": "NC",
-  "delegation-status": [
+  "country" : "New Caledonia",
+  "countryCode" : "NC",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "27.122.0.0/22",
       "43.224.192.0/22",
       "43.245.212.0/22",
@@ -51,7 +51,7 @@
       "223.29.128.0/19",
       "223.29.160.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:df0:77c0::/48",
       "2001:df3:8900::/48",
       "2001:df3:f380::/48",

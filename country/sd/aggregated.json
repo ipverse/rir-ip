@@ -1,13 +1,13 @@
 {
-  "country": "Sudan",
-  "country-code": "SD",
-  "delegation-status": [
+  "country" : "Sudan",
+  "countryCode" : "SD",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.67.0.0/18",
       "41.78.108.0/22",
       "41.95.0.0/16",
@@ -43,7 +43,7 @@
       "197.254.192.0/18",
       "212.0.128.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:4228::/32",
       "2001:43f8:7f0::/47",
       "2001:43f8:11d0::/48",

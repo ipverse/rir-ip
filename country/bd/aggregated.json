@@ -1,13 +1,13 @@
 {
-  "country": "Bangladesh",
-  "country-code": "BD",
-  "delegation-status": [
+  "country" : "Bangladesh",
+  "countryCode" : "BD",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "14.1.100.0/22",
       "14.128.12.0/22",
       "27.54.144.0/21",
@@ -1955,7 +1955,6 @@
       "192.144.80.0/22",
       "192.144.86.0/23",
       "192.144.88.0/22",
-      "198.56.24.0/23",
       "202.0.94.0/24",
       "202.1.28.0/23",
       "202.4.96.0/19",
@@ -2087,7 +2086,7 @@
       "223.130.8.0/23",
       "223.165.2.0/23"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:dd8:1d::/48",
       "2001:de8:b::/48",
       "2001:df0:29f::/48",

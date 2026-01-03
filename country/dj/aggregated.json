@@ -1,13 +1,13 @@
 {
-  "country": "Djibouti",
-  "country-code": "DJ",
-  "delegation-status": [
+  "country" : "Djibouti",
+  "countryCode" : "DJ",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.189.224.0/19",
       "91.209.83.0/24",
       "102.205.104.0/23",
@@ -17,7 +17,7 @@
       "196.223.38.0/24",
       "197.241.0.0/17"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:4298::/32",
       "2001:43f8:9c0::/47",
       "2a10:8200::/29",

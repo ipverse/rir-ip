@@ -1,7 +1,7 @@
 # Country: Slovakia (SK)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2.57.64.0/22
 5.34.168.0/21

@@ -1,7 +1,7 @@
 # Country: Grenada (GD)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 23.128.4.0/24
 23.130.168.0/24

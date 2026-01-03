@@ -1,13 +1,13 @@
 {
-  "country": "Luxembourg",
-  "country-code": "LU",
-  "delegation-status": [
+  "country" : "Luxembourg",
+  "countryCode" : "LU",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.56.104.0/22",
       "2.56.220.0/22",
       "2.57.172.0/22",
@@ -545,7 +545,7 @@
       "217.195.200.0/23",
       "217.195.205.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:1b::/48",
       "2001:678:60::/48",
       "2001:678:d48::/48",

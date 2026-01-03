@@ -1,13 +1,13 @@
 {
-  "country": "Guatemala",
-  "country-code": "GT",
-  "delegation-status": [
+  "country" : "Guatemala",
+  "countryCode" : "GT",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "24.152.52.0/22",
       "45.4.128.0/22",
       "45.5.116.0/22",
@@ -145,7 +145,7 @@
       "213.173.52.0/22",
       "216.230.128.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:1360::/32",
       "2800:98::/32",
       "2800:1a0::/32",

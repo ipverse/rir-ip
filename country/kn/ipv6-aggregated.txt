@@ -1,7 +1,7 @@
 # Country: St. Kitts & Nevis (KN)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2602:fb78::/40
 2620:18:c000::/48

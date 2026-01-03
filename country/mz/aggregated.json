@@ -1,13 +1,13 @@
 {
-  "country": "Mozambique",
-  "country-code": "MZ",
-  "delegation-status": [
+  "country" : "Mozambique",
+  "countryCode" : "MZ",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.76.0.0/21",
       "41.76.144.0/21",
       "41.77.32.0/21",
@@ -62,7 +62,7 @@
       "197.242.160.0/20",
       "197.249.0.0/16"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:4378::/32",
       "2001:43f8:640::/48",
       "2001:43f8:930::/47",

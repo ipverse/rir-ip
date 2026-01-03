@@ -1,7 +1,7 @@
 # Country: Gabon (GA)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 41.78.240.0/22
 41.158.0.0/15

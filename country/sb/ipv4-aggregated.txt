@@ -1,7 +1,7 @@
 # Country: Solomon Islands (SB)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 103.2.88.0/22
 103.9.50.0/24

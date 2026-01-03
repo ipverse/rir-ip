@@ -1,7 +1,7 @@
 # Country: Tonga (TO)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 43.255.148.0/22
 103.54.78.0/23

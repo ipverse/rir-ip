@@ -1,7 +1,7 @@
 # Country: Bahrain (BH)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:1a40::/29
 2a00:6600::/29

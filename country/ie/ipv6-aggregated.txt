@@ -1,7 +1,7 @@
 # Country: Ireland (IE)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:678:200::/48
 2001:678:358::/48

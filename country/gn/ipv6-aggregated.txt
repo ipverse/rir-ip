@@ -1,7 +1,7 @@
 # Country: Guinea (GN)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:43f8:c60::/47
 2c0f:2dc0::/32

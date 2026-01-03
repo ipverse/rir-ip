@@ -1,7 +1,7 @@
 # Country: Taiwan (TW)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:288::/32
 2001:678:fb8::/48

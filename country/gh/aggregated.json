@@ -1,13 +1,13 @@
 {
-  "country": "Ghana",
-  "country-code": "GH",
-  "delegation-status": [
+  "country" : "Ghana",
+  "countryCode" : "GH",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.66.192.0/18",
       "41.74.80.0/20",
       "41.75.48.0/20",
@@ -155,7 +155,7 @@
       "212.85.192.0/19",
       "212.96.0.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:43c0::/32",
       "2001:43e0::/32",
       "2001:43f8:1a0::/48",

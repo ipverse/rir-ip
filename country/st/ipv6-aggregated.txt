@@ -1,6 +1,6 @@
 # Country: São Tomé & Príncipe (ST)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2c0f:fa88::/32

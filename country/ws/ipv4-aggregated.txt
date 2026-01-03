@@ -1,7 +1,7 @@
 # Country: Samoa (WS)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 43.241.164.0/22
 103.9.228.0/22

@@ -1,13 +1,13 @@
 {
-  "country": "Morocco",
-  "country-code": "MA",
-  "delegation-status": [
+  "country" : "Morocco",
+  "countryCode" : "MA",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.77.112.0/21",
       "41.87.128.0/19",
       "41.92.0.0/17",
@@ -85,7 +85,7 @@
       "197.253.128.0/17",
       "212.217.0.0/17"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:4288::/32",
       "2001:4310::/32",
       "2001:43f8:650::/48",

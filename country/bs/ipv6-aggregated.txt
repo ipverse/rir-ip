@@ -1,7 +1,7 @@
 # Country: Bahamas (BS)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2602:80a:5000::/40
 2602:fc27::/36

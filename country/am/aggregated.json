@@ -1,13 +1,13 @@
 {
-  "country": "Armenia",
-  "country-code": "AM",
-  "delegation-status": [
+  "country" : "Armenia",
+  "countryCode" : "AM",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.56.204.0/22",
       "5.39.204.0/22",
       "5.63.160.0/21",
@@ -190,7 +190,7 @@
       "217.113.0.0/19",
       "217.144.176.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:ca4::/48",
       "2001:67c:21c::/48",
       "2001:67c:2cdc::/48",

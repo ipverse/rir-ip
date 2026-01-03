@@ -1,7 +1,7 @@
 # Country: Northern Mariana Islands (MP)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 45.117.196.0/22
 103.1.96.0/22

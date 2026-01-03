@@ -1,18 +1,18 @@
 {
-  "country": "Guinea-Bissau",
-  "country-code": "GW",
-  "delegation-status": [
+  "country" : "Guinea-Bissau",
+  "countryCode" : "GW",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "102.219.174.0/23",
       "154.73.60.0/22",
       "197.214.80.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2c0f:ec50::/32",
       "2c0f:f928::/32"
     ]

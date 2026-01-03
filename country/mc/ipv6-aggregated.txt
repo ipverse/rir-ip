@@ -1,7 +1,7 @@
 # Country: Monaco (MC)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2a01:8fe0::/32
 2a06:92c0::/32

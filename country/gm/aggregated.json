@@ -1,13 +1,13 @@
 {
-  "country": "Gambia",
-  "country-code": "GM",
-  "delegation-status": [
+  "country" : "Gambia",
+  "countryCode" : "GM",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.76.8.0/21",
       "41.223.212.0/22",
       "102.69.160.0/22",
@@ -33,7 +33,7 @@
       "197.255.192.0/20",
       "212.60.64.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:43f8:970::/48",
       "2c0f:140::/32",
       "2c0f:540::/32",

@@ -1,7 +1,7 @@
 # Country: Niger (NE)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2c0f:3700::/32
 2c0f:6880::/32

@@ -1,13 +1,13 @@
 {
-  "country": "Taiwan",
-  "country-code": "TW",
-  "delegation-status": [
+  "country" : "Taiwan",
+  "countryCode" : "TW",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "1.34.0.0/15",
       "1.160.0.0/12",
       "1.200.0.0/16",
@@ -728,7 +728,7 @@
       "223.165.8.0/21",
       "223.200.0.0/16"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:288::/32",
       "2001:678:fb8::/48",
       "2001:67c:f34::/48",

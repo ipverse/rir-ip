@@ -1,13 +1,13 @@
 {
-  "country": "Marshall Islands",
-  "country-code": "MH",
-  "delegation-status": [
+  "country" : "Marshall Islands",
+  "countryCode" : "MH",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "23.181.56.0/24",
       "81.30.106.0/24",
       "103.202.148.0/22",
@@ -17,7 +17,7 @@
       "193.227.113.0/24",
       "203.78.152.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2405:400::/32",
       "2602:f8bb::/40",
       "2a13:2380::/29",

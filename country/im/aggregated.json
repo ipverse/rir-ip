@@ -1,13 +1,13 @@
 {
-  "country": "Isle of Man",
-  "country-code": "IM",
-  "delegation-status": [
+  "country" : "Isle of Man",
+  "countryCode" : "IM",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "5.62.80.0/20",
       "5.154.182.0/24",
       "5.154.188.0/23",
@@ -81,7 +81,7 @@
       "217.28.0.0/20",
       "217.180.38.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:7f8:fb::/48",
       "2a00:5540::/29",
       "2a01:6a00::/29",

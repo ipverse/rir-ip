@@ -1,13 +1,13 @@
 {
-  "country": "Congo - Kinshasa",
-  "country-code": "CD",
-  "delegation-status": [
+  "country" : "Congo - Kinshasa",
+  "countryCode" : "CD",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.77.220.0/22",
       "41.78.192.0/21",
       "41.79.232.0/22",
@@ -90,7 +90,7 @@
       "197.215.220.0/22",
       "197.231.252.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:43f8:3c0::/47",
       "2001:43f8:1460::/48",
       "2001:43ff:6000::/48",

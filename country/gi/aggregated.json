@@ -1,13 +1,13 @@
 {
-  "country": "Gibraltar",
-  "country-code": "GI",
-  "delegation-status": [
+  "country" : "Gibraltar",
+  "countryCode" : "GI",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.58.8.0/22",
       "5.150.152.0/22",
       "31.222.48.0/20",
@@ -80,7 +80,7 @@
       "217.65.48.0/20",
       "217.147.112.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:67c:1728::/48",
       "2a01:8c40::/32",
       "2a02:638::/32",

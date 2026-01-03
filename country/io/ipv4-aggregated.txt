@@ -1,7 +1,7 @@
 # Country: British Indian Ocean Territory (IO)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 202.44.112.0/22
 203.83.48.0/21

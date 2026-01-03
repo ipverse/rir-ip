@@ -1,7 +1,7 @@
 # Country: Tajikistan (TJ)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 37.98.152.0/21
 45.81.37.0/24

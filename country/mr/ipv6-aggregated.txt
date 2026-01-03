@@ -1,7 +1,7 @@
 # Country: Mauritania (MR)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2c0f:2240::/32
 2c0f:2540::/32

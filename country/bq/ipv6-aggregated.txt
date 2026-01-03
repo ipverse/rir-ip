@@ -1,7 +1,7 @@
 # Country: Caribbean Netherlands (BQ)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2800:b00::/32
 2803:1600::/32

@@ -1,6 +1,6 @@
 # Country: Eritrea (ER)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 196.200.96.0/20

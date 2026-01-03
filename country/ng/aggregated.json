@@ -1,13 +1,13 @@
 {
-  "country": "Nigeria",
-  "country-code": "NG",
-  "delegation-status": [
+  "country" : "Nigeria",
+  "countryCode" : "NG",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.57.120.0/22",
       "41.58.0.0/16",
       "41.67.128.0/18",
@@ -388,7 +388,7 @@
       "217.14.80.0/20",
       "217.117.0.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:4270::/32",
       "2001:43b0::/32",
       "2001:43f8:160::/48",

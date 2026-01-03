@@ -1,7 +1,7 @@
 # Country: Japan (JP)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 1.0.16.0/20
 1.0.64.0/18

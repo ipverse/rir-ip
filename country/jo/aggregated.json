@@ -1,13 +1,13 @@
 {
-  "country": "Jordan",
-  "country-code": "JO",
-  "delegation-status": [
+  "country" : "Jordan",
+  "countryCode" : "JO",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.59.52.0/22",
       "5.45.128.0/20",
       "5.198.240.0/21",
@@ -134,7 +134,7 @@
       "217.29.240.0/20",
       "217.144.0.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:67c:2124::/48",
       "2001:32c0::/29",
       "2a00:18d0::/32",

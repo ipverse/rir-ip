@@ -1,7 +1,7 @@
 # Country: Jersey (JE)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 5.35.160.0/21
 5.42.128.0/21

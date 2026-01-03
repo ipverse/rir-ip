@@ -1,13 +1,13 @@
 {
-  "country": "Cayman Islands",
-  "country-code": "KY",
-  "delegation-status": [
+  "country" : "Cayman Islands",
+  "countryCode" : "KY",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "23.188.0.0/24",
       "45.144.204.0/22",
       "45.152.156.0/22",
@@ -41,7 +41,7 @@
       "216.25.64.0/22",
       "216.144.80.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2602:fb4d::/36",
       "2604:1780::/32",
       "2606:600::/32",

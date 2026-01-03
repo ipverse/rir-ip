@@ -1,13 +1,13 @@
 {
-  "country": "Germany",
-  "country-code": "DE",
-  "delegation-status": [
+  "country" : "Germany",
+  "countryCode" : "DE",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.56.20.0/22",
       "2.56.72.0/21",
       "2.56.96.0/22",
@@ -8601,7 +8601,7 @@
       "217.216.0.0/15",
       "217.224.0.0/11"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:608::/32",
       "2001:638::/29",
       "2001:650::/28",

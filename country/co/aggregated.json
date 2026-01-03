@@ -1,13 +1,13 @@
 {
-  "country": "Colombia",
-  "country-code": "CO",
-  "delegation-status": [
+  "country" : "Colombia",
+  "countryCode" : "CO",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "24.152.56.0/24",
       "24.152.58.0/23",
       "37.10.70.0/24",
@@ -525,7 +525,7 @@
       "216.241.0.0/19",
       "223.27.115.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:13c7:6000::/48",
       "2001:13f8::/32",
       "2800:e0::/28",

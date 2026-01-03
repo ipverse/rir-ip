@@ -1,7 +1,7 @@
 # Country: Kuwait (KW)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 5.182.132.0/22
 31.203.0.0/16

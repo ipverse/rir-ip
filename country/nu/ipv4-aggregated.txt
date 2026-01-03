@@ -1,7 +1,7 @@
 # Country: Niue (NU)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 49.156.48.0/22
 202.59.4.0/22

@@ -1,13 +1,13 @@
 {
-  "country": "Turks \u0026 Caicos Islands",
-  "country-code": "TC",
-  "delegation-status": [
+  "country" : "Turks & Caicos Islands",
+  "countryCode" : "TC",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "65.255.48.0/20",
       "142.54.204.0/22",
       "192.203.37.0/24",
@@ -16,7 +16,7 @@
       "204.13.104.0/22",
       "204.110.56.0/21"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2602:ff48::/36"
     ]
   }

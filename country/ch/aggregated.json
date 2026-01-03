@@ -1,13 +1,13 @@
 {
-  "country": "Switzerland",
-  "country-code": "CH",
-  "delegation-status": [
+  "country" : "Switzerland",
+  "countryCode" : "CH",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.56.40.0/22",
       "2.56.169.0/24",
       "2.59.120.0/22",
@@ -2655,7 +2655,7 @@
       "217.197.128.0/21",
       "217.197.208.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:618::/32",
       "2001:620::/29",
       "2001:678:3::/48",

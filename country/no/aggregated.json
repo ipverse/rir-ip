@@ -1,13 +1,13 @@
 {
-  "country": "Norway",
-  "country-code": "NO",
-  "delegation-status": [
+  "country" : "Norway",
+  "countryCode" : "NO",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.58.24.0/22",
       "2.148.0.0/14",
       "5.44.64.0/21",
@@ -1227,7 +1227,7 @@
       "217.197.164.0/22",
       "217.199.32.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:f0::/48",
       "2001:678:134::/48",
       "2001:678:138::/48",

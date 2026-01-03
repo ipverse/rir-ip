@@ -1,13 +1,13 @@
 {
-  "country": "Puerto Rico",
-  "country-code": "PR",
-  "delegation-status": [
+  "country" : "Puerto Rico",
+  "countryCode" : "PR",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "23.128.16.0/24",
       "23.128.168.0/24",
       "23.129.176.0/24",
@@ -215,7 +215,7 @@
       "216.24.51.0/24",
       "216.39.232.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:500:10::/48",
       "2001:504:1d::/48",
       "2602:f781::/36",

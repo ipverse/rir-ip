@@ -1,13 +1,13 @@
 {
-  "country": "Saudi Arabia",
-  "country-code": "SA",
-  "delegation-status": [
+  "country" : "Saudi Arabia",
+  "countryCode" : "SA",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.88.0.0/14",
       "5.41.0.0/16",
       "5.42.224.0/19",
@@ -584,7 +584,7 @@
       "217.170.32.0/19",
       "217.173.80.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:cc::/48",
       "2001:678:39c::/48",
       "2001:678:1120::/48",

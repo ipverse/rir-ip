@@ -1,13 +1,13 @@
 {
-  "country": "Cambodia",
-  "country-code": "KH",
-  "delegation-status": [
+  "country" : "Cambodia",
+  "countryCode" : "KH",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "5.28.32.0/21",
       "27.96.84.0/22",
       "27.109.112.0/22",
@@ -281,7 +281,7 @@
       "221.120.160.0/22",
       "223.223.168.0/21"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:dd8:1e::/48",
       "2001:de8:1d::/48",
       "2001:deb:4000::/48",

@@ -1,7 +1,7 @@
 # Country: Timor-Leste (TL)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 43.243.120.0/22
 43.243.176.0/22

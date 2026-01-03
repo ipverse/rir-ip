@@ -1,7 +1,7 @@
 # Country: Ecuador (EC)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:13c7:6006::/48
 2001:13c7:6f00::/40

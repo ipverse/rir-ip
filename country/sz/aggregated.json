@@ -1,13 +1,13 @@
 {
-  "country": "Eswatini",
-  "country-code": "SZ",
-  "delegation-status": [
+  "country" : "Eswatini",
+  "countryCode" : "SZ",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.77.232.0/21",
       "41.84.224.0/19",
       "41.204.0.0/19",
@@ -33,7 +33,7 @@
       "196.49.4.0/24",
       "196.223.37.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:4338::/32",
       "2001:43f8:9b0::/47",
       "2c0f:940::/32",

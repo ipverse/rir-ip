@@ -1,7 +1,7 @@
 # Country: Myanmar (Burma) (MM)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:df0:5f80::/48
 2001:df0:6cc0::/48

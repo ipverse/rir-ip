@@ -1,19 +1,19 @@
 {
-  "country": "Palau",
-  "country-code": "PW",
-  "delegation-status": [
+  "country" : "Palau",
+  "countryCode" : "PW",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "103.30.248.0/22",
       "103.159.28.0/23",
       "103.251.132.0/23",
       "202.124.224.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:67c:ec8::/48",
       "2401:6e0::/32",
       "2404:7800::/32"

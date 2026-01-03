@@ -1,7 +1,7 @@
 # Country: Macao SAR China (MO)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 23.148.24.0/24
 27.109.128.0/17

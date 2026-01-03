@@ -1,7 +1,7 @@
 # Country: Nicaragua (NI)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 45.5.216.0/22
 45.170.224.0/22

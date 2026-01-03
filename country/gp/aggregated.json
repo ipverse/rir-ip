@@ -1,13 +1,13 @@
 {
-  "country": "Guadeloupe",
-  "country-code": "GP",
-  "delegation-status": [
+  "country" : "Guadeloupe",
+  "countryCode" : "GP",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "5.187.96.0/19",
       "46.238.128.0/18",
       "93.121.128.0/17",
@@ -25,7 +25,7 @@
       "213.16.0.0/19",
       "213.188.160.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2602:faf8::/40",
       "2604:1800::/32",
       "2605:adc0::/32",

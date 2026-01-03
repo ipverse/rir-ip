@@ -1,7 +1,7 @@
 # Country: Anguilla (AI)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2602:f871::/40
 2602:fd72::/36

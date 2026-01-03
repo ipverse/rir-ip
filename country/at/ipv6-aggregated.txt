@@ -1,7 +1,7 @@
 # Country: Austria (AT)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:628::/29
 2001:678:d::/48

@@ -1,7 +1,7 @@
 # Country: Réunion (RE)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2a00:a080::/32
 2a0b:dc00::/29

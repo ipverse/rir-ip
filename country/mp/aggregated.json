@@ -1,20 +1,20 @@
 {
-  "country": "Northern Mariana Islands",
-  "country-code": "MP",
-  "delegation-status": [
+  "country" : "Northern Mariana Islands",
+  "countryCode" : "MP",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "45.117.196.0/22",
       "103.1.96.0/22",
       "103.57.232.0/22",
       "202.88.64.0/19",
       "210.23.80.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2401:4e40::/32"
     ]
   }

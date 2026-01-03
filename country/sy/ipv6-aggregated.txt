@@ -1,7 +1,7 @@
 # Country: Syria (SY)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2a00:1ee8::/32
 2a00:45a0::/32

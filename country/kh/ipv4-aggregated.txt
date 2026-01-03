@@ -1,7 +1,7 @@
 # Country: Cambodia (KH)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 5.28.32.0/21
 27.96.84.0/22

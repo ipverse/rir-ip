@@ -1,13 +1,13 @@
 {
-  "country": "Laos",
-  "country-code": "LA",
-  "delegation-status": [
+  "country" : "Laos",
+  "countryCode" : "LA",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "43.224.36.0/22",
       "43.228.84.0/22",
       "43.252.244.0/22",
@@ -70,7 +70,7 @@
       "203.77.168.0/21",
       "203.110.64.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:df0:bf::/48",
       "2001:df0:df80::/48",
       "2001:df3:640::/48",

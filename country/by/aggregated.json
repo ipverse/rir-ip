@@ -1,13 +1,13 @@
 {
-  "country": "Belarus",
-  "country-code": "BY",
-  "delegation-status": [
+  "country" : "Belarus",
+  "countryCode" : "BY",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "5.100.192.0/19",
       "31.24.88.0/21",
       "31.130.200.0/21",
@@ -110,7 +110,7 @@
       "217.21.32.0/19",
       "217.23.112.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:67c:57c::/48",
       "2001:67c:1058::/48",
       "2001:67c:2268::/48",

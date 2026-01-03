@@ -1,13 +1,13 @@
 {
-  "country": "Nauru",
-  "country-code": "NR",
-  "delegation-status": [
+  "country" : "Nauru",
+  "countryCode" : "NR",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "43.230.6.0/24",
       "103.20.124.0/24",
       "103.36.150.0/23",
@@ -16,7 +16,7 @@
       "203.98.224.0/19",
       "203.190.216.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2403:ae80::/32",
       "2403:f600::/32"
     ]

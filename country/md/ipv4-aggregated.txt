@@ -1,7 +1,7 @@
 # Country: Moldova (MD)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2.57.152.0/22
 2.59.204.0/22

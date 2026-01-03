@@ -1,13 +1,13 @@
 {
-  "country": "Liberia",
-  "country-code": "LR",
-  "delegation-status": [
+  "country" : "Liberia",
+  "countryCode" : "LR",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.57.80.0/20",
       "41.86.0.0/19",
       "41.191.104.0/22",
@@ -29,7 +29,7 @@
       "197.231.152.0/21",
       "197.231.220.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:43f8:a60::/47",
       "2c0f:4580::/32",
       "2c0f:6080::/32",

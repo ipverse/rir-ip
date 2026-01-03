@@ -1,7 +1,7 @@
 # Country: Nigeria (NG)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 41.57.120.0/22
 41.58.0.0/16

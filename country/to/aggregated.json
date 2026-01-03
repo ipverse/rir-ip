@@ -1,13 +1,13 @@
 {
-  "country": "Tonga",
-  "country-code": "TO",
-  "delegation-status": [
+  "country" : "Tonga",
+  "countryCode" : "TO",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "43.255.148.0/22",
       "103.54.78.0/23",
       "103.124.187.0/24",
@@ -20,7 +20,7 @@
       "202.43.8.0/21",
       "202.134.24.0/21"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:df4:7480::/48",
       "2400:6400::/32",
       "2400:80e0::/32",

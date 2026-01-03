@@ -1,7 +1,7 @@
 # Country: Guam (GU)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:de9:4000::/48
 2001:def:c000::/47

@@ -1,13 +1,13 @@
 {
-  "country": "Paraguay",
-  "country-code": "PY",
-  "delegation-status": [
+  "country" : "Paraguay",
+  "countryCode" : "PY",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "24.152.40.0/22",
       "45.68.52.0/22",
       "45.68.94.0/23",
@@ -149,7 +149,7 @@
       "201.222.48.0/21",
       "203.20.86.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:1320::/32",
       "2800:3a0::/32",
       "2800:960::/32",

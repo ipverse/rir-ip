@@ -1,7 +1,7 @@
 # Country: Suriname (SR)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2801:109::/44
 2803:a10::/32

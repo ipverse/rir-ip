@@ -1,13 +1,13 @@
 {
-  "country": "Australia",
-  "country-code": "AU",
-  "delegation-status": [
+  "country" : "Australia",
+  "countryCode" : "AU",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "1.0.0.0/24",
       "1.0.4.0/22",
       "1.1.1.0/24",
@@ -5651,7 +5651,7 @@
       "223.255.232.0/22",
       "223.255.255.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:360::/32",
       "2001:388::/32",
       "2001:67c:25ec::/48",

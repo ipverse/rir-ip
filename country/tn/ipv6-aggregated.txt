@@ -1,7 +1,7 @@
 # Country: Tunisia (TN)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:4350::/32
 2001:43f8:320::/48

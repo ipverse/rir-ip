@@ -1,13 +1,13 @@
 {
-  "country": "Afghanistan",
-  "country-code": "AF",
-  "delegation-status": [
+  "country" : "Afghanistan",
+  "countryCode" : "AF",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "23.88.192.0/19",
       "36.50.21.0/24",
       "43.230.209.0/24",
@@ -136,7 +136,7 @@
       "203.215.32.0/20",
       "223.26.20.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:df0:d500::/48",
       "2001:df2:6380::/48",
       "2001:df2:7440::/48",

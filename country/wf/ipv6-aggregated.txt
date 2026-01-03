@@ -1,6 +1,6 @@
 # Country: Wallis & Futuna (WF)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2406:2540::/32

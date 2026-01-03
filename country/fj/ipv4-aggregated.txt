@@ -1,7 +1,7 @@
 # Country: Fiji (FJ)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 27.123.128.0/18
 45.112.224.0/22

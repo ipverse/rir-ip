@@ -1,13 +1,13 @@
 {
-  "country": "United Arab Emirates",
-  "country-code": "AE",
-  "delegation-status": [
+  "country" : "United Arab Emirates",
+  "countryCode" : "AE",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.48.0.0/14",
       "2.56.16.0/22",
       "2.56.36.0/22",
@@ -1094,7 +1094,7 @@
       "217.78.238.0/23",
       "217.164.0.0/15"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:1130::/48",
       "2001:67c:2040::/48",
       "2001:67c:2348::/48",

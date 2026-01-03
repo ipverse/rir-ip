@@ -1,13 +1,13 @@
 {
-  "country": "Somalia",
-  "country-code": "SO",
-  "delegation-status": [
+  "country" : "Somalia",
+  "countryCode" : "SO",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.78.72.0/22",
       "41.79.196.0/22",
       "41.223.108.0/22",
@@ -39,7 +39,7 @@
       "197.220.64.0/19",
       "197.231.200.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:43f8:11a0::/47",
       "2001:43f8:1350::/48",
       "2001:43f8:1380::/48",

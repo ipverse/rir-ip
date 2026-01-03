@@ -1,13 +1,13 @@
 {
-  "country": "Zimbabwe",
-  "country-code": "ZW",
-  "delegation-status": [
+  "country" : "Zimbabwe",
+  "countryCode" : "ZW",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.57.64.0/20",
       "41.78.76.0/22",
       "41.79.28.0/22",
@@ -49,7 +49,7 @@
       "197.157.204.0/22",
       "197.221.224.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:42b0::/32",
       "2001:43f0::/32",
       "2001:43f8:310::/48",

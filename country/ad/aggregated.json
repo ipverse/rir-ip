@@ -1,13 +1,13 @@
 {
-  "country": "Andorra",
-  "country-code": "AD",
-  "delegation-status": [
+  "country" : "Andorra",
+  "countryCode" : "AD",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "46.172.224.0/19",
       "46.175.156.0/22",
       "80.80.84.0/22",
@@ -34,7 +34,7 @@
       "194.158.64.0/19",
       "213.236.8.0/21"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2a01:fb00::/29",
       "2a02:8060::/31"
     ]

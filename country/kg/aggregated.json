@@ -1,13 +1,13 @@
 {
-  "country": "Kyrgyzstan",
-  "country-code": "KG",
-  "delegation-status": [
+  "country" : "Kyrgyzstan",
+  "countryCode" : "KG",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "5.57.8.0/21",
       "31.3.216.0/24",
       "31.29.0.0/19",
@@ -112,7 +112,7 @@
       "217.29.16.0/20",
       "217.179.48.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:5fc::/48",
       "2001:67c:87c::/48",
       "2001:67c:12e0::/48",

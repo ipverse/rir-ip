@@ -1,13 +1,13 @@
 {
-  "country": "Bahamas",
-  "country-code": "BS",
-  "delegation-status": [
+  "country" : "Bahamas",
+  "countryCode" : "BS",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "23.128.212.0/24",
       "23.185.48.0/24",
       "23.190.112.0/24",
@@ -35,7 +35,7 @@
       "216.137.0.0/20",
       "216.181.104.0/23"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2602:80a:5000::/40",
       "2602:fc27::/36",
       "2607:300::/32",

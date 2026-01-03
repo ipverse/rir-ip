@@ -1,13 +1,13 @@
 {
-  "country": "Croatia",
-  "country-code": "HR",
-  "delegation-status": [
+  "country" : "Croatia",
+  "countryCode" : "HR",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "5.39.128.0/19",
       "5.43.160.0/19",
       "31.45.128.0/17",
@@ -265,7 +265,7 @@
       "217.14.208.0/20",
       "217.68.80.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:9a0::/48",
       "2001:678:1090::/48",
       "2001:678:10a0::/48",

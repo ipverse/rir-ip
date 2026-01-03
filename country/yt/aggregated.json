@@ -1,15 +1,15 @@
 {
-  "country": "Mayotte",
-  "country-code": "YT",
-  "delegation-status": [
+  "country" : "Mayotte",
+  "countryCode" : "YT",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.242.116.0/22"
     ],
-    "ipv6": []
+    "ipv6" : [ ]
   }
 }

@@ -1,7 +1,7 @@
 # Country: Chad (TD)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 41.242.152.0/21
 102.23.84.0/22

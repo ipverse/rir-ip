@@ -1,7 +1,7 @@
 # Country: Barbados (BB)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2600:8400::/28
 2602:fe45::/36

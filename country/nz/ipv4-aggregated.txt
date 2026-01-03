@@ -1,7 +1,7 @@
 # Country: New Zealand (NZ)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 14.1.32.0/19
 14.102.98.0/23

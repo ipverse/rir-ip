@@ -1,7 +1,7 @@
 # Country: San Marino (SM)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 5.183.163.0/24
 31.193.32.0/21

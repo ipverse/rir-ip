@@ -1,13 +1,13 @@
 {
-  "country": "North Macedonia",
-  "country-code": "MK",
-  "delegation-status": [
+  "country" : "North Macedonia",
+  "countryCode" : "MK",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "5.32.176.0/21",
       "31.3.88.0/21",
       "31.7.168.0/21",
@@ -114,7 +114,7 @@
       "217.16.64.0/19",
       "217.196.192.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:67c:a60::/48",
       "2001:7f8:cb::/48",
       "2a00:1218::/32",

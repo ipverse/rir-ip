@@ -1,7 +1,7 @@
 # Country: Faroe Islands (FO)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 46.227.112.0/21
 80.77.128.0/20

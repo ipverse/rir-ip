@@ -1,7 +1,7 @@
 # Country: Isle of Man (IM)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:7f8:fb::/48
 2a00:5540::/29

@@ -1,13 +1,13 @@
 {
-  "country": "Mexico",
-  "country-code": "MX",
-  "delegation-status": [
+  "country" : "Mexico",
+  "countryCode" : "MX",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "45.5.52.0/22",
       "45.5.92.0/22",
       "45.6.60.0/22",
@@ -799,7 +799,7 @@
       "209.35.184.0/22",
       "209.178.128.0/18"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:1200::/32",
       "2001:1201::/43",
       "2001:1202::/31",

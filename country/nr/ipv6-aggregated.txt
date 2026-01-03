@@ -1,7 +1,7 @@
 # Country: Nauru (NR)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2403:ae80::/32
 2403:f600::/32

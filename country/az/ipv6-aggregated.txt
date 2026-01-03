@@ -1,7 +1,7 @@
 # Country: Azerbaijan (AZ)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:3400::/29
 2001:3c00::/29

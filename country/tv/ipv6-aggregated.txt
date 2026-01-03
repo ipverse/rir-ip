@@ -1,7 +1,7 @@
 # Country: Tuvalu (TV)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2400:3500::/32
 2401:c720::/32

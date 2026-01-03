@@ -1,13 +1,13 @@
 {
-  "country": "Türkiye",
-  "country-code": "TR",
-  "delegation-status": [
+  "country" : "Türkiye",
+  "countryCode" : "TR",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.56.60.0/22",
       "2.56.152.0/22",
       "2.57.188.0/22",
@@ -1540,7 +1540,7 @@
       "217.195.204.0/24",
       "217.195.206.0/23"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:1a4::/48",
       "2001:678:444::/48",
       "2001:678:1144::/48",

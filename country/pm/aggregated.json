@@ -1,17 +1,17 @@
 {
-  "country": "St. Pierre \u0026 Miquelon",
-  "country-code": "PM",
-  "delegation-status": [
+  "country" : "St. Pierre & Miquelon",
+  "countryCode" : "PM",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "70.36.0.0/20",
       "142.202.130.0/23"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2604:ca40::/32"
     ]
   }

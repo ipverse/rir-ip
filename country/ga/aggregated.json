@@ -1,13 +1,13 @@
 {
-  "country": "Gabon",
-  "country-code": "GA",
-  "delegation-status": [
+  "country" : "Gabon",
+  "countryCode" : "GA",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.78.240.0/22",
       "41.158.0.0/15",
       "41.211.128.0/18",
@@ -34,7 +34,7 @@
       "197.242.0.0/19",
       "217.77.64.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:43f8:1160::/47",
       "2c0f:3800::/32",
       "2c0f:5c80::/32",

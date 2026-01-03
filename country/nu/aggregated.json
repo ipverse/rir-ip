@@ -1,17 +1,17 @@
 {
-  "country": "Niue",
-  "country-code": "NU",
-  "delegation-status": [
+  "country" : "Niue",
+  "countryCode" : "NU",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "49.156.48.0/22",
       "202.59.4.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:df0:8c::/48",
       "2402:1220::/32"
     ]

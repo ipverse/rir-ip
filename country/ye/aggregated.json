@@ -1,13 +1,13 @@
 {
-  "country": "Yemen",
-  "country-code": "YE",
-  "delegation-status": [
+  "country" : "Yemen",
+  "countryCode" : "YE",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "5.100.160.0/21",
       "5.255.0.0/19",
       "31.31.176.0/20",
@@ -38,7 +38,7 @@
       "195.94.0.0/19",
       "213.246.0.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2a02:2718::/29",
       "2a02:e280::/29",
       "2a05:3380::/29",

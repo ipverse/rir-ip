@@ -1,13 +1,13 @@
 {
-  "country": "France",
-  "country-code": "FR",
-  "delegation-status": [
+  "country" : "France",
+  "countryCode" : "FR",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "1.179.112.0/20",
       "2.3.0.0/16",
       "2.4.0.0/14",
@@ -4080,7 +4080,7 @@
       "217.197.110.0/24",
       "217.198.184.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:504:118::/48",
       "2001:660::/29",
       "2001:678:c::/48",

@@ -1,13 +1,13 @@
 {
-  "country": "Syria",
-  "country-code": "SY",
-  "delegation-status": [
+  "country" : "Syria",
+  "countryCode" : "SY",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "5.0.0.0/16",
       "5.104.128.0/21",
       "5.134.200.0/21",
@@ -205,7 +205,7 @@
       "213.217.32.0/19",
       "217.20.208.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2a00:1ee8::/32",
       "2a00:45a0::/32",
       "2a00:70a0::/32",

@@ -1,16 +1,16 @@
 {
-  "country": "Tuvalu",
-  "country-code": "TV",
-  "delegation-status": [
+  "country" : "Tuvalu",
+  "countryCode" : "TV",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "202.2.96.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2400:3500::/32",
       "2401:c720::/32"
     ]

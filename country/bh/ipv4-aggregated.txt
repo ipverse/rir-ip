@@ -1,7 +1,7 @@
 # Country: Bahrain (BH)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 31.217.249.0/24
 37.131.0.0/17

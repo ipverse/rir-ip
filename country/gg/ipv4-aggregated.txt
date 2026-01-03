@@ -1,7 +1,7 @@
 # Country: Guernsey (GG)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 45.11.144.0/22
 45.135.252.0/22

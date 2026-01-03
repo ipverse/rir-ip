@@ -1,7 +1,7 @@
 # Country: Seychelles (SC)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2.56.10.0/24
 2.56.100.0/22

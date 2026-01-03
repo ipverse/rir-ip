@@ -1,7 +1,7 @@
 # Country: French Guiana (GF)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 45.169.164.0/22
 128.201.88.0/22

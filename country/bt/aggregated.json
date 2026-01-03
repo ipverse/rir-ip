@@ -1,13 +1,13 @@
 {
-  "country": "Bhutan",
-  "country-code": "BT",
-  "delegation-status": [
+  "country" : "Bhutan",
+  "countryCode" : "BT",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "36.50.37.0/24",
       "43.229.124.0/22",
       "43.230.208.0/24",
@@ -52,7 +52,7 @@
       "202.144.128.0/19",
       "220.158.236.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:dea:4000::/47",
       "2001:deb:8000::/48",
       "2001:df0:eb80::/48",

@@ -1,13 +1,13 @@
 {
-  "country": "Sweden",
-  "country-code": "SE",
-  "delegation-status": [
+  "country" : "Sweden",
+  "countryCode" : "SE",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.0.0.0/15",
       "2.2.0.0/16",
       "2.56.28.0/22",
@@ -1991,7 +1991,7 @@
       "217.198.144.0/20",
       "217.208.0.0/13"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:ac::/48",
       "2001:678:e4::/48",
       "2001:678:130::/48",

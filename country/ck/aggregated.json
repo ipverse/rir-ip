@@ -1,17 +1,17 @@
 {
-  "country": "Cook Islands",
-  "country-code": "CK",
-  "delegation-status": [
+  "country" : "Cook Islands",
+  "countryCode" : "CK",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "116.199.200.0/23",
       "202.65.32.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2401:4d20::/32",
       "2407:5800::/32"
     ]

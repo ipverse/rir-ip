@@ -1,13 +1,13 @@
 {
-  "country": "Slovenia",
-  "country-code": "SI",
-  "delegation-status": [
+  "country" : "Slovenia",
+  "countryCode" : "SI",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.58.48.0/22",
       "2.59.118.0/24",
       "5.32.136.0/21",
@@ -538,7 +538,7 @@
       "217.72.64.0/19",
       "217.199.128.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:11c::/48",
       "2001:678:1ec::/48",
       "2001:678:29c::/48",

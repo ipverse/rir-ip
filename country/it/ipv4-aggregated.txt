@@ -1,7 +1,7 @@
 # Country: Italy (IT)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2.32.0.0/12
 2.56.92.0/22

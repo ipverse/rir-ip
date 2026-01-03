@@ -1,7 +1,7 @@
 # Country: Thailand (TH)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 1.0.128.0/17
 1.1.128.0/17

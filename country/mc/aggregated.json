@@ -1,13 +1,13 @@
 {
-  "country": "Monaco",
-  "country-code": "MC",
-  "delegation-status": [
+  "country" : "Monaco",
+  "countryCode" : "MC",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "37.44.224.0/22",
       "80.94.96.0/20",
       "82.113.0.0/19",
@@ -35,7 +35,7 @@
       "195.78.0.0/19",
       "213.133.72.0/21"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2a01:8fe0::/32",
       "2a06:92c0::/32",
       "2a07:9080::/29",

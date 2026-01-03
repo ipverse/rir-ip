@@ -1,7 +1,7 @@
 # Country: Finland (FI)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2.58.88.0/22
 2.58.220.0/22

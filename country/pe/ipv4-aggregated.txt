@@ -1,7 +1,7 @@
 # Country: Peru (PE)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 45.4.92.0/22
 45.5.56.0/22

@@ -1,7 +1,7 @@
 # Country: Israel (IL)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2.52.0.0/14
 2.57.228.0/22

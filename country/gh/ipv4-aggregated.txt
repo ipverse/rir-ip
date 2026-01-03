@@ -1,7 +1,7 @@
 # Country: Ghana (GH)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 41.66.192.0/18
 41.74.80.0/20

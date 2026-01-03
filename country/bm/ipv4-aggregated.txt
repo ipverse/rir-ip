@@ -1,7 +1,7 @@
 # Country: Bermuda (BM)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 31.47.88.0/21
 45.42.144.0/22

@@ -1,7 +1,7 @@
 # Country: Mongolia (MN)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 14.1.124.0/22
 27.123.212.0/22

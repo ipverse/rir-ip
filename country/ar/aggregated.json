@@ -1,13 +1,13 @@
 {
-  "country": "Argentina",
-  "country-code": "AR",
-  "delegation-status": [
+  "country" : "Argentina",
+  "countryCode" : "AR",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "24.152.57.0/24",
       "24.232.0.0/16",
       "45.4.97.0/24",
@@ -1603,7 +1603,7 @@
       "209.99.224.0/20",
       "216.244.192.0/18"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:1318::/32",
       "2001:1350::/32",
       "2001:13b0::/29",

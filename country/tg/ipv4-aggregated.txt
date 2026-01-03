@@ -1,7 +1,7 @@
 # Country: Togo (TG)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 41.78.136.0/22
 41.207.160.0/19

@@ -1,13 +1,13 @@
 {
-  "country": "Bulgaria",
-  "country-code": "BG",
-  "delegation-status": [
+  "country" : "Bulgaria",
+  "countryCode" : "BG",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.56.12.0/22",
       "2.56.52.0/22",
       "2.58.92.0/24",
@@ -1332,7 +1332,7 @@
       "217.174.48.0/20",
       "217.174.144.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:3c::/48",
       "2001:678:100::/48",
       "2001:678:16c::/48",

@@ -1,7 +1,7 @@
 # Country: Somalia (SO)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 41.78.72.0/22
 41.79.196.0/22

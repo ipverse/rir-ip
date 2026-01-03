@@ -1,14 +1,13 @@
 # Country: Slovakia (SK)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:678:70::/48
 2001:678:90::/48
 2001:678:9c::/48
 2001:678:108::/48
 2001:678:12c::/48
-2001:678:170::/48
 2001:678:448::/48
 2001:678:86c::/48
 2001:678:c34::/48

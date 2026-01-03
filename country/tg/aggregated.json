@@ -1,13 +1,13 @@
 {
-  "country": "Togo",
-  "country-code": "TG",
-  "delegation-status": [
+  "country" : "Togo",
+  "countryCode" : "TG",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.78.136.0/22",
       "41.207.160.0/19",
       "80.248.64.0/20",
@@ -26,7 +26,7 @@
       "196.168.0.0/14",
       "197.148.96.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:43f8:d10::/47",
       "2001:43f8:1110::/48",
       "2c0f:4080::/32",

@@ -1,13 +1,13 @@
 {
-  "country": "Belgium",
-  "country-code": "BE",
-  "delegation-status": [
+  "country" : "Belgium",
+  "countryCode" : "BE",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.56.171.0/24",
       "2.57.40.0/22",
       "2.58.108.0/22",
@@ -920,7 +920,7 @@
       "217.168.120.0/21",
       "217.196.32.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:9::/48",
       "2001:678:a::/48",
       "2001:678:64::/48",

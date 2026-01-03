@@ -1,7 +1,7 @@
 # Country: Central African Republic (CF)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 41.78.120.0/22
 41.223.184.0/22

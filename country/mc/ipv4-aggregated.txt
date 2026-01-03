@@ -1,7 +1,7 @@
 # Country: Monaco (MC)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 37.44.224.0/22
 80.94.96.0/20

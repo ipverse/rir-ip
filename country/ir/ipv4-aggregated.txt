@@ -1,7 +1,7 @@
 # Country: Iran (IR)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2.57.3.0/24
 2.144.0.0/14

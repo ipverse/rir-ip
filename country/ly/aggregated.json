@@ -1,13 +1,13 @@
 {
-  "country": "Libya",
-  "country-code": "LY",
-  "delegation-status": [
+  "country" : "Libya",
+  "countryCode" : "LY",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "5.63.0.0/21",
       "41.74.64.0/20",
       "41.208.64.0/18",
@@ -77,7 +77,7 @@
       "197.215.128.0/19",
       "197.231.228.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:43f8:50::/48",
       "2001:43f8:16b0::/48",
       "2c0f:9c0::/32",

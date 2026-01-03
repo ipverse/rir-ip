@@ -1,7 +1,7 @@
 # Country: Singapore (SG)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:208::/32
 2001:67c:38c::/48

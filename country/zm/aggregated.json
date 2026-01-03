@@ -1,13 +1,13 @@
 {
-  "country": "Zambia",
-  "country-code": "ZM",
-  "delegation-status": [
+  "country" : "Zambia",
+  "countryCode" : "ZM",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.63.0.0/18",
       "41.72.96.0/19",
       "41.77.0.0/21",
@@ -47,7 +47,7 @@
       "197.231.244.0/22",
       "213.193.32.0/21"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:43f8:140::/48",
       "2001:43f8:aa0::/48",
       "2001:43f8:da0::/48",

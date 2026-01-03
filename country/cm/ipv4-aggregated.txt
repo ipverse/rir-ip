@@ -1,7 +1,7 @@
 # Country: Cameroon (CM)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 41.77.80.0/21
 41.92.128.0/21

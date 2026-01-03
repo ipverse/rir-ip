@@ -1,13 +1,13 @@
 {
-  "country": "Timor-Leste",
-  "country-code": "TL",
-  "delegation-status": [
+  "country" : "Timor-Leste",
+  "countryCode" : "TL",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "43.243.120.0/22",
       "43.243.176.0/22",
       "43.254.56.0/22",
@@ -42,7 +42,7 @@
       "185.126.46.0/23",
       "185.242.38.0/23"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:df0:840::/48",
       "2001:df0:7a00::/48",
       "2001:df0:f980::/48",

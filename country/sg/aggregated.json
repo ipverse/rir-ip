@@ -1,13 +1,13 @@
 {
-  "country": "Singapore",
-  "country-code": "SG",
-  "delegation-status": [
+  "country" : "Singapore",
+  "countryCode" : "SG",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "1.21.224.0/19",
       "1.32.128.0/17",
       "1.178.32.0/19",
@@ -1697,7 +1697,7 @@
       "223.223.220.0/22",
       "223.255.254.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:208::/32",
       "2001:67c:38c::/48",
       "2001:c10::/32",

@@ -1,13 +1,13 @@
 {
-  "country": "South Sudan",
-  "country-code": "SS",
-  "delegation-status": [
+  "country" : "South Sudan",
+  "countryCode" : "SS",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.79.24.0/22",
       "41.79.120.0/22",
       "41.222.72.0/22",
@@ -38,7 +38,7 @@
       "196.201.8.0/22",
       "197.231.236.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:43f8:1660::/47",
       "2c0f:d80::/32",
       "2c0f:6740::/32",

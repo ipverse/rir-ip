@@ -1,7 +1,7 @@
 # Country: Palestinian Territories (PS)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:678:5f4::/48
 2001:678:dfc::/48

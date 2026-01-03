@@ -1,7 +1,7 @@
 # Country: Laos (LA)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:df0:bf::/48
 2001:df0:df80::/48

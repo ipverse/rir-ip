@@ -1,7 +1,7 @@
 # Country: Martinique (MQ)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2a02:7460::/32
 2a02:ccc0::/29

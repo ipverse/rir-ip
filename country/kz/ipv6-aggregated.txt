@@ -1,7 +1,7 @@
 # Country: Kazakhstan (KZ)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:678:98::/48
 2001:67c:9e8::/48
@@ -34,7 +34,6 @@
 2a04:3b00::/29
 2a04:4f40::/29
 2a04:5140::/29
-2a05:1640::/29
 2a05:d840::/29
 2a05:e040::/29
 2a05:f040::/29

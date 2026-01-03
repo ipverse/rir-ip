@@ -1,13 +1,13 @@
 {
-  "country": "Maldives",
-  "country-code": "MV",
-  "delegation-status": [
+  "country" : "Maldives",
+  "countryCode" : "MV",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "27.114.128.0/18",
       "36.255.104.0/23",
       "43.226.220.0/22",
@@ -54,7 +54,7 @@
       "216.183.208.0/20",
       "220.158.220.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:dde::/48",
       "2001:dec:c000::/48",
       "2001:df0:1d00::/48",

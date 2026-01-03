@@ -1,7 +1,7 @@
 # Country: Spain (ES)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 1.178.224.0/19
 2.56.64.0/22

@@ -1,13 +1,13 @@
 {
-  "country": "Bahrain",
-  "country-code": "BH",
-  "delegation-status": [
+  "country" : "Bahrain",
+  "countryCode" : "BH",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "31.217.249.0/24",
       "37.131.0.0/17",
       "45.11.72.0/22",
@@ -65,7 +65,7 @@
       "193.188.96.0/19",
       "217.17.224.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:1a40::/29",
       "2a00:6600::/29",
       "2a00:dde0::/32",

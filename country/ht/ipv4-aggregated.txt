@@ -1,7 +1,7 @@
 # Country: Haiti (HT)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 148.102.128.0/17
 161.0.128.0/19

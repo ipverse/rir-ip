@@ -1,7 +1,7 @@
 # Country: Sint Maarten (SX)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 131.161.84.0/22
 168.0.84.0/22

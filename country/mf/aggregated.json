@@ -1,13 +1,13 @@
 {
-  "country": "St. Martin",
-  "country-code": "MF",
-  "delegation-status": [
+  "country" : "St. Martin",
+  "countryCode" : "MF",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "23.138.120.0/24",
       "148.64.60.0/23",
       "149.112.46.0/23",
@@ -16,7 +16,7 @@
       "192.139.192.0/24",
       "204.27.52.0/22"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2602:fb4a::/40",
       "2602:fb4b::/40",
       "2602:ff07::/36",

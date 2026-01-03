@@ -1,13 +1,13 @@
 {
-  "country": "Austria",
-  "country-code": "AT",
-  "delegation-status": [
+  "country" : "Austria",
+  "countryCode" : "AT",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.56.160.0/22",
       "2.56.208.0/22",
       "2.57.48.0/22",
@@ -1892,7 +1892,7 @@
       "217.198.187.0/24",
       "217.199.80.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:628::/29",
       "2001:678:d::/48",
       "2001:678:1c::/48",

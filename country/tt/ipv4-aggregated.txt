@@ -1,7 +1,7 @@
 # Country: Trinidad & Tobago (TT)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 45.185.20.0/22
 45.234.164.0/22

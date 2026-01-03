@@ -1,7 +1,7 @@
 # Country: Somalia (SO)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:43f8:11a0::/47
 2001:43f8:1350::/48

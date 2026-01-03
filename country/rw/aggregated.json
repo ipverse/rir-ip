@@ -1,13 +1,13 @@
 {
-  "country": "Rwanda",
-  "country-code": "RW",
-  "delegation-status": [
+  "country" : "Rwanda",
+  "countryCode" : "RW",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.74.160.0/20",
       "41.138.80.0/21",
       "41.186.0.0/16",
@@ -38,7 +38,7 @@
       "197.234.244.0/22",
       "197.243.0.0/17"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:43f8:150::/47",
       "2001:43f8:d80::/48",
       "2001:43f8:11e0::/48",

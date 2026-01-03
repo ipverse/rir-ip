@@ -1,13 +1,13 @@
 {
-  "country": "Anguilla",
-  "country-code": "AI",
-  "delegation-status": [
+  "country" : "Anguilla",
+  "countryCode" : "AI",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "104.192.92.0/22",
       "104.193.196.0/22",
       "104.255.176.0/22",
@@ -18,7 +18,7 @@
       "204.14.248.0/21",
       "208.66.48.0/21"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2602:f871::/40",
       "2602:fd72::/36",
       "2605:6280::/32"

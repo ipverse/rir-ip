@@ -1,7 +1,7 @@
 # Country: Egypt (EG)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 41.32.0.0/12
 41.64.0.0/15

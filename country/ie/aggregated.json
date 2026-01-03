@@ -1,13 +1,13 @@
 {
-  "country": "Ireland",
-  "country-code": "IE",
-  "delegation-status": [
+  "country" : "Ireland",
+  "countryCode" : "IE",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.57.24.0/22",
       "2.58.60.0/22",
       "2.58.180.0/22",
@@ -740,7 +740,7 @@
       "217.183.0.0/16",
       "218.254.0.0/16"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:200::/48",
       "2001:678:358::/48",
       "2001:678:544::/48",

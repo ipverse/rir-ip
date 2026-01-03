@@ -1,7 +1,7 @@
 # Country: New Caledonia (NC)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:df0:77c0::/48
 2001:df3:8900::/48

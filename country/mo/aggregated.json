@@ -1,13 +1,13 @@
 {
-  "country": "Macao SAR China",
-  "country-code": "MO",
-  "delegation-status": [
+  "country" : "Macao SAR China",
+  "countryCode" : "MO",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "23.148.24.0/24",
       "27.109.128.0/17",
       "43.247.24.0/22",
@@ -40,7 +40,7 @@
       "202.175.0.0/17",
       "202.175.160.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:df5:900::/48",
       "2001:df6:4f00::/48",
       "2001:f90::/32",

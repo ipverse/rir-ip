@@ -1,17 +1,17 @@
 {
-  "country": "Norfolk Island",
-  "country-code": "NF",
-  "delegation-status": [
+  "country" : "Norfolk Island",
+  "countryCode" : "NF",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "103.43.204.0/23",
       "203.142.221.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:df0:20c::/48"
     ]
   }

@@ -1,13 +1,13 @@
 {
-  "country": "New Zealand",
-  "country-code": "NZ",
-  "delegation-status": [
+  "country" : "New Zealand",
+  "countryCode" : "NZ",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "14.1.32.0/19",
       "14.102.98.0/23",
       "14.128.4.0/22",
@@ -1290,7 +1290,7 @@
       "223.165.16.0/22",
       "223.165.64.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:25c::/48",
       "2001:67c:112c::/48",
       "2001:67c:1998::/48",

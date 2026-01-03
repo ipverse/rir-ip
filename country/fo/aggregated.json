@@ -1,13 +1,13 @@
 {
-  "country": "Faroe Islands",
-  "country-code": "FO",
-  "delegation-status": [
+  "country" : "Faroe Islands",
+  "countryCode" : "FO",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "46.227.112.0/21",
       "80.77.128.0/20",
       "81.18.224.0/20",
@@ -23,7 +23,7 @@
       "212.55.32.0/19",
       "217.172.80.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2a02:e90::/29",
       "2a03:ee00::/32",
       "2a0a:d500::/29",

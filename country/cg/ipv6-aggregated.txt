@@ -1,7 +1,7 @@
 # Country: Congo - Brazzaville (CG)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:43f8:6a0::/46
 2001:43fc:f000::/48

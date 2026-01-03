@@ -1,13 +1,13 @@
 {
-  "country": "Angola",
-  "country-code": "AO",
-  "delegation-status": [
+  "country" : "Angola",
+  "countryCode" : "AO",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.63.160.0/19",
       "41.70.128.0/17",
       "41.74.240.0/20",
@@ -148,7 +148,7 @@
       "197.241.128.0/17",
       "204.8.204.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:4250::/32",
       "2001:43f8:390::/47",
       "2001:43f8:400::/40",

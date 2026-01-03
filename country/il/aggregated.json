@@ -1,13 +1,13 @@
 {
-  "country": "Israel",
-  "country-code": "IL",
-  "delegation-status": [
+  "country" : "Israel",
+  "countryCode" : "IL",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.52.0.0/14",
       "2.57.228.0/22",
       "5.22.128.0/21",
@@ -742,7 +742,7 @@
       "217.194.158.0/23",
       "217.194.192.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:174::/48",
       "2001:678:860::/48",
       "2001:678:a3c::/48",
@@ -859,6 +859,7 @@
       "2a0e:9dc0::/29",
       "2a0e:ce00::/29",
       "2a0f:5e40::/29",
+      "2a0f:6a80::/29",
       "2a0f:6dc0::/29",
       "2a0f:7680::/29",
       "2a0f:9040::/29",

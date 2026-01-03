@@ -1,7 +1,7 @@
 # Country: Mauritania (MR)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 41.138.128.0/19
 41.188.64.0/18

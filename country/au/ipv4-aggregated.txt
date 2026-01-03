@@ -1,7 +1,7 @@
 # Country: Australia (AU)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 1.0.0.0/24
 1.0.4.0/22

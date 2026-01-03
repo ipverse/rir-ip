@@ -1,13 +1,13 @@
 {
-  "country": "Mauritius",
-  "country-code": "MU",
-  "delegation-status": [
+  "country" : "Mauritius",
+  "countryCode" : "MU",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "37.139.132.0/22",
       "41.60.0.0/16",
       "41.72.192.0/19",
@@ -126,7 +126,7 @@
       "202.123.0.0/19",
       "217.21.112.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:4238::/32",
       "2001:4248::/32",
       "2001:4290::/32",

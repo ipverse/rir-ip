@@ -1,13 +1,13 @@
 {
-  "country": "Russia",
-  "country-code": "RU",
-  "delegation-status": [
+  "country" : "Russia",
+  "countryCode" : "RU",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.56.24.0/22",
       "2.56.88.0/22",
       "2.56.180.0/22",
@@ -8534,7 +8534,7 @@
       "217.199.252.0/23",
       "217.199.254.0/24"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:640::/32",
       "2001:678:13::/48",
       "2001:678:14::/46",

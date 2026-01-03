@@ -1,15 +1,15 @@
 {
-  "country": "North Korea",
-  "country-code": "KP",
-  "delegation-status": [
+  "country" : "North Korea",
+  "countryCode" : "KP",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "175.45.176.0/22"
     ],
-    "ipv6": []
+    "ipv6" : [ ]
   }
 }

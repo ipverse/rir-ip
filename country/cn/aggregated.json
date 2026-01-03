@@ -1,13 +1,13 @@
 {
-  "country": "China",
-  "country-code": "CN",
-  "delegation-status": [
+  "country" : "China",
+  "countryCode" : "CN",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "1.0.1.0/24",
       "1.0.2.0/23",
       "1.0.8.0/21",
@@ -5507,7 +5507,7 @@
       "223.255.236.0/22",
       "223.255.252.0/23"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:250::/30",
       "2001:254::/31",
       "2001:256::/32",

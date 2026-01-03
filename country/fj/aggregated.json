@@ -1,13 +1,13 @@
 {
-  "country": "Fiji",
-  "country-code": "FJ",
-  "delegation-status": [
+  "country" : "Fiji",
+  "countryCode" : "FJ",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "27.123.128.0/18",
       "45.112.224.0/22",
       "45.117.240.0/21",
@@ -45,7 +45,7 @@
       "203.202.235.0/24",
       "210.7.0.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:dd8::/48",
       "2001:df0:91::/48",
       "2001:df2:4b00::/48",

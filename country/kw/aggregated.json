@@ -1,13 +1,13 @@
 {
-  "country": "Kuwait",
-  "country-code": "KW",
-  "delegation-status": [
+  "country" : "Kuwait",
+  "countryCode" : "KW",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "5.182.132.0/22",
       "31.203.0.0/16",
       "31.214.0.0/17",
@@ -141,7 +141,7 @@
       "213.189.64.0/19",
       "217.69.176.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:67c:7f4::/48",
       "2a00:1850::/29",
       "2a00:4520::/29",

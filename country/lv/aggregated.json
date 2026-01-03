@@ -1,13 +1,13 @@
 {
-  "country": "Latvia",
-  "country-code": "LV",
-  "delegation-status": [
+  "country" : "Latvia",
+  "countryCode" : "LV",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "2.58.16.0/22",
       "5.44.216.0/21",
       "5.45.44.0/22",
@@ -439,7 +439,7 @@
       "217.198.224.0/20",
       "217.199.96.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:b::/48",
       "2001:678:7c::/48",
       "2001:678:80::/48",

@@ -1,7 +1,7 @@
 # Country: Martinique (MQ)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 5.102.72.0/21
 80.243.240.0/20

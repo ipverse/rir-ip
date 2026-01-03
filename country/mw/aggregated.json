@@ -1,13 +1,13 @@
 {
-  "country": "Malawi",
-  "country-code": "MW",
-  "delegation-status": [
+  "country" : "Malawi",
+  "countryCode" : "MW",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "41.70.0.0/17",
       "41.75.112.0/20",
       "41.77.8.0/21",
@@ -59,7 +59,7 @@
       "196.223.27.0/24",
       "197.211.96.0/19"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:43f8:20::/48",
       "2001:43f8:380::/48",
       "2001:43f8:1130::/48",

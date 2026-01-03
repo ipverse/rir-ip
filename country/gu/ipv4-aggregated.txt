@@ -1,7 +1,7 @@
 # Country: Guam (GU)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 43.240.88.0/22
 43.247.60.0/22

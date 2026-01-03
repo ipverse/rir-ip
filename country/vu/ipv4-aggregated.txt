@@ -1,7 +1,7 @@
 # Country: Vanuatu (VU)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 103.7.197.0/24
 103.16.15.0/24

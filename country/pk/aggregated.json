@@ -1,13 +1,13 @@
 {
-  "country": "Pakistan",
-  "country-code": "PK",
-  "delegation-status": [
+  "country" : "Pakistan",
+  "countryCode" : "PK",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "14.1.104.0/22",
       "14.192.128.0/19",
       "27.0.184.0/22",
@@ -709,7 +709,7 @@
       "223.29.224.0/20",
       "223.123.0.0/17"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:dd8:1c::/48",
       "2001:dec:8000::/48",
       "2001:df0:84::/48",

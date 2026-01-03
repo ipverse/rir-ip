@@ -1,7 +1,7 @@
 # Country: Venezuela (VE)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 45.7.140.0/22
 45.68.88.0/22

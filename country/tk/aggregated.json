@@ -1,18 +1,18 @@
 {
-  "country": "Tokelau",
-  "country-code": "TK",
-  "delegation-status": [
+  "country" : "Tokelau",
+  "countryCode" : "TK",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "27.96.24.0/21",
       "194.0.38.0/23",
       "194.0.40.0/23"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:678:50::/48",
       "2001:678:54::/48",
       "2001:678:58::/48",

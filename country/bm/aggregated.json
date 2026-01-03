@@ -1,13 +1,13 @@
 {
-  "country": "Bermuda",
-  "country-code": "BM",
-  "delegation-status": [
+  "country" : "Bermuda",
+  "countryCode" : "BM",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "31.47.88.0/21",
       "45.42.144.0/22",
       "64.89.168.0/22",
@@ -56,7 +56,7 @@
       "216.239.108.0/22",
       "216.249.32.0/20"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2001:508::/32",
       "2001:4910::/32",
       "2604:140::/32",

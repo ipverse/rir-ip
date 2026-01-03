@@ -1,7 +1,7 @@
 # Country: Chad (TD)
-# IP version: IPv6
+# Address family: IPv6
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2001:43f8:16a0::/47
 2001:43fd:2000::/48

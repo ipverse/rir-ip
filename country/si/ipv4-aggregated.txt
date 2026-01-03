@@ -1,7 +1,7 @@
 # Country: Slovenia (SI)
-# IP version: IPv4
+# Address family: IPv4
 # Delegation status: Allocated || Assigned
-# Mode: Aggregated
+# Export mode: Aggregated
 #
 2.58.48.0/22
 2.59.118.0/24

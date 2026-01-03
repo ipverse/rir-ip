@@ -1,13 +1,13 @@
 {
-  "country": "Réunion",
-  "country-code": "RE",
-  "delegation-status": [
+  "country" : "Réunion",
+  "countryCode" : "RE",
+  "delegationStatus" : [
     "allocated",
     "assigned"
   ],
-  "mode": "aggregated",
-  "subnets": {
-    "ipv4": [
+  "exportMode" : "aggregated",
+  "prefixes" : {
+    "ipv4" : [
       "5.57.96.0/19",
       "41.213.128.0/17",
       "41.242.124.0/22",
@@ -33,7 +33,7 @@
       "193.56.203.0/24",
       "213.55.0.0/18"
     ],
-    "ipv6": [
+    "ipv6" : [
       "2a00:a080::/32",
       "2a0b:dc00::/29",
       "2c0f:3780::/28",
