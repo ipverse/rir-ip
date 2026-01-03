@@ -4,7 +4,8 @@
 
 Ready-to-use IPv4 and IPv6 prefixes delegated to countries (ISO 3166-1 alpha-2), sourced from all five regional internet registries (RIR).
 
-This dataset saves you from parsing RIR delegation files yourself - the prefixes are aggregated and ready to drop into firewalls, access control lists, or geo-routing configurations. Updated daily when the underlying RIR data changes, so you always have current allocations.
+This dataset saves you from parsing RIR delegation files yourself - the prefixes are aggregated and ready to drop into firewalls, access control lists, or geo-routing configurations.
+Updated daily when the underlying RIR data changes, so you always have current allocations.
 
 > **Note:** This data shows which country an IP range is *delegated to* by the RIRs. It can be used for country-level blocking and compliance, but has limitations - delegated IPs can be used in other countries or routed globally. For pinpoint geolocation (city-level, actual user location), you'll need a dedicated geolocation service.
 
