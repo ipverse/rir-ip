@@ -1,6 +1,6 @@
 # country-ip-blocks (formerly rir-ip)
 
-> **📢 Heads up:** This repo has a new name and the data format has changed. Terribly sorry but if you're using this in production, check out [MIGRATION.md](MIGRATION.md) for what you need to update. The data is provided as-is on a best-effort basis.
+> **📢 Heads up:** This repo has a new name and the data format has changed. Check out [MIGRATION.md](MIGRATION.md) for what you need to update.
 
 Ready-to-use IPv4 and IPv6 prefixes delegated to countries (ISO 3166-1 alpha-2), sourced from all five regional internet registries (RIR).
 
@@ -70,7 +70,8 @@ curl https://raw.githubusercontent.com/ipverse/country-ip-blocks/master/country/
 
 ### Want more granular control?
 
-Instead of blocking an entire geographic region, it might be more effective to block specific internet providers based on their autonomous system number (ASN). Check out [asn-ip](https://github.com/ipverse/asn-ip) for more information.
+Instead of blocking an entire geographic region, it might be more effective to block specific internet providers based 
+on their autonomous system number (ASN). Check out [as-ip-blocks](https://github.com/ipverse/as-ip-blocks) for more information.
 
 ## Use cases
 - Block entire countries at the firewall (for compliance or security reasons)
