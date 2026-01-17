@@ -46,6 +46,7 @@ Available formats: JSON and plaintext
 
 ## Recent changes
 
+- **2026-01-17**: Added bulk download archive in [releases](https://github.com/ipverse/country-ip-blocks/releases/latest)
 - **2026-01-03**: Repo renamed from `rir-ip` to `country-ip-blocks` and JSON format updated to use camelCase. Check [MIGRATION.md](MIGRATION.md) if you're already using this data.
 - 2025-05-04: Removed country code EU (non-standard code that RIPE only kept for historical reasons)
 
@@ -67,6 +68,14 @@ curl https://raw.githubusercontent.com/ipverse/country-ip-blocks/master/country/
 **Andorra IPv6 addresses:**
 ```bash
 curl https://raw.githubusercontent.com/ipverse/country-ip-blocks/master/country/ad/ipv6-aggregated.txt
+```
+
+### Bulk download
+
+Download all countries in a single archive from the [latest release](https://github.com/ipverse/country-ip-blocks/releases/latest):
+```bash
+curl -LO https://github.com/ipverse/country-ip-blocks/releases/latest/download/country-ip-blocks.tar.gz
+tar -xzf country-ip-blocks.tar.gz
 ```
 
 ### Want more granular control?
