@@ -2,6 +2,12 @@
 
 > **📢 Heads up:** This repo has a new name and the data format has changed. Check out [MIGRATION.md](MIGRATION.md) for what you need to update.
 
+## 🔍 Try it online
+
+Look up any IP address or prefix at **[Lens by ipverse](https://lens.ipverse.net)** to see its country delegation and AS information.
+
+## Overview
+
 Ready-to-use IPv4 and IPv6 prefixes delegated to countries (ISO 3166-1 alpha-2), sourced from all five regional internet registries (RIR).
 
 This dataset saves you from parsing RIR delegation files yourself - the prefixes are aggregated and ready to drop into firewalls, access control lists, or geo-routing configurations.
