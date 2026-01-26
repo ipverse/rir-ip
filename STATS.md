@@ -1,4 +1,4 @@
-# Delegation Statistics
+# country-ip-blocks Statistics
 
 | RIR | Region | Countries | IPv4 | IPv6 | Total |
 |:----|:-------|----------:|-----:|-----:|------:|
